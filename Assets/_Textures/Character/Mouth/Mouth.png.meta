@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 1db683aa5a5b3c0478d148e893ff7267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7001195004085327955
+    second: MOUTH_Ambush
+  - first:
+      213: 5468375228400747355
+    second: MOUTH_BanBan
+  - first:
+      213: 8103551995494249383
+    second: MOUTH_BlackHuggy
+  - first:
+      213: 4444995014034504007
+    second: MOUTH_BoxyBoo
+  - first:
+      213: -2526204932795510186
+    second: MOUTH_BunzoBunny
+  - first:
+      213: 6467015214167868134
+    second: MOUTH_ChooChoo
+  - first:
+      213: 710631685730082354
+    second: MOUTH_Figure
+  - first:
+      213: -234350147521987058
+    second: MOUTH_Huggy
+  - first:
+      213: 3444667664591193310
+    second: MOUTH_Jack
+  - first:
+      213: -2527963810764201298
+    second: MOUTH_Jack_1.7
+  - first:
+      213: 3023502702375288152
+    second: MOUTH_Juan
+  - first:
+      213: 215975967547577707
+    second: MOUTH_Jumbo
+  - first:
+      213: -8119994754624701881
+    second: MOUTH_Kissy
+  - first:
+      213: 8967572411583563106
+    second: MOUTH_Mommy
+  - first:
+      213: -573634632363204526
+    second: MOUTH_MsLemon
+  - first:
+      213: 8017761310244350313
+    second: MOUTH_OpilaBird
+  - first:
+      213: 4443891719958405254
+    second: MOUTH_PugPillar
+  - first:
+      213: 4263421366298968162
+    second: MOUTH_RainbowBlue
+  - first:
+      213: -8634744299604645360
+    second: MOUTH_Rush
+  - first:
+      213: 4492347719407052834
+    second: MOUTH_Screech
+  - first:
+      213: -3312374262303394279
+    second: MOUTH_SlowSeline
+  - first:
+      213: 2536393243384754119
+    second: MOUTH_AngryOpila
+  - first:
+      213: 7698596803198010500
+    second: MOUTH_Banbaleena
+  - first:
+      213: -7261891764678854561
+    second: MOUTH_Bomb
+  - first:
+      213: -3910784642181409996
+    second: MOUTH_Jeff
+  - first:
+      213: 4927337534208161749
+    second: MOUTH_Daddy
+  - first:
+      213: 1358218105025992511
+    second: MOUTH_Dracula
+  - first:
+      213: 1887145637267750032
+    second: MOUTH_Luffy
+  - first:
+      213: 7681692689427090110
+    second: MOUTH_Medusa
+  - first:
+      213: -3300691829097551295
+    second: MOUTH_Nezuko
+  - first:
+      213: 8675969913438297892
+    second: MOUTH_Pennywise
+  - first:
+      213: 7075948968553353073
+    second: MOUTH_Pumpkin
+  - first:
+      213: 5549662652629101026
+    second: MOUTH_RainbowGreen
+  - first:
+      213: 1598556514179837668
+    second: MOUTH_Saitama
+  - first:
+      213: -6263289477743750857
+    second: MOUTH_Venom
+  - first:
+      213: -1092644242299880693
+    second: MOUTH_Elephant
+  - first:
+      213: 8894892070933358038
+    second: MOUTH_Kiss
+  - first:
+      213: 2032118451312653662
+    second: MOUTH_Monster
+  - first:
+      213: 2312595969083285041
+    second: MOUTH_Monster1
+  - first:
+      213: -94421937565159844
+    second: MOUTH_Monster2
+  - first:
+      213: -6176814022080388059
+    second: MOUTH_Monster3
+  - first:
+      213: 6657325916188531761
+    second: MOUTH_Smile
+  - first:
+      213: -5639982352003629389
+    second: MOUTH_Zombie
+  - first:
+      213: 3037371533705961184
+    second: MOUTH_Frog
+  - first:
+      213: 1149333688766225151
+    second: MOUTH_BoxyClown
+  - first:
+      213: 1485021195094403425
+    second: MOUTH_HuggyTree
+  - first:
+      213: 7733785768280955373
+    second: MOUTH_Skibidi
+  - first:
+      213: -5127476674542539730
+    second: MOUTH_GrimaceShake
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MOUTH_Ambush
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 152
+        height: 260
+      alignment: 9
+      pivot: {x: 0.506579, y: 0.476923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7214adc32c6de90800000000000000
+      internalID: -7001195004085327955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_AngryOpila
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 440
+        width: 174
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.589888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf26aa6734133320800000000000000
+      internalID: 2536393243384754119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Banbaleena
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 613
+        width: 217
+        height: 223
+      alignment: 9
+      pivot: {x: 0.511521, y: 0.242152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484439be009e6da60800000000000000
+      internalID: 7698596803198010500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_BanBan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 197
+        height: 133
+      alignment: 9
+      pivot: {x: 0.456853, y: 0.503759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534f5b2c4293eb40800000000000000
+      internalID: 5468375228400747355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_BlackHuggy
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 910
+        width: 202
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3b75efa99957070800000000000000
+      internalID: 8103551995494249383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Bomb
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 897
+        width: 195
+        height: 133
+      alignment: 9
+      pivot: {x: 0.589744, y: 0.488722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587bf84ae3983b90800000000000000
+      internalID: -7261891764678854561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_BoxyBoo
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 694
+        width: 280
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b8e72a6bcfad30800000000000000
+      internalID: 4444995014034504007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_BoxyClown
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 232
+        width: 151
+        height: 149
+      alignment: 9
+      pivot: {x: 0.509934, y: 0.583893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffadc4786e043ff00800000000000000
+      internalID: 1149333688766225151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_BunzoBunny
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 162
+        height: 117
+      alignment: 9
+      pivot: {x: 0.518519, y: 0.589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65252ee7ffd11fcd0800000000000000
+      internalID: -2526204932795510186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_ChooChoo
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 925
+        width: 241
+        height: 122
+      alignment: 9
+      pivot: {x: 0.493776, y: 0.508197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c585d2147fb950800000000000000
+      internalID: 6467015214167868134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Daddy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1215
+        width: 393
+        height: 156
+      alignment: 9
+      pivot: {x: 0.491094, y: 0.352564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d73de6916b616440800000000000000
+      internalID: 4927337534208161749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Dracula
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 61
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 0.492958, y: 0.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37149d9b2c59d210800000000000000
+      internalID: 1358218105025992511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Elephant
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1049
+        width: 265
+        height: 138
+      alignment: 9
+      pivot: {x: 0.498113, y: 0.740741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf6d7c9d526d0f0800000000000000
+      internalID: -1092644242299880693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Figure
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1021
+        width: 202
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.552083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e141ac0cbacd900800000000000000
+      internalID: 710631685730082354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Frog
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 620
+        width: 290
+        height: 72
+      alignment: 9
+      pivot: {x: 0.496552, y: 0.277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee5d653159e62a20800000000000000
+      internalID: 3037371533705961184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_GrimaceShake
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 810
+        width: 236
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4957627, y: 0.43529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c6acb812b87d8b0800000000000000
+      internalID: -5127476674542539730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Huggy
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 695
+        width: 272
+        height: 113
+      alignment: 9
+      pivot: {x: 0.514706, y: 0.495575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e34ef48cb6fbcf0800000000000000
+      internalID: -234350147521987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_HuggyTree
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 50
+        width: 156
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692781b8eadb9410800000000000000
+      internalID: 1485021195094403425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Jack
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 249
+        width: 189
+        height: 134
+      alignment: 9
+      pivot: {x: 0.518519, y: 0.246269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48b358dfaedcf20800000000000000
+      internalID: 3444667664591193310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Jeff
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 838
+        width: 268
+        height: 176
+      alignment: 9
+      pivot: {x: 0.507463, y: 0.301136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43359b1961a1ab9c0800000000000000
+      internalID: -3910784642181409996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Juan
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 734
+        width: 167
+        height: 93
+      alignment: 9
+      pivot: {x: 0.532934, y: 0.483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d338840b3a5f920800000000000000
+      internalID: 3023502702375288152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Jumbo
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 809
+        width: 204
+        height: 99
+      alignment: 9
+      pivot: {x: 0.504902, y: 0.515152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65d1b98ffc4ff200800000000000000
+      internalID: 215975967547577707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Kiss
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 174
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5eb6b1631017b70800000000000000
+      internalID: 8894892070933358038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Kissy
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 589
+        width: 222
+        height: 104
+      alignment: 9
+      pivot: {x: 0.490991, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3f80dacbff4f80800000000000000
+      internalID: -8119994754624701881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Luffy
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 383
+        width: 176
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb5c465fc703a10800000000000000
+      internalID: 1887145637267750032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Medusa
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 263
+        width: 174
+        height: 175
+      alignment: 9
+      pivot: {x: 0.505747, y: 0.782857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba440b3dcada9a60800000000000000
+      internalID: 7681692689427090110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Mommy
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 73
+        width: 130
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.431818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265080a9897337c70800000000000000
+      internalID: 8967572411583563106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Monster
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 150
+        height: 144
+      alignment: 9
+      pivot: {x: 0.51049, y: 0.697183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55f10007f8833c10800000000000000
+      internalID: 2032118451312653662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Monster1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 151
+        width: 161
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e953ef7cdf71020800000000000000
+      internalID: 2312595969083285041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Monster2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 152
+        height: 105
+      alignment: 9
+      pivot: {x: 0.522293, y: 0.518182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eac608fbb80bef0800000000000000
+      internalID: -94421937565159844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Monster3
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 829
+        width: 184
+        height: 94
+      alignment: 9
+      pivot: {x: 0.502762, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5242f328f5c874aa0800000000000000
+      internalID: -6176814022080388059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_MsLemon
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 119
+        width: 149
+        height: 74
+      alignment: 9
+      pivot: {x: 0.503356, y: 0.351351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502123575a0a08f0800000000000000
+      internalID: -573634632363204526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Nezuko
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 604
+        width: 205
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2b9de4469132d0800000000000000
+      internalID: -3300691829097551295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_OpilaBird
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 422
+        width: 124
+        height: 189
+      alignment: 9
+      pivot: {x: 0.506849, y: 0.774775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9692cf68e6fc44f60800000000000000
+      internalID: 8017761310244350313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Pennywise
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 195
+        width: 139
+        height: 90
+      alignment: 9
+      pivot: {x: 0.510791, y: 0.644444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f57744bac376870800000000000000
+      internalID: 8675969913438297892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_PugPillar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1016
+        width: 270
+        height: 197
+      alignment: 9
+      pivot: {x: 0.503704, y: 0.573604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680ab6c79ffdbad30800000000000000
+      internalID: 4443891719958405254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Pumpkin
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 481
+        width: 211
+        height: 69
+      alignment: 9
+      pivot: {x: 0.507109, y: 0.536232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0a6fc812d23260800000000000000
+      internalID: 7075948968553353073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_RainbowBlue
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 456
+        width: 215
+        height: 131
+      alignment: 9
+      pivot: {x: 0.511628, y: 0.740458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2608f02e427ba2b30800000000000000
+      internalID: 4263421366298968162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_RainbowGreen
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 181
+        height: 213
+      alignment: 9
+      pivot: {x: 0.480663, y: 0.765258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a53977cc540d40800000000000000
+      internalID: 5549662652629101026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Rush
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1189
+        width: 243
+        height: 182
+      alignment: 9
+      pivot: {x: 0.510288, y: 0.263736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6cbfeec93b2880800000000000000
+      internalID: -8634744299604645360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Saitama
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 678
+        width: 166
+        height: 54
+      alignment: 9
+      pivot: {x: 0.481928, y: 0.425926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee631d1ea63f2610800000000000000
+      internalID: 1598556514179837668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Screech
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1218
+        width: 301
+        height: 153
+      alignment: 9
+      pivot: {x: 0.51495, y: 0.372549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282bc60376085e30800000000000000
+      internalID: 4492347719407052834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Skibidi
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 287
+        width: 140
+        height: 94
+      alignment: 9
+      pivot: {x: 0.514286, y: 0.329787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de99b5f4e2de35b60800000000000000
+      internalID: 7733785768280955373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_SlowSeline
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 385
+        width: 225
+        height: 69
+      alignment: 9
+      pivot: {x: 0.506881, y: 0.453782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916724c78251802d0800000000000000
+      internalID: -3312374262303394279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Smile
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 552
+        width: 181
+        height: 50
+      alignment: 9
+      pivot: {x: 0.497238, y: 0.365385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c5b6416a2936c50800000000000000
+      internalID: 6657325916188531761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Venom
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1032
+        width: 195
+        height: 184
+      alignment: 9
+      pivot: {x: 0.502564, y: 0.641304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73154a187635419a0800000000000000
+      internalID: -6263289477743750857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOUTH_Zombie
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 156
+        width: 169
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef959cee1cab1b0800000000000000
+      internalID: -5639982352003629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MOUTH_Ambush: -7001195004085327955
+      MOUTH_Venom: -6263289477743750857
+      MOUTH_HuggyTree: 1485021195094403425
+      MOUTH_Juan: 3023502702375288152
+      MOUTH_PugPillar: 4443891719958405254
+      MOUTH_Elephant: -1092644242299880693
+      MOUTH_Monster2: -94421937565159844
+      MOUTH_OpilaBird: 8017761310244350313
+      MOUTH_Banbaleena: 7698596803198010500
+      MOUTH_BunzoBunny: -2526204932795510186
+      MOUTH_Medusa: 7681692689427090110
+      MOUTH_Jack: 3444667664591193310
+      MOUTH_RainbowGreen: 5549662652629101026
+      MOUTH_Screech: 4492347719407052834
+      MOUTH_Rush: -8634744299604645360
+      MOUTH_ChooChoo: 6467015214167868134
+      MOUTH_Jumbo: 215975967547577707
+      MOUTH_BoxyClown: 1149333688766225151
+      MOUTH_Pennywise: 8675969913438297892
+      MOUTH_Pumpkin: 7075948968553353073
+      MOUTH_Jeff: -3910784642181409996
+      MOUTH_Huggy: -234350147521987058
+      MOUTH_Dracula: 1358218105025992511
+      MOUTH_Kiss: 8894892070933358038
+      MOUTH_BoxyBoo: 4444995014034504007
+      MOUTH_Kissy: -8119994754624701881
+      MOUTH_Luffy: 1887145637267750032
+      MOUTH_MsLemon: -573634632363204526
+      MOUTH_Mommy: 8967572411583563106
+      MOUTH_SlowSeline: -3312374262303394279
+      MOUTH_BanBan: 5468375228400747355
+      MOUTH_Smile: 6657325916188531761
+      MOUTH_AngryOpila: 2536393243384754119
+      MOUTH_Figure: 710631685730082354
+      MOUTH_Frog: 3037371533705961184
+      MOUTH_Daddy: 4927337534208161749
+      MOUTH_Monster3: -6176814022080388059
+      MOUTH_Nezuko: -3300691829097551295
+      MOUTH_Bomb: -7261891764678854561
+      MOUTH_Skibidi: 7733785768280955373
+      MOUTH_Monster1: 2312595969083285041
+      MOUTH_Monster: 2032118451312653662
+      MOUTH_RainbowBlue: 4263421366298968162
+      MOUTH_GrimaceShake: -5127476674542539730
+      MOUTH_BlackHuggy: 8103551995494249383
+      MOUTH_Zombie: -5639982352003629389
+      MOUTH_Saitama: 1598556514179837668
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

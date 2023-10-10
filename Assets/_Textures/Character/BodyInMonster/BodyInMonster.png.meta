@@ -1,0 +1,1645 @@
+fileFormatVersion: 2
+guid: ee44400c5c0449e4187ba385e56bef7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8033834924676627777
+    second: BODY_Banbaleena
+  - first:
+      213: -1730083506691835088
+    second: BODY_BanBan
+  - first:
+      213: 5050825232867797021
+    second: BODY_BoxyBoo
+  - first:
+      213: -31599737480250019
+    second: BODY_Figure
+  - first:
+      213: 8382034279492797924
+    second: BODY_Huggy
+  - first:
+      213: 940584654271851540
+    second: BODY_Jumbo
+  - first:
+      213: -5022446543872384795
+    second: BODY_Mommy
+  - first:
+      213: -7521069638912945335
+    second: BODY_Poppy
+  - first:
+      213: -5753344053049164269
+    second: BODY_PugPillar
+  - first:
+      213: 9173278778993274736
+    second: BODY_RainbowBlue
+  - first:
+      213: -5076074490791448089
+    second: BODY_Seek
+  - first:
+      213: -6140594445640234159
+    second: BODY_StingerFlynn
+  - first:
+      213: 7554500736044828171
+    second: Body-BODY_Banbaleena
+  - first:
+      213: 8141349375889674229
+    second: Body-BODY_BanBan
+  - first:
+      213: -1657402215827905518
+    second: Body-BODY_BoxyBoo
+  - first:
+      213: 6356841959754672010
+    second: Body-BODY_Figure
+  - first:
+      213: -6231435031328505116
+    second: Body-BODY_Huggy
+  - first:
+      213: 692408314824357717
+    second: Body-BODY_Jumbo
+  - first:
+      213: 1946398175663208600
+    second: Body-BODY_Mommy
+  - first:
+      213: -990693465754534587
+    second: Body-BODY_Poppy
+  - first:
+      213: -818816580676916458
+    second: Body-BODY_PugPillar
+  - first:
+      213: 4693960007837597326
+    second: Body-BODY_RainbowBlue
+  - first:
+      213: -4761335673057856678
+    second: Body-BODY_Seek
+  - first:
+      213: 4246001837234213255
+    second: Body-BODY_StingerFlynn
+  - first:
+      213: -4222630565045811680
+    second: BODY_BunzoBunny
+  - first:
+      213: -4555389753993699927
+    second: BODY_Juan
+  - first:
+      213: 489923787519955114
+    second: BODY_Kissy
+  - first:
+      213: -6742078393913639591
+    second: BODY_Sheriff
+  - first:
+      213: -63804220680003658
+    second: BODY_SlowSeline
+  - first:
+      213: 5011064898186886066
+    second: BODY_SquidGame
+  - first:
+      213: 6759116496066870455
+    second: BODY_Amanda
+  - first:
+      213: -8338365189310423727
+    second: BODY_AmandaxPoppy
+  - first:
+      213: -139143166016211531
+    second: BODY_Apple
+  - first:
+      213: -5605279528764162200
+    second: BODY_ArmyToilet
+  - first:
+      213: 2051302821736864772
+    second: BODY_Banana
+  - first:
+      213: 7558448394986399584
+    second: BODY_BanBanxJuan
+  - first:
+      213: -5095177952345933784
+    second: BODY_BigFoot
+  - first:
+      213: -2311045597347891169
+    second: BODY_BlackHuggy
+  - first:
+      213: 6603586474216265572
+    second: BODY_BlackHuggyxKissy
+  - first:
+      213: 1906344802642720503
+    second: BODY_BoxyClown
+  - first:
+      213: -7089389186212050017
+    second: BODY_BoxyxHuggy
+  - first:
+      213: -6477853982893961415
+    second: BODY_Daddy
+  - first:
+      213: 4657913748127386486
+    second: BODY_DaddyxMommy
+  - first:
+      213: 7084584975686148896
+    second: BODY_Doge
+  - first:
+      213: -4457551720969229569
+    second: BODY_Doll
+  - first:
+      213: 6915638426052118805
+    second: BODY_DollxHuggy
+  - first:
+      213: 8445629339833829343
+    second: BODY_DollxWednesday
+  - first:
+      213: -2945530877732677950
+    second: BODY_Dracula
+  - first:
+      213: 7640286516613524202
+    second: BODY_FigurexBunzo
+  - first:
+      213: 4812229737522033349
+    second: BODY_Frog
+  - first:
+      213: -722323040182659941
+    second: BODY_Gojo
+  - first:
+      213: 6774355811746104765
+    second: BODY_GrimaceShake
+  - first:
+      213: -8867328593407900425
+    second: BODY_Hellboy
+  - first:
+      213: 1195432921594368460
+    second: BODY_HuggyTree
+  - first:
+      213: -6073739244174484161
+    second: BODY_HuggyxBanbaleena
+  - first:
+      213: 8228956547152531342
+    second: BODY_IT
+  - first:
+      213: -351827817379796448
+    second: BODY_JumboxRainbowBlue
+  - first:
+      213: -6340514401924882244
+    second: BODY_Medusa
+  - first:
+      213: -5438948285919085186
+    second: BODY_MommyCandy
+  - first:
+      213: 5023884031949287389
+    second: BODY_Mummy
+  - first:
+      213: -9090182314394261549
+    second: BODY_NabNab
+  - first:
+      213: 1848922906774910117
+    second: BODY_OpilaBird
+  - first:
+      213: 5312719908461291158
+    second: BODY_Peach
+  - first:
+      213: 5606214980245413677
+    second: BODY_RainbowGreen
+  - first:
+      213: -685594793944149299
+    second: BODY_ScarecrowHuggy
+  - first:
+      213: -1909095285687451011
+    second: BODY_Skull
+  - first:
+      213: 1670552704274289405
+    second: BODY_SpiderToilet
+  - first:
+      213: 3820263184372314559
+    second: BODY_Toilet
+  - first:
+      213: 1180067753006577377
+    second: BODY_Venom
+  - first:
+      213: 7986990823563881443
+    second: BODY_WaterMelon
+  - first:
+      213: 1725926296536038066
+    second: BODY_Wednesday
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_Amanda
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 958
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7c8f44a43dcd50800000000000000
+      internalID: 6759116496066870455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_AmandaxPoppy
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 746
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d5ba3f90d284c80800000000000000
+      internalID: -8338365189310423727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Apple
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 108
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b53ea8170aa11ef0800000000000000
+      internalID: -139143166016211531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_ArmyToilet
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1065
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3e3577fb0632b0800000000000000
+      internalID: -5605279528764162200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Banana
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 95
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd1605c01b77c10800000000000000
+      internalID: 2051302821736864772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Banbaleena
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 745
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3a758c4aed7f60800000000000000
+      internalID: 8033834924676627777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BanBan
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 746
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bfedf87328df7e0800000000000000
+      internalID: -1730083506691835088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BanBanxJuan
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 742
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672944d4c005e860800000000000000
+      internalID: 7558448394986399584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BigFoot
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 955
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b403d5aa4a49b0800000000000000
+      internalID: -5095177952345933784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BlackHuggy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 642
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18395e06448defd0800000000000000
+      internalID: -2311045597347891169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BlackHuggyxKissy
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 740
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671c3739e6a4ab50800000000000000
+      internalID: 6603586474216265572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BoxyBoo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 855
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182aa3f9c2281640800000000000000
+      internalID: 5050825232867797021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BoxyClown
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 180
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67eec6f72b47a10800000000000000
+      internalID: 1906344802642720503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BoxyxHuggy
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 641
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bc559a81e6d9d90800000000000000
+      internalID: -7089389186212050017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_BunzoBunny
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 531
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ccb0afd33665c0800000000000000
+      internalID: -4222630565045811680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Daddy
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 854
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f81caaf1a0a16a0800000000000000
+      internalID: -6477853982893961415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_DaddyxMommy
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 853
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b8a8f00eb34a040800000000000000
+      internalID: 4657913748127386486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Doge
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 296
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023a7d8ef70815260800000000000000
+      internalID: 7084584975686148896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Doll
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 852
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaa2bfa3589322c0800000000000000
+      internalID: -4457551720969229569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_DollxHuggy
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 531
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c0e3028849ff50800000000000000
+      internalID: 6915638426052118805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_DollxWednesday
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 849
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd789614327e43570800000000000000
+      internalID: 8445629339833829343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Dracula
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69cc5d54f5f17d0800000000000000
+      internalID: -2945530877732677950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Figure
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 639
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d7e78c43cbf8ff0800000000000000
+      internalID: -31599737480250019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_FigurexBunzo
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 639
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa4fc5b10c70a60800000000000000
+      internalID: 7640286516613524202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Frog
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 166
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27292337978c240800000000000000
+      internalID: 4812229737522033349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Gojo
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 422
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9415d0a50bc9f5f0800000000000000
+      internalID: -722323040182659941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_GrimaceShake
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ca3df7b8530e50800000000000000
+      internalID: 6774355811746104765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Hellboy
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1064
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4024b10abe0f480800000000000000
+      internalID: -8867328593407900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Huggy
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 847
+        width: 45
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c05c64c7f25470800000000000000
+      internalID: 8382034279492797924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_HuggyTree
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1061
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1907498e7079010800000000000000
+      internalID: 1195432921594368460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_HuggyxBanbaleena
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 530
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d51a4665eb5bba0800000000000000
+      internalID: -6073739244174484161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_IT
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 960
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fc6297160233270800000000000000
+      internalID: 8228956547152531342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Juan
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 959
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad50cb772108c0c0800000000000000
+      internalID: -4555389753993699927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Jumbo
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 527
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cae0772c0ad0d00800000000000000
+      internalID: 940584654271851540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_JumboxRainbowBlue
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 638
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae9f2d67e0e1bf0800000000000000
+      internalID: -351827817379796448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Kissy
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 525
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0142ac61f8cc600800000000000000
+      internalID: 489923787519955114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Medusa
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e404beb7f108a0800000000000000
+      internalID: -6340514401924882244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Mommy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 749
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e029197a7fac4ab0800000000000000
+      internalID: -5022446543872384795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_MommyCandy
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 308
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db21ac959f484b0800000000000000
+      internalID: -5438948285919085186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Mummy
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 417
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf281dc8eb68b540800000000000000
+      internalID: 5023884031949287389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_NabNab
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 303
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7edfec85f29d180800000000000000
+      internalID: -9090182314394261549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_OpilaBird
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 83
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5126051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b6637691b8a910800000000000000
+      internalID: 1848922906774910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Peach
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 110
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6962bf6db929ab940800000000000000
+      internalID: 5312719908461291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Poppy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435e91030bcf9790800000000000000
+      internalID: -7521069638912945335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_PugPillar
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 421
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef567f0140820b0800000000000000
+      internalID: -5753344053049164269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_RainbowBlue
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 635
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe58782780e4f70800000000000000
+      internalID: 9173278778993274736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_RainbowGreen
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 534
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f500052d64dcd40800000000000000
+      internalID: 5606214980245413677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_ScarecrowHuggy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc21a17da274c76f0800000000000000
+      internalID: -685594793944149299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Seek
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 633
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e134f215292e89b0800000000000000
+      internalID: -5076074490791448089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Sheriff
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 423
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df0fafb635f62a0800000000000000
+      internalID: -6742078393913639591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Skull
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 414
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720a36d3f78185e0800000000000000
+      internalID: -1909095285687451011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_SlowSeline
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 412
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf923b36625d1ff0800000000000000
+      internalID: -63804220680003658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_SpiderToilet
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1066
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df256d465defe2710800000000000000
+      internalID: 1670552704274289405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_SquidGame
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 853
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbbbd2a9f0ea8540800000000000000
+      internalID: 5011064898186886066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_StingerFlynn
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1064
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b80edc2e938caa0800000000000000
+      internalID: -6140594445640234159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Toilet
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1065
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b305202d440530800000000000000
+      internalID: 3820263184372314559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Venom
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 748
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6b9dc7e51706010800000000000000
+      internalID: 1180067753006577377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_WaterMelon
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb64de46dd77de60800000000000000
+      internalID: 7986990823563881443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Wednesday
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 310
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba398582d8b3f710800000000000000
+      internalID: 1725926296536038066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BODY_Figure: -31599737480250019
+      BODY_Mommy: -5022446543872384795
+      BODY_Sheriff: -6742078393913639591
+      BODY_Poppy: -7521069638912945335
+      BODY_Dracula: -2945530877732677950
+      BODY_Wednesday: 1725926296536038066
+      BODY_BoxyBoo: 5050825232867797021
+      BODY_RainbowBlue: 9173278778993274736
+      BODY_Seek: -5076074490791448089
+      BODY_JumboxRainbowBlue: -351827817379796448
+      BODY_BoxyxHuggy: -7089389186212050017
+      BODY_Toilet: 3820263184372314559
+      BODY_Medusa: -6340514401924882244
+      BODY_Banbaleena: 8033834924676627777
+      BODY_Venom: 1180067753006577377
+      BODY_SquidGame: 5011064898186886066
+      BODY_SpiderToilet: 1670552704274289405
+      BODY_BlackHuggy: -2311045597347891169
+      BODY_Huggy: 8382034279492797924
+      BODY_PugPillar: -5753344053049164269
+      BODY_IT: 8228956547152531342
+      BODY_Peach: 5312719908461291158
+      BODY_Daddy: -6477853982893961415
+      BODY_AmandaxPoppy: -8338365189310423727
+      BODY_Doge: 7084584975686148896
+      BODY_StingerFlynn: -6140594445640234159
+      BODY_NabNab: -9090182314394261549
+      BODY_Banana: 2051302821736864772
+      BODY_BlackHuggyxKissy: 6603586474216265572
+      BODY_Doll: -4457551720969229569
+      BODY_Skull: -1909095285687451011
+      BODY_Gojo: -722323040182659941
+      BODY_HuggyxBanbaleena: -6073739244174484161
+      BODY_Mummy: 5023884031949287389
+      BODY_RainbowGreen: 5606214980245413677
+      BODY_Amanda: 6759116496066870455
+      BODY_Kissy: 489923787519955114
+      BODY_Hellboy: -8867328593407900425
+      BODY_MommyCandy: -5438948285919085186
+      BODY_Frog: 4812229737522033349
+      BODY_GrimaceShake: 6774355811746104765
+      BODY_HuggyTree: 1195432921594368460
+      BODY_DollxHuggy: 6915638426052118805
+      BODY_FigurexBunzo: 7640286516613524202
+      BODY_DaddyxMommy: 4657913748127386486
+      BODY_OpilaBird: 1848922906774910117
+      BODY_ArmyToilet: -5605279528764162200
+      BODY_ScarecrowHuggy: -685594793944149299
+      BODY_WaterMelon: 7986990823563881443
+      BODY_BanBanxJuan: 7558448394986399584
+      BODY_SlowSeline: -63804220680003658
+      BODY_BunzoBunny: -4222630565045811680
+      BODY_BanBan: -1730083506691835088
+      BODY_BigFoot: -5095177952345933784
+      BODY_Juan: -4555389753993699927
+      BODY_Jumbo: 940584654271851540
+      BODY_Apple: -139143166016211531
+      BODY_DollxWednesday: 8445629339833829343
+      BODY_BoxyClown: 1906344802642720503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

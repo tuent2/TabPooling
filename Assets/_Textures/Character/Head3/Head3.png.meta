@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 6a85ab7c8e67d2c4085e858bbac5682c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5751750341368225513
+    second: HEAD_BigToilet
+  - first:
+      213: 2120308484556095470
+    second: HEAD_BossToilet
+  - first:
+      213: 7461431818157902147
+    second: HEAD_CameraMan
+  - first:
+      213: 3280970586143294719
+    second: HEAD_CamoToilet
+  - first:
+      213: -7143573520904568175
+    second: HEAD_DJToilet
+  - first:
+      213: 5261560350563054711
+    second: HEAD_GreenToilet
+  - first:
+      213: 7725176754117844475
+    second: HEAD_MafiaToilet
+  - first:
+      213: 3581457354639573462
+    second: HEAD_MiniCamera
+  - first:
+      213: 7120767847283948507
+    second: HEAD_RobberToilet
+  - first:
+      213: -4664220913035484973
+    second: HEAD_Thanos
+  - first:
+      213: -8090505182486631554
+    second: HEAD_TVMan
+  - first:
+      213: 8033547611164273644
+    second: HEAD_WhiteCamera
+  - first:
+      213: 6983305399869018680
+    second: HEAD_WofferMan
+  - first:
+      213: 6311577409675769078
+    second: HEAD_GrimaceShake
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HEAD_BigToilet
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1
+        width: 203
+        height: 271
+      alignment: 9
+      pivot: {x: 0.512315, y: 0.04059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e302e98dad20b0800000000000000
+      internalID: -5751750341368225513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_BossToilet
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 72
+        width: 197
+        height: 267
+      alignment: 9
+      pivot: {x: 0.507614, y: 0.044944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef76343559dc6d10800000000000000
+      internalID: 2120308484556095470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_CameraMan
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 451
+        height: 349
+      alignment: 9
+      pivot: {x: 0.505543, y: 0.022923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349491dc4b45c8760800000000000000
+      internalID: 7461431818157902147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_CamoToilet
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 29
+        width: 203
+        height: 274
+      alignment: 9
+      pivot: {x: 0.497537, y: 0.051095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff483916d59588d20800000000000000
+      internalID: 3280970586143294719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_DJToilet
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 305
+        width: 277
+        height: 310
+      alignment: 9
+      pivot: {x: 0.509025, y: 0.035484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c8932bbdecdc90800000000000000
+      internalID: -7143573520904568175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_GreenToilet
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1
+        width: 251
+        height: 302
+      alignment: 9
+      pivot: {x: 0.501992, y: 0.039735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774379b0341d40940800000000000000
+      internalID: 5261560350563054711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_GrimaceShake
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 341
+        width: 348
+        height: 274
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.01459854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ba14c63a379750800000000000000
+      internalID: 6311577409675769078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_MafiaToilet
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1
+        width: 203
+        height: 271
+      alignment: 9
+      pivot: {x: 0.512315, y: 0.03321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9c400457553b60800000000000000
+      internalID: 7725176754117844475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_MiniCamera
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 361
+        height: 237
+      alignment: 9
+      pivot: {x: 0.498615, y: 0.059072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d180891d74e3b130800000000000000
+      internalID: 3581457354639573462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_RobberToilet
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 28
+        width: 208
+        height: 275
+      alignment: 9
+      pivot: {x: 0.485577, y: 0.029091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf16131ac02d260800000000000000
+      internalID: 7120767847283948507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Thanos
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5
+        width: 250
+        height: 287
+      alignment: 9
+      pivot: {x: 0.496, y: 0.045296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0629caacb554fb0800000000000000
+      internalID: -4664220913035484973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_TVMan
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 305
+        width: 332
+        height: 310
+      alignment: 9
+      pivot: {x: 0.487952, y: 0.064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b6d60e660c8bf80800000000000000
+      internalID: -8090505182486631554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_WhiteCamera
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 274
+        width: 355
+        height: 341
+      alignment: 9
+      pivot: {x: 0.509859, y: 0.038123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb62a12df4ec7f60800000000000000
+      internalID: 8033547611164273644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_WofferMan
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 294
+        width: 209
+        height: 321
+      alignment: 9
+      pivot: {x: 0.492823, y: 0.049844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329245134fa9e060800000000000000
+      internalID: 6983305399869018680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HEAD_DJToilet: -7143573520904568175
+      HEAD_GrimaceShake: 6311577409675769078
+      HEAD_WofferMan: 6983305399869018680
+      HEAD_WhiteCamera: 8033547611164273644
+      HEAD_BossToilet: 2120308484556095470
+      HEAD_CameraMan: 7461431818157902147
+      HEAD_MiniCamera: 3581457354639573462
+      HEAD_BigToilet: -5751750341368225513
+      HEAD_Thanos: -4664220913035484973
+      HEAD_CamoToilet: 3280970586143294719
+      HEAD_RobberToilet: 7120767847283948507
+      HEAD_MafiaToilet: 7725176754117844475
+      HEAD_GreenToilet: 5261560350563054711
+      HEAD_TVMan: -8090505182486631554
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

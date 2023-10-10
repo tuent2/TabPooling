@@ -1,0 +1,4201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f76ed6dc5aa33b41b9592e63331178a, type: 3}
+  m_Name: AllSlotsInBodyData
+  m_EditorClassIdentifier: 
+  headSlots:
+  - name: HEAD_BanBan
+    id: 1
+    typeOfBody: 0
+    indexSort: 1
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Banbaleena
+    id: 2
+    typeOfBody: 0
+    indexSort: 2
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Jumbo
+    id: 3
+    typeOfBody: 0
+    indexSort: 3
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Jumbo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_StingerFlynn
+    id: 4
+    typeOfBody: 0
+    indexSort: 5
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_StingerFlynn
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Sheriff
+    id: 5
+    typeOfBody: 0
+    indexSort: 6
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Sheriff
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_OpilaBird
+    id: 6
+    typeOfBody: 0
+    indexSort: 14
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_OpilaBird
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_ChooChoo
+    id: 7
+    typeOfBody: 0
+    indexSort: 15
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_ChooChoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Juan
+    id: 8
+    typeOfBody: 0
+    indexSort: 16
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Juan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RainbowBlue
+    id: 9
+    typeOfBody: 0
+    indexSort: 17
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_RainbowBlue
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Huggy
+    id: 10
+    typeOfBody: 0
+    indexSort: 18
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BunzoBunny
+    id: 11
+    typeOfBody: 0
+    indexSort: 19
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Kissy
+    id: 12
+    typeOfBody: 0
+    indexSort: 20
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Mommy
+    id: 13
+    typeOfBody: 0
+    indexSort: 21
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BoxyBoo
+    id: 14
+    typeOfBody: 0
+    indexSort: 22
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BoxyBoo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_MsLemon
+    id: 15
+    typeOfBody: 0
+    indexSort: 23
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_MsLemon
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_PugPillar
+    id: 16
+    typeOfBody: 0
+    indexSort: 24
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_PugPillar
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Seek
+    id: 17
+    typeOfBody: 0
+    indexSort: 25
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Seek
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Figure
+    id: 18
+    typeOfBody: 0
+    indexSort: 26
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Figure
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Ambush
+    id: 19
+    typeOfBody: 0
+    indexSort: 27
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Rush
+    id: 20
+    typeOfBody: 0
+    indexSort: 28
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Rush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_SlowSeline
+    id: 21
+    typeOfBody: 0
+    indexSort: 29
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_SlowSeline
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Poppy
+    id: 22
+    typeOfBody: 0
+    indexSort: 30
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Poppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_NabNab
+    id: 23
+    typeOfBody: 0
+    indexSort: 31
+    sprite: {fileID: 8467388191929527434, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_NabNab
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Bomb
+    id: 24
+    typeOfBody: 0
+    indexSort: 32
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Bomb
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Wednesday
+    id: 25
+    typeOfBody: 0
+    indexSort: 33
+    sprite: {fileID: -6596644950355499520, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Wednesday
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Halt
+    id: 26
+    typeOfBody: 0
+    indexSort: 34
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Halt
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Amanda
+    id: 27
+    typeOfBody: 0
+    indexSort: 35
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Amanda
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Skull
+    id: 28
+    typeOfBody: 0
+    indexSort: 36
+    sprite: {fileID: -5616258701671300904, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Skull
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Medusa
+    id: 29
+    typeOfBody: 0
+    indexSort: 37
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Medusa
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Frankenstein
+    id: 30
+    typeOfBody: 0
+    indexSort: 38
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Frankenstein
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Daddy
+    id: 31
+    typeOfBody: 0
+    indexSort: 39
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Daddy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RainbowGreen
+    id: 32
+    typeOfBody: 0
+    indexSort: 40
+    sprite: {fileID: 4425785133038835775, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Pumpkin
+    id: 33
+    typeOfBody: 0
+    indexSort: 41
+    sprite: {fileID: -7520479597342730204, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Pumpkin
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Dracula
+    id: 34
+    typeOfBody: 0
+    indexSort: 42
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Dracula
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Venom
+    id: 35
+    typeOfBody: 0
+    indexSort: 43
+    sprite: {fileID: -4309791098653423935, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Pennywise
+    id: 36
+    typeOfBody: 0
+    indexSort: 44
+    sprite: {fileID: 24306096431438552, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Pennywise
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Saitama
+    id: 37
+    typeOfBody: 0
+    indexSort: 45
+    sprite: {fileID: 6616940714207927533, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Saitama
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BlackHuggy
+    id: 38
+    typeOfBody: 0
+    indexSort: 46
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BlackHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Gojo
+    id: 39
+    typeOfBody: 0
+    indexSort: 47
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Gojo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Doll
+    id: 40
+    typeOfBody: 0
+    indexSort: 48
+    sprite: {fileID: -6906080094967337089, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Doll
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Mummy
+    id: 41
+    typeOfBody: 0
+    indexSort: 49
+    sprite: {fileID: 3426385732993537700, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Mummy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_StinerFlynnxJumbo
+    id: 42
+    typeOfBody: 0
+    indexSort: 50
+    sprite: {fileID: -7052843815049294889, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_StinerFlynnxJumbo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BlackHuggyxStingerFlynn
+    id: 43
+    typeOfBody: 0
+    indexSort: 51
+    sprite: {fileID: -8994099127975898140, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BlackHuggyxStingerFlynn
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_PugPillarxBunzo
+    id: 44
+    typeOfBody: 0
+    indexSort: 52
+    sprite: {fileID: -3171366231646666864, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_PugPillarxBunzo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_HuggyxMommy
+    id: 45
+    typeOfBody: 0
+    indexSort: 53
+    sprite: {fileID: 1740726387001542510, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_HuggyxMommy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_BanBanxBanbaleena
+    id: 46
+    typeOfBody: 0
+    indexSort: 54
+    sprite: {fileID: -2836311808500735916, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BanBanxBanbaleena
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_DaddyxBoxy
+    id: 47
+    typeOfBody: 0
+    indexSort: 55
+    sprite: {fileID: -373245204609860289, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_DaddyxBoxy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_PugPillarxAmanda
+    id: 48
+    typeOfBody: 0
+    indexSort: 56
+    sprite: {fileID: -8340657258907222352, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_PugPillarxAmanda
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Frog
+    id: 49
+    typeOfBody: 0
+    indexSort: 57
+    sprite: {fileID: 175255662214923767, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Frog
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Doge
+    id: 50
+    typeOfBody: 0
+    indexSort: 58
+    sprite: {fileID: -5448894238137457900, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Doge
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_MommyCandy
+    id: 51
+    typeOfBody: 0
+    indexSort: 59
+    sprite: {fileID: -7460534797822998856, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_MommyCandy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_HuggyTree
+    id: 52
+    typeOfBody: 0
+    indexSort: 60
+    sprite: {fileID: 2890651575636576492, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_HuggyTree
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_ScarecrowHuggy
+    id: 53
+    typeOfBody: 0
+    indexSort: 61
+    sprite: {fileID: -1852763966837798930, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_ScarecrowHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_BoxyClown
+    id: 54
+    typeOfBody: 0
+    indexSort: 62
+    sprite: {fileID: -3355538258731921721, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BoxyClown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_CameraMen
+    id: 55
+    typeOfBody: 0
+    indexSort: 63
+    sprite: {fileID: -6521839706893230235, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_CameraMen
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Skibidi
+    id: 56
+    typeOfBody: 0
+    indexSort: 64
+    sprite: {fileID: -140237757729120166, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Skibidi
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_WofferMan
+    id: 57
+    typeOfBody: 0
+    indexSort: 7
+    sprite: {fileID: 6983305399869018680, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_WofferMan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_WhiteCamera
+    id: 58
+    typeOfBody: 0
+    indexSort: 8
+    sprite: {fileID: 8033547611164273644, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_WhiteCamera
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_DJToilet
+    id: 59
+    typeOfBody: 0
+    indexSort: 9
+    sprite: {fileID: -7143573520904568175, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_DJToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Thanos
+    id: 60
+    typeOfBody: 0
+    indexSort: 10
+    sprite: {fileID: -4664220913035484973, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_Thanos
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_BossToilet
+    id: 61
+    typeOfBody: 0
+    indexSort: 11
+    sprite: {fileID: 2120308484556095470, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_BossToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_CamoToilet
+    id: 62
+    typeOfBody: 0
+    indexSort: 12
+    sprite: {fileID: 3280970586143294719, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_CamoToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RobberToilet
+    id: 63
+    typeOfBody: 0
+    indexSort: 13
+    sprite: {fileID: 7120767847283948507, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_RobberToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_GrimaceShake
+    id: 64
+    typeOfBody: 0
+    indexSort: 4
+    sprite: {fileID: 6311577409675769078, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  eyeSlots:
+  - name: EYE_BanBan
+    id: 1
+    typeOfBody: 1
+    indexSort: 1
+    sprite: {fileID: 3644589176882191556, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Banbaleena
+    id: 2
+    typeOfBody: 1
+    indexSort: 2
+    sprite: {fileID: 7561753070858786867, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Jumbo
+    id: 3
+    typeOfBody: 1
+    indexSort: 4
+    sprite: {fileID: 2569737364092123618, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Jumbo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_StingerFlynn
+    id: 4
+    typeOfBody: 1
+    indexSort: 5
+    sprite: {fileID: -4548726760868561860, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_StingerFlynn
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Sheriff
+    id: 5
+    typeOfBody: 1
+    indexSort: 6
+    sprite: {fileID: -2195051432610868523, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sheriff
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_OpilaBird
+    id: 6
+    typeOfBody: 1
+    indexSort: 7
+    sprite: {fileID: -3753841895155840492, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_OpilaBird
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_ChooChoo
+    id: 7
+    typeOfBody: 1
+    indexSort: 8
+    sprite: {fileID: -8938491471386570686, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_ChooChoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Juan
+    id: 8
+    typeOfBody: 1
+    indexSort: 9
+    sprite: {fileID: 1058650964479422210, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Juan
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_RainbowBlue
+    id: 9
+    typeOfBody: 1
+    indexSort: 10
+    sprite: {fileID: -2488576793476876412, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Huggy
+    id: 10
+    typeOfBody: 1
+    indexSort: 11
+    sprite: {fileID: 5196684375108022056, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_BunzoBunny
+    id: 11
+    typeOfBody: 1
+    indexSort: 12
+    sprite: {fileID: 5343460305990886456, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BunzoBunny
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Kissy
+    id: 12
+    typeOfBody: 1
+    indexSort: 13
+    sprite: {fileID: 8989680652938249690, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Mommy
+    id: 13
+    typeOfBody: 1
+    indexSort: 14
+    sprite: {fileID: -5398720820267230960, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Mommy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Rush
+    id: 14
+    typeOfBody: 1
+    indexSort: 15
+    sprite: {fileID: -3666552157517619369, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Rush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_MsLemon
+    id: 15
+    typeOfBody: 1
+    indexSort: 16
+    sprite: {fileID: -7445549639720540220, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_MsLemon
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_PugPillar
+    id: 16
+    typeOfBody: 1
+    indexSort: 17
+    sprite: {fileID: -7108056675577136234, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_PugPillar
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Seek
+    id: 17
+    typeOfBody: 1
+    indexSort: 18
+    sprite: {fileID: 1616544902164013957, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Seek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_NabNab
+    id: 18
+    typeOfBody: 1
+    indexSort: 19
+    sprite: {fileID: 8027759674342978049, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_NabNab
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Ambush
+    id: 19
+    typeOfBody: 1
+    indexSort: 20
+    sprite: {fileID: -6961307617546722521, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_SlowSeline
+    id: 20
+    typeOfBody: 1
+    indexSort: 21
+    sprite: {fileID: -4165471437320080914, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_SlowSeline
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_EYES
+    id: 21
+    typeOfBody: 1
+    indexSort: 22
+    sprite: {fileID: -8379194587325233997, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_EYES
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Jeff
+    id: 22
+    typeOfBody: 1
+    indexSort: 23
+    sprite: {fileID: 2741974692211257342, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Jeff
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Frog
+    id: 23
+    typeOfBody: 1
+    indexSort: 24
+    sprite: {fileID: -8183552462395232947, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Frog
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Sharingan
+    id: 24
+    typeOfBody: 1
+    indexSort: 25
+    sprite: {fileID: 1278411883672900689, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sharingan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Halt
+    id: 25
+    typeOfBody: 1
+    indexSort: 26
+    sprite: {fileID: 1566618186851721680, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Halt
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Skull
+    id: 26
+    typeOfBody: 1
+    indexSort: 27
+    sprite: {fileID: -6140763290311798011, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Skull
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Medusa
+    id: 27
+    typeOfBody: 1
+    indexSort: 28
+    sprite: {fileID: -1033216927526503599, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Medusa
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Gojo
+    id: 28
+    typeOfBody: 1
+    indexSort: 29
+    sprite: {fileID: -6720702389571546215, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Gojo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Nezuko
+    id: 29
+    typeOfBody: 1
+    indexSort: 30
+    sprite: {fileID: 4227861665251088820, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Nezuko
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Pumpkin
+    id: 30
+    typeOfBody: 1
+    indexSort: 31
+    sprite: {fileID: 6535264354827543274, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Pumpkin
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Naruto
+    id: 31
+    typeOfBody: 1
+    indexSort: 32
+    sprite: {fileID: -6133612011973381584, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Naruto
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_BlackHuggy
+    id: 32
+    typeOfBody: 1
+    indexSort: 33
+    sprite: {fileID: 2169966139150081511, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlackHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_RainbowGreen
+    id: 33
+    typeOfBody: 1
+    indexSort: 34
+    sprite: {fileID: -419978229785732475, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_RainbowGreen
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Pennywise
+    id: 34
+    typeOfBody: 1
+    indexSort: 35
+    sprite: {fileID: -598258569751655992, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Pennywise
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_BlingNabNab
+    id: 35
+    typeOfBody: 1
+    indexSort: 36
+    sprite: {fileID: -5034482126003047358, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlingNabNab
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Love
+    id: 36
+    typeOfBody: 1
+    indexSort: 37
+    sprite: {fileID: -61466495011969422, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Love
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_BlingSeek
+    id: 37
+    typeOfBody: 1
+    indexSort: 38
+    sprite: {fileID: -222406741430129068, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlingSeek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Daddy
+    id: 38
+    typeOfBody: 1
+    indexSort: 39
+    sprite: {fileID: 9031632171746318122, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Venom
+    id: 39
+    typeOfBody: 1
+    indexSort: 40
+    sprite: {fileID: -8397061031152950572, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Venom
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Saitama
+    id: 40
+    typeOfBody: 1
+    indexSort: 41
+    sprite: {fileID: -3232812855359031617, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Saitama
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Zombie
+    id: 41
+    typeOfBody: 1
+    indexSort: 42
+    sprite: {fileID: 6701612767397540090, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Zombie
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster
+    id: 42
+    typeOfBody: 1
+    indexSort: 43
+    sprite: {fileID: -4121715156227758161, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster1
+    id: 43
+    typeOfBody: 1
+    indexSort: 44
+    sprite: {fileID: -2043691548479859794, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster1
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster2
+    id: 44
+    typeOfBody: 1
+    indexSort: 45
+    sprite: {fileID: -1514296451179120057, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster2
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Anya
+    id: 45
+    typeOfBody: 1
+    indexSort: 46
+    sprite: {fileID: 1450535106434460770, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Anya
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Monster3
+    id: 46
+    typeOfBody: 1
+    indexSort: 47
+    sprite: {fileID: -1570621147295275812, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster3
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Monster4
+    id: 47
+    typeOfBody: 1
+    indexSort: 48
+    sprite: {fileID: 5613442782202310969, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster4
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Sasuke
+    id: 48
+    typeOfBody: 1
+    indexSort: 49
+    sprite: {fileID: 6051496205269537704, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sasuke
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_GrimaceShake
+    id: 49
+    typeOfBody: 1
+    indexSort: 3
+    sprite: {fileID: -7959902467724857472, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  mouthSlots:
+  - name: MOUTH_BanBan
+    id: 1
+    typeOfBody: 2
+    indexSort: 1
+    sprite: {fileID: 5468375228400747355, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Jumbo
+    id: 2
+    typeOfBody: 2
+    indexSort: 47
+    sprite: {fileID: 215975967547577707, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jumbo
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_SlowSeline
+    id: 3
+    typeOfBody: 2
+    indexSort: 3
+    sprite: {fileID: -3312374262303394279, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_SlowSeline
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_MsLemon
+    id: 4
+    typeOfBody: 2
+    indexSort: 46
+    sprite: {fileID: -573634632363204526, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_MsLemon
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_OpilaBird
+    id: 5
+    typeOfBody: 2
+    indexSort: 5
+    sprite: {fileID: 8017761310244350313, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_OpilaBird
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_ChooChoo
+    id: 6
+    typeOfBody: 2
+    indexSort: 6
+    sprite: {fileID: 6467015214167868134, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_ChooChoo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Juan
+    id: 7
+    typeOfBody: 2
+    indexSort: 7
+    sprite: {fileID: 3023502702375288152, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Juan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_RainbowBlue
+    id: 8
+    typeOfBody: 2
+    indexSort: 8
+    sprite: {fileID: 4263421366298968162, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Huggy
+    id: 9
+    typeOfBody: 2
+    indexSort: 9
+    sprite: {fileID: -234350147521987058, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BunzoBunny
+    id: 10
+    typeOfBody: 2
+    indexSort: 10
+    sprite: {fileID: -2526204932795510186, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Kissy
+    id: 11
+    typeOfBody: 2
+    indexSort: 11
+    sprite: {fileID: -8119994754624701881, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Mommy
+    id: 12
+    typeOfBody: 2
+    indexSort: 12
+    sprite: {fileID: 8967572411583563106, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BoxyBoo
+    id: 13
+    typeOfBody: 2
+    indexSort: 13
+    sprite: {fileID: 4444995014034504007, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BoxyBoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BlackHuggy
+    id: 14
+    typeOfBody: 2
+    indexSort: 14
+    sprite: {fileID: 8103551995494249383, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BlackHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_PugPillar
+    id: 15
+    typeOfBody: 2
+    indexSort: 15
+    sprite: {fileID: 4443891719958405254, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_PugPillar
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Jack
+    id: 16
+    typeOfBody: 2
+    indexSort: 16
+    sprite: {fileID: 3444667664591193310, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jack
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Figure
+    id: 17
+    typeOfBody: 2
+    indexSort: 17
+    sprite: {fileID: 710631685730082354, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Figure
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Ambush
+    id: 18
+    typeOfBody: 2
+    indexSort: 18
+    sprite: {fileID: -7001195004085327955, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Rush
+    id: 19
+    typeOfBody: 2
+    indexSort: 19
+    sprite: {fileID: -8634744299604645360, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Rush
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Screech
+    id: 20
+    typeOfBody: 2
+    indexSort: 20
+    sprite: {fileID: 4492347719407052834, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Screech
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_AngryOpila
+    id: 21
+    typeOfBody: 2
+    indexSort: 21
+    sprite: {fileID: 2536393243384754119, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_AngryOpila
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Jeff
+    id: 22
+    typeOfBody: 2
+    indexSort: 22
+    sprite: {fileID: -3910784642181409996, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jeff
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Bomb
+    id: 23
+    typeOfBody: 2
+    indexSort: 23
+    sprite: {fileID: -7261891764678854561, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Bomb
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Banbaleena
+    id: 24
+    typeOfBody: 2
+    indexSort: 24
+    sprite: {fileID: 7698596803198010500, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Saitama
+    id: 25
+    typeOfBody: 2
+    indexSort: 25
+    sprite: {fileID: 1598556514179837668, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Saitama
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Luffy
+    id: 26
+    typeOfBody: 2
+    indexSort: 26
+    sprite: {fileID: 1887145637267750032, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Luffy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Medusa
+    id: 27
+    typeOfBody: 2
+    indexSort: 27
+    sprite: {fileID: 7681692689427090110, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Medusa
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Nezuko
+    id: 28
+    typeOfBody: 2
+    indexSort: 28
+    sprite: {fileID: -3300691829097551295, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Nezuko
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Pumpkin
+    id: 29
+    typeOfBody: 2
+    indexSort: 29
+    sprite: {fileID: 7075948968553353073, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Pumpkin
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Pennywise
+    id: 30
+    typeOfBody: 2
+    indexSort: 30
+    sprite: {fileID: 8675969913438297892, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Pennywise
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Daddy
+    id: 31
+    typeOfBody: 2
+    indexSort: 31
+    sprite: {fileID: 4927337534208161749, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Venom
+    id: 32
+    typeOfBody: 2
+    indexSort: 32
+    sprite: {fileID: -6263289477743750857, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Dracula
+    id: 33
+    typeOfBody: 2
+    indexSort: 33
+    sprite: {fileID: 1358218105025992511, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Dracula
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_RainbowGreen
+    id: 34
+    typeOfBody: 2
+    indexSort: 34
+    sprite: {fileID: 5549662652629101026, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster
+    id: 35
+    typeOfBody: 2
+    indexSort: 35
+    sprite: {fileID: 2032118451312653662, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Kiss
+    id: 36
+    typeOfBody: 2
+    indexSort: 36
+    sprite: {fileID: 8894892070933358038, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Kiss
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster1
+    id: 37
+    typeOfBody: 2
+    indexSort: 37
+    sprite: {fileID: 2312595969083285041, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster1
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Zombie
+    id: 38
+    typeOfBody: 2
+    indexSort: 38
+    sprite: {fileID: -5639982352003629389, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Zombie
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster2
+    id: 39
+    typeOfBody: 2
+    indexSort: 39
+    sprite: {fileID: -94421937565159844, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster2
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster3
+    id: 40
+    typeOfBody: 2
+    indexSort: 40
+    sprite: {fileID: -6176814022080388059, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster3
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Elephant
+    id: 41
+    typeOfBody: 2
+    indexSort: 41
+    sprite: {fileID: -1092644242299880693, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Elephant
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Smile
+    id: 42
+    typeOfBody: 2
+    indexSort: 42
+    sprite: {fileID: 6657325916188531761, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Smile
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Frog
+    id: 43
+    typeOfBody: 2
+    indexSort: 43
+    sprite: {fileID: 3037371533705961184, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Frog
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_HuggyTree
+    id: 44
+    typeOfBody: 2
+    indexSort: 44
+    sprite: {fileID: 1485021195094403425, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_HuggyTree
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_BoxyClown
+    id: 45
+    typeOfBody: 2
+    indexSort: 45
+    sprite: {fileID: 1149333688766225151, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BoxyClown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Skibidi
+    id: 46
+    typeOfBody: 2
+    indexSort: 4
+    sprite: {fileID: 7733785768280955373, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Skibidi
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_GrimaceShake
+    id: 47
+    typeOfBody: 2
+    indexSort: 2
+    sprite: {fileID: -5127476674542539730, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  accSlots:
+  - name: ACC_Banbaleena
+    id: 1
+    typeOfBody: 3
+    indexSort: 1
+    sprite: {fileID: 4555259180753764237, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_RainbowBlue
+    id: 2
+    typeOfBody: 3
+    indexSort: 2
+    sprite: {fileID: 2147269095680132359, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_BunzoBunny
+    id: 3
+    typeOfBody: 3
+    indexSort: 3
+    sprite: {fileID: 3487170154754361081, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_OpilaBird
+    id: 4
+    typeOfBody: 3
+    indexSort: 4
+    sprite: {fileID: 849691858833648354, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_OpilaBird
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Wednesday
+    id: 5
+    typeOfBody: 3
+    indexSort: 5
+    sprite: {fileID: -5117911472676533037, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Wednesday
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_BanBan
+    id: 6
+    typeOfBody: 3
+    indexSort: 6
+    sprite: {fileID: -5175653972872349576, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Timothy
+    id: 7
+    typeOfBody: 3
+    indexSort: 40
+    sprite: {fileID: -6538395948000915759, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Timothy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Screech
+    id: 8
+    typeOfBody: 3
+    indexSort: 41
+    sprite: {fileID: 761714325731950932, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Screech
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Pirate
+    id: 9
+    typeOfBody: 3
+    indexSort: 42
+    sprite: {fileID: -2704904494896387247, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pirate
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Huggy
+    id: 10
+    typeOfBody: 3
+    indexSort: 10
+    sprite: {fileID: -8876003478590601924, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Huggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Crown
+    id: 11
+    typeOfBody: 3
+    indexSort: 11
+    sprite: {fileID: -696095002893847226, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Crown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Pochita
+    id: 12
+    typeOfBody: 3
+    indexSort: 12
+    sprite: {fileID: -1985324381712023019, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pochita
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Naruto
+    id: 13
+    typeOfBody: 3
+    indexSort: 13
+    sprite: {fileID: -7905193905080974633, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Naruto
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Chopper
+    id: 14
+    typeOfBody: 3
+    indexSort: 14
+    sprite: {fileID: 2431458101205254967, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Chopper
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Maleficent
+    id: 15
+    typeOfBody: 3
+    indexSort: 15
+    sprite: {fileID: -7353636396862192646, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Maleficent
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_MsLemon
+    id: 16
+    typeOfBody: 3
+    indexSort: 16
+    sprite: {fileID: 2010109496963312272, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_MsLemon
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Sheriff
+    id: 17
+    typeOfBody: 3
+    indexSort: 17
+    sprite: {fileID: -3707015782705153985, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Sheriff
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_TrollFace
+    id: 18
+    typeOfBody: 3
+    indexSort: 18
+    sprite: {fileID: 8646953558054122867, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_TrollFace
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Straw
+    id: 19
+    typeOfBody: 3
+    indexSort: 19
+    sprite: {fileID: 1827287366408146533, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Straw
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Banana
+    id: 20
+    typeOfBody: 3
+    indexSort: 20
+    sprite: {fileID: -1366143296382107570, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Banana
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Knife
+    id: 21
+    typeOfBody: 3
+    indexSort: 21
+    sprite: {fileID: 5908768779175150477, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Knife
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Satan
+    id: 22
+    typeOfBody: 3
+    indexSort: 22
+    sprite: {fileID: -4808932048171605863, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Satan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Pijama
+    id: 23
+    typeOfBody: 3
+    indexSort: 23
+    sprite: {fileID: 6402219643616986018, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pijama
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Nose
+    id: 24
+    typeOfBody: 3
+    indexSort: 24
+    sprite: {fileID: 6629855054191324092, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Nose
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Axe
+    id: 25
+    typeOfBody: 3
+    indexSort: 25
+    sprite: {fileID: -8107814107165497542, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Axe
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Rabit
+    id: 26
+    typeOfBody: 3
+    indexSort: 26
+    sprite: {fileID: -147589437233791301, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Rabit
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Carrot
+    id: 27
+    typeOfBody: 3
+    indexSort: 27
+    sprite: {fileID: 272059139634954855, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Carrot
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Cat
+    id: 28
+    typeOfBody: 3
+    indexSort: 28
+    sprite: {fileID: -2709250887620971893, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Cat
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_WC
+    id: 29
+    typeOfBody: 3
+    indexSort: 29
+    sprite: {fileID: 1449350946778428273, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_WC
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Shark
+    id: 30
+    typeOfBody: 3
+    indexSort: 30
+    sprite: {fileID: -3577712135663483822, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Shark
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Tree
+    id: 31
+    typeOfBody: 3
+    indexSort: 31
+    sprite: {fileID: 5630515164630415127, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Tree
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Valak
+    id: 32
+    typeOfBody: 3
+    indexSort: 32
+    sprite: {fileID: -4114419995716697436, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Valak
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Glass
+    id: 33
+    typeOfBody: 3
+    indexSort: 33
+    sprite: {fileID: 3680907101972952042, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Glass
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Noel
+    id: 34
+    typeOfBody: 3
+    indexSort: 34
+    sprite: {fileID: 8009449001936249847, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Noel
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Witch
+    id: 35
+    typeOfBody: 3
+    indexSort: 35
+    sprite: {fileID: 6545626383104460872, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Witch
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Gangster
+    id: 36
+    typeOfBody: 3
+    indexSort: 36
+    sprite: {fileID: -6046427626171967685, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Gangster
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Anya
+    id: 37
+    typeOfBody: 3
+    indexSort: 37
+    sprite: {fileID: 6292997888545306878, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Anya
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Angel
+    id: 38
+    typeOfBody: 3
+    indexSort: 38
+    sprite: {fileID: -8200033787769366700, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Angel
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Clown
+    id: 39
+    typeOfBody: 3
+    indexSort: 39
+    sprite: {fileID: -4127606608833328373, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Clown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_BoxyClown
+    id: 40
+    typeOfBody: 3
+    indexSort: 7
+    sprite: {fileID: -3154015141017216971, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BoxyClown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_ScarecrowHuggy
+    id: 41
+    typeOfBody: 3
+    indexSort: 8
+    sprite: {fileID: -6399948369796737576, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_ScarecrowHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_HeadPhone
+    id: 42
+    typeOfBody: 3
+    indexSort: 9
+    sprite: {fileID: 3726527820945429528, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_HeadPhone
+    stateOfSlot: 0
+    priceGold: 0
+  bodySlots:
+  - name: BODY_BanBan
+    id: 1
+    typeOfBody: 4
+    indexSort: 1
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Banbaleena
+    id: 2
+    typeOfBody: 4
+    indexSort: 2
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Jumbo
+    id: 3
+    typeOfBody: 4
+    indexSort: 59
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Jumbo
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_StingerFlynn
+    id: 4
+    typeOfBody: 4
+    indexSort: 55
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_StingerFlynn
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Sheriff
+    id: 5
+    typeOfBody: 4
+    indexSort: 56
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Sheriff
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_OpilaBird
+    id: 6
+    typeOfBody: 4
+    indexSort: 57
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_OpilaBird
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_SquidGame
+    id: 7
+    typeOfBody: 4
+    indexSort: 58
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SquidGame
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Juan
+    id: 8
+    typeOfBody: 4
+    indexSort: 46
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Juan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_RainbowBlue
+    id: 9
+    typeOfBody: 4
+    indexSort: 47
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_RainbowBlue
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Huggy
+    id: 10
+    typeOfBody: 4
+    indexSort: 48
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Huggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BunzoBunny
+    id: 11
+    typeOfBody: 4
+    indexSort: 49
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Kissy
+    id: 12
+    typeOfBody: 4
+    indexSort: 50
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Kissy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Mommy
+    id: 13
+    typeOfBody: 4
+    indexSort: 17
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyBoo
+    id: 14
+    typeOfBody: 4
+    indexSort: 18
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyBoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Poppy
+    id: 15
+    typeOfBody: 4
+    indexSort: 19
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Poppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_PugPillar
+    id: 16
+    typeOfBody: 4
+    indexSort: 20
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_PugPillar
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Seek
+    id: 17
+    typeOfBody: 4
+    indexSort: 51
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Seek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Figure
+    id: 18
+    typeOfBody: 4
+    indexSort: 52
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Figure
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_NabNab
+    id: 19
+    typeOfBody: 4
+    indexSort: 53
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_NabNab
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_SlowSeline
+    id: 20
+    typeOfBody: 4
+    indexSort: 54
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SlowSeline
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_BlackHuggy
+    id: 21
+    typeOfBody: 4
+    indexSort: 21
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BlackHuggy
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Doll
+    id: 22
+    typeOfBody: 4
+    indexSort: 22
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Doll
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_IT
+    id: 23
+    typeOfBody: 4
+    indexSort: 23
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_IT
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Hellboy
+    id: 24
+    typeOfBody: 4
+    indexSort: 24
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Hellboy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Daddy
+    id: 25
+    typeOfBody: 4
+    indexSort: 25
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Amanda
+    id: 26
+    typeOfBody: 4
+    indexSort: 26
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Amanda
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Wednesday
+    id: 27
+    typeOfBody: 4
+    indexSort: 27
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Wednesday
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Medusa
+    id: 28
+    typeOfBody: 4
+    indexSort: 28
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Medusa
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Skull
+    id: 29
+    typeOfBody: 4
+    indexSort: 29
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Skull
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_RainbowGreen
+    id: 30
+    typeOfBody: 4
+    indexSort: 30
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BigFoot
+    id: 31
+    typeOfBody: 4
+    indexSort: 31
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BigFoot
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Venom
+    id: 32
+    typeOfBody: 4
+    indexSort: 32
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Dracula
+    id: 33
+    typeOfBody: 4
+    indexSort: 33
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Dracula
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Gojo
+    id: 34
+    typeOfBody: 4
+    indexSort: 34
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Gojo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Mummy
+    id: 35
+    typeOfBody: 4
+    indexSort: 35
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Mummy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_FigurexBunzo
+    id: 36
+    typeOfBody: 4
+    indexSort: 36
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_FigurexBunzo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DollxHuggy
+    id: 37
+    typeOfBody: 4
+    indexSort: 37
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DollxHuggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BlackHuggyxKissy
+    id: 38
+    typeOfBody: 4
+    indexSort: 38
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BlackHuggyxKissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DaddyxMommy
+    id: 39
+    typeOfBody: 4
+    indexSort: 39
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DaddyxMommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_JumboxRainbowBlue
+    id: 40
+    typeOfBody: 4
+    indexSort: 40
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_JumboxRainbowBlue
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_BanBanxJuan
+    id: 41
+    typeOfBody: 4
+    indexSort: 41
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BanBanxJuan
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_HuggyxBanbaleena
+    id: 42
+    typeOfBody: 4
+    indexSort: 42
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_HuggyxBanbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DollxWednesday
+    id: 43
+    typeOfBody: 4
+    indexSort: 43
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DollxWednesday
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_AmandaxPoppy
+    id: 44
+    typeOfBody: 4
+    indexSort: 44
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_AmandaxPoppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyxHuggy
+    id: 45
+    typeOfBody: 4
+    indexSort: 45
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyxHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Toilet
+    id: 46
+    typeOfBody: 4
+    indexSort: 8
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Toilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_SpiderToilet
+    id: 47
+    typeOfBody: 4
+    indexSort: 9
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SpiderToilet
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_ArmyToilet
+    id: 48
+    typeOfBody: 4
+    indexSort: 10
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_ArmyToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Frog
+    id: 49
+    typeOfBody: 4
+    indexSort: 11
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Frog
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Doge
+    id: 50
+    typeOfBody: 4
+    indexSort: 12
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Doge
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyClown
+    id: 51
+    typeOfBody: 4
+    indexSort: 13
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyClown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_MommyCandy
+    id: 52
+    typeOfBody: 4
+    indexSort: 14
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_MommyCandy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_HuggyTree
+    id: 53
+    typeOfBody: 4
+    indexSort: 15
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_HuggyTree
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_ScarecrowHuggy
+    id: 54
+    typeOfBody: 4
+    indexSort: 16
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_ScarecrowHuggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Banana
+    id: 55
+    typeOfBody: 4
+    indexSort: 4
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Banana
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Peach
+    id: 56
+    typeOfBody: 4
+    indexSort: 5
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Peach
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Apple
+    id: 57
+    typeOfBody: 4
+    indexSort: 6
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Apple
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_WaterMelon
+    id: 58
+    typeOfBody: 4
+    indexSort: 7
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_WaterMelon
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_GrimaceShake
+    id: 59
+    typeOfBody: 4
+    indexSort: 3
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  headSlotsSorted:
+  - name: HEAD_BanBan
+    id: 1
+    typeOfBody: 0
+    indexSort: 1
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Banbaleena
+    id: 2
+    typeOfBody: 0
+    indexSort: 2
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Jumbo
+    id: 3
+    typeOfBody: 0
+    indexSort: 3
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Jumbo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_GrimaceShake
+    id: 64
+    typeOfBody: 0
+    indexSort: 4
+    sprite: {fileID: 6311577409675769078, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_StingerFlynn
+    id: 4
+    typeOfBody: 0
+    indexSort: 5
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_StingerFlynn
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Sheriff
+    id: 5
+    typeOfBody: 0
+    indexSort: 6
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Sheriff
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_WofferMan
+    id: 57
+    typeOfBody: 0
+    indexSort: 7
+    sprite: {fileID: 6983305399869018680, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_WofferMan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_WhiteCamera
+    id: 58
+    typeOfBody: 0
+    indexSort: 8
+    sprite: {fileID: 8033547611164273644, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_WhiteCamera
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_DJToilet
+    id: 59
+    typeOfBody: 0
+    indexSort: 9
+    sprite: {fileID: -7143573520904568175, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_DJToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Thanos
+    id: 60
+    typeOfBody: 0
+    indexSort: 10
+    sprite: {fileID: -4664220913035484973, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_Thanos
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_BossToilet
+    id: 61
+    typeOfBody: 0
+    indexSort: 11
+    sprite: {fileID: 2120308484556095470, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_BossToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_CamoToilet
+    id: 62
+    typeOfBody: 0
+    indexSort: 12
+    sprite: {fileID: 3280970586143294719, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_CamoToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RobberToilet
+    id: 63
+    typeOfBody: 0
+    indexSort: 13
+    sprite: {fileID: 7120767847283948507, guid: 6a85ab7c8e67d2c4085e858bbac5682c, type: 3}
+    skinSkeletonDataAsset: HEAD_RobberToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_OpilaBird
+    id: 6
+    typeOfBody: 0
+    indexSort: 14
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_OpilaBird
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_ChooChoo
+    id: 7
+    typeOfBody: 0
+    indexSort: 15
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_ChooChoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Juan
+    id: 8
+    typeOfBody: 0
+    indexSort: 16
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Juan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RainbowBlue
+    id: 9
+    typeOfBody: 0
+    indexSort: 17
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_RainbowBlue
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Huggy
+    id: 10
+    typeOfBody: 0
+    indexSort: 18
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BunzoBunny
+    id: 11
+    typeOfBody: 0
+    indexSort: 19
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Kissy
+    id: 12
+    typeOfBody: 0
+    indexSort: 20
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Mommy
+    id: 13
+    typeOfBody: 0
+    indexSort: 21
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BoxyBoo
+    id: 14
+    typeOfBody: 0
+    indexSort: 22
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BoxyBoo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_MsLemon
+    id: 15
+    typeOfBody: 0
+    indexSort: 23
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_MsLemon
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_PugPillar
+    id: 16
+    typeOfBody: 0
+    indexSort: 24
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_PugPillar
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Seek
+    id: 17
+    typeOfBody: 0
+    indexSort: 25
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Seek
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Figure
+    id: 18
+    typeOfBody: 0
+    indexSort: 26
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Figure
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Ambush
+    id: 19
+    typeOfBody: 0
+    indexSort: 27
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Rush
+    id: 20
+    typeOfBody: 0
+    indexSort: 28
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Rush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_SlowSeline
+    id: 21
+    typeOfBody: 0
+    indexSort: 29
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_SlowSeline
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Poppy
+    id: 22
+    typeOfBody: 0
+    indexSort: 30
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Poppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_NabNab
+    id: 23
+    typeOfBody: 0
+    indexSort: 31
+    sprite: {fileID: 8467388191929527434, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_NabNab
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Bomb
+    id: 24
+    typeOfBody: 0
+    indexSort: 32
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Bomb
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Wednesday
+    id: 25
+    typeOfBody: 0
+    indexSort: 33
+    sprite: {fileID: -6596644950355499520, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Wednesday
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Halt
+    id: 26
+    typeOfBody: 0
+    indexSort: 34
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Halt
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Amanda
+    id: 27
+    typeOfBody: 0
+    indexSort: 35
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Amanda
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Skull
+    id: 28
+    typeOfBody: 0
+    indexSort: 36
+    sprite: {fileID: -5616258701671300904, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Skull
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Medusa
+    id: 29
+    typeOfBody: 0
+    indexSort: 37
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Medusa
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Frankenstein
+    id: 30
+    typeOfBody: 0
+    indexSort: 38
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Frankenstein
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Daddy
+    id: 31
+    typeOfBody: 0
+    indexSort: 39
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Daddy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_RainbowGreen
+    id: 32
+    typeOfBody: 0
+    indexSort: 40
+    sprite: {fileID: 4425785133038835775, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Pumpkin
+    id: 33
+    typeOfBody: 0
+    indexSort: 41
+    sprite: {fileID: -7520479597342730204, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Pumpkin
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Dracula
+    id: 34
+    typeOfBody: 0
+    indexSort: 42
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Dracula
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Venom
+    id: 35
+    typeOfBody: 0
+    indexSort: 43
+    sprite: {fileID: -4309791098653423935, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Pennywise
+    id: 36
+    typeOfBody: 0
+    indexSort: 44
+    sprite: {fileID: 24306096431438552, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Pennywise
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Saitama
+    id: 37
+    typeOfBody: 0
+    indexSort: 45
+    sprite: {fileID: 6616940714207927533, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Saitama
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BlackHuggy
+    id: 38
+    typeOfBody: 0
+    indexSort: 46
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_BlackHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Gojo
+    id: 39
+    typeOfBody: 0
+    indexSort: 47
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: HEAD_Gojo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Doll
+    id: 40
+    typeOfBody: 0
+    indexSort: 48
+    sprite: {fileID: -6906080094967337089, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Doll
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_Mummy
+    id: 41
+    typeOfBody: 0
+    indexSort: 49
+    sprite: {fileID: 3426385732993537700, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Mummy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_StinerFlynnxJumbo
+    id: 42
+    typeOfBody: 0
+    indexSort: 50
+    sprite: {fileID: -7052843815049294889, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_StinerFlynnxJumbo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_BlackHuggyxStingerFlynn
+    id: 43
+    typeOfBody: 0
+    indexSort: 51
+    sprite: {fileID: -8994099127975898140, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BlackHuggyxStingerFlynn
+    stateOfSlot: 0
+    priceGold: 0
+  - name: HEAD_PugPillarxBunzo
+    id: 44
+    typeOfBody: 0
+    indexSort: 52
+    sprite: {fileID: -3171366231646666864, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_PugPillarxBunzo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_HuggyxMommy
+    id: 45
+    typeOfBody: 0
+    indexSort: 53
+    sprite: {fileID: 1740726387001542510, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_HuggyxMommy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_BanBanxBanbaleena
+    id: 46
+    typeOfBody: 0
+    indexSort: 54
+    sprite: {fileID: -2836311808500735916, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BanBanxBanbaleena
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_DaddyxBoxy
+    id: 47
+    typeOfBody: 0
+    indexSort: 55
+    sprite: {fileID: -373245204609860289, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_DaddyxBoxy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_PugPillarxAmanda
+    id: 48
+    typeOfBody: 0
+    indexSort: 56
+    sprite: {fileID: -8340657258907222352, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_PugPillarxAmanda
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Frog
+    id: 49
+    typeOfBody: 0
+    indexSort: 57
+    sprite: {fileID: 175255662214923767, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Frog
+    stateOfSlot: 1
+    priceGold: 0
+  - name: HEAD_Doge
+    id: 50
+    typeOfBody: 0
+    indexSort: 58
+    sprite: {fileID: -5448894238137457900, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Doge
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_MommyCandy
+    id: 51
+    typeOfBody: 0
+    indexSort: 59
+    sprite: {fileID: -7460534797822998856, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_MommyCandy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_HuggyTree
+    id: 52
+    typeOfBody: 0
+    indexSort: 60
+    sprite: {fileID: 2890651575636576492, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_HuggyTree
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_ScarecrowHuggy
+    id: 53
+    typeOfBody: 0
+    indexSort: 61
+    sprite: {fileID: -1852763966837798930, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_ScarecrowHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_BoxyClown
+    id: 54
+    typeOfBody: 0
+    indexSort: 62
+    sprite: {fileID: -3355538258731921721, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_BoxyClown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_CameraMen
+    id: 55
+    typeOfBody: 0
+    indexSort: 63
+    sprite: {fileID: -6521839706893230235, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_CameraMen
+    stateOfSlot: 2
+    priceGold: 30
+  - name: HEAD_Skibidi
+    id: 56
+    typeOfBody: 0
+    indexSort: 64
+    sprite: {fileID: -140237757729120166, guid: ba52108f76cb9914d82d04c189c80658, type: 3}
+    skinSkeletonDataAsset: HEAD_Skibidi
+    stateOfSlot: 2
+    priceGold: 30
+  eyeSlotsSorted:
+  - name: EYE_BanBan
+    id: 1
+    typeOfBody: 1
+    indexSort: 1
+    sprite: {fileID: 3644589176882191556, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Banbaleena
+    id: 2
+    typeOfBody: 1
+    indexSort: 2
+    sprite: {fileID: 7561753070858786867, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_GrimaceShake
+    id: 49
+    typeOfBody: 1
+    indexSort: 3
+    sprite: {fileID: -7959902467724857472, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Jumbo
+    id: 3
+    typeOfBody: 1
+    indexSort: 4
+    sprite: {fileID: 2569737364092123618, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Jumbo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_StingerFlynn
+    id: 4
+    typeOfBody: 1
+    indexSort: 5
+    sprite: {fileID: -4548726760868561860, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_StingerFlynn
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Sheriff
+    id: 5
+    typeOfBody: 1
+    indexSort: 6
+    sprite: {fileID: -2195051432610868523, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sheriff
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_OpilaBird
+    id: 6
+    typeOfBody: 1
+    indexSort: 7
+    sprite: {fileID: -3753841895155840492, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_OpilaBird
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_ChooChoo
+    id: 7
+    typeOfBody: 1
+    indexSort: 8
+    sprite: {fileID: -8938491471386570686, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_ChooChoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Juan
+    id: 8
+    typeOfBody: 1
+    indexSort: 9
+    sprite: {fileID: 1058650964479422210, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Juan
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_RainbowBlue
+    id: 9
+    typeOfBody: 1
+    indexSort: 10
+    sprite: {fileID: -2488576793476876412, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Huggy
+    id: 10
+    typeOfBody: 1
+    indexSort: 11
+    sprite: {fileID: 5196684375108022056, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_BunzoBunny
+    id: 11
+    typeOfBody: 1
+    indexSort: 12
+    sprite: {fileID: 5343460305990886456, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BunzoBunny
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Kissy
+    id: 12
+    typeOfBody: 1
+    indexSort: 13
+    sprite: {fileID: 8989680652938249690, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Mommy
+    id: 13
+    typeOfBody: 1
+    indexSort: 14
+    sprite: {fileID: -5398720820267230960, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Mommy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Rush
+    id: 14
+    typeOfBody: 1
+    indexSort: 15
+    sprite: {fileID: -3666552157517619369, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Rush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_MsLemon
+    id: 15
+    typeOfBody: 1
+    indexSort: 16
+    sprite: {fileID: -7445549639720540220, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_MsLemon
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_PugPillar
+    id: 16
+    typeOfBody: 1
+    indexSort: 17
+    sprite: {fileID: -7108056675577136234, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_PugPillar
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Seek
+    id: 17
+    typeOfBody: 1
+    indexSort: 18
+    sprite: {fileID: 1616544902164013957, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Seek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_NabNab
+    id: 18
+    typeOfBody: 1
+    indexSort: 19
+    sprite: {fileID: 8027759674342978049, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_NabNab
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Ambush
+    id: 19
+    typeOfBody: 1
+    indexSort: 20
+    sprite: {fileID: -6961307617546722521, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_SlowSeline
+    id: 20
+    typeOfBody: 1
+    indexSort: 21
+    sprite: {fileID: -4165471437320080914, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_SlowSeline
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_EYES
+    id: 21
+    typeOfBody: 1
+    indexSort: 22
+    sprite: {fileID: -8379194587325233997, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_EYES
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Jeff
+    id: 22
+    typeOfBody: 1
+    indexSort: 23
+    sprite: {fileID: 2741974692211257342, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Jeff
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Frog
+    id: 23
+    typeOfBody: 1
+    indexSort: 24
+    sprite: {fileID: -8183552462395232947, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Frog
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Sharingan
+    id: 24
+    typeOfBody: 1
+    indexSort: 25
+    sprite: {fileID: 1278411883672900689, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sharingan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Halt
+    id: 25
+    typeOfBody: 1
+    indexSort: 26
+    sprite: {fileID: 1566618186851721680, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Halt
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Skull
+    id: 26
+    typeOfBody: 1
+    indexSort: 27
+    sprite: {fileID: -6140763290311798011, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Skull
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Medusa
+    id: 27
+    typeOfBody: 1
+    indexSort: 28
+    sprite: {fileID: -1033216927526503599, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Medusa
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Gojo
+    id: 28
+    typeOfBody: 1
+    indexSort: 29
+    sprite: {fileID: -6720702389571546215, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Gojo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Nezuko
+    id: 29
+    typeOfBody: 1
+    indexSort: 30
+    sprite: {fileID: 4227861665251088820, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Nezuko
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Pumpkin
+    id: 30
+    typeOfBody: 1
+    indexSort: 31
+    sprite: {fileID: 6535264354827543274, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Pumpkin
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Naruto
+    id: 31
+    typeOfBody: 1
+    indexSort: 32
+    sprite: {fileID: -6133612011973381584, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Naruto
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_BlackHuggy
+    id: 32
+    typeOfBody: 1
+    indexSort: 33
+    sprite: {fileID: 2169966139150081511, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlackHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_RainbowGreen
+    id: 33
+    typeOfBody: 1
+    indexSort: 34
+    sprite: {fileID: -419978229785732475, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_RainbowGreen
+    stateOfSlot: 0
+    priceGold: 0
+  - name: EYE_Pennywise
+    id: 34
+    typeOfBody: 1
+    indexSort: 35
+    sprite: {fileID: -598258569751655992, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Pennywise
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_BlingNabNab
+    id: 35
+    typeOfBody: 1
+    indexSort: 36
+    sprite: {fileID: -5034482126003047358, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlingNabNab
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Love
+    id: 36
+    typeOfBody: 1
+    indexSort: 37
+    sprite: {fileID: -61466495011969422, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Love
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_BlingSeek
+    id: 37
+    typeOfBody: 1
+    indexSort: 38
+    sprite: {fileID: -222406741430129068, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_BlingSeek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Daddy
+    id: 38
+    typeOfBody: 1
+    indexSort: 39
+    sprite: {fileID: 9031632171746318122, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Venom
+    id: 39
+    typeOfBody: 1
+    indexSort: 40
+    sprite: {fileID: -8397061031152950572, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Venom
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Saitama
+    id: 40
+    typeOfBody: 1
+    indexSort: 41
+    sprite: {fileID: -3232812855359031617, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Saitama
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Zombie
+    id: 41
+    typeOfBody: 1
+    indexSort: 42
+    sprite: {fileID: 6701612767397540090, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Zombie
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster
+    id: 42
+    typeOfBody: 1
+    indexSort: 43
+    sprite: {fileID: -4121715156227758161, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster1
+    id: 43
+    typeOfBody: 1
+    indexSort: 44
+    sprite: {fileID: -2043691548479859794, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster1
+    stateOfSlot: 1
+    priceGold: 0
+  - name: EYE_Monster2
+    id: 44
+    typeOfBody: 1
+    indexSort: 45
+    sprite: {fileID: -1514296451179120057, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster2
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Anya
+    id: 45
+    typeOfBody: 1
+    indexSort: 46
+    sprite: {fileID: 1450535106434460770, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Anya
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Monster3
+    id: 46
+    typeOfBody: 1
+    indexSort: 47
+    sprite: {fileID: -1570621147295275812, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster3
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Monster4
+    id: 47
+    typeOfBody: 1
+    indexSort: 48
+    sprite: {fileID: 5613442782202310969, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Monster4
+    stateOfSlot: 2
+    priceGold: 30
+  - name: EYE_Sasuke
+    id: 48
+    typeOfBody: 1
+    indexSort: 49
+    sprite: {fileID: 6051496205269537704, guid: e1261bd4715df6a47b4b2b325ec45292, type: 3}
+    skinSkeletonDataAsset: EYE_Sasuke
+    stateOfSlot: 2
+    priceGold: 30
+  mouthSlotsSorted:
+  - name: MOUTH_BanBan
+    id: 1
+    typeOfBody: 2
+    indexSort: 1
+    sprite: {fileID: 5468375228400747355, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_GrimaceShake
+    id: 47
+    typeOfBody: 2
+    indexSort: 2
+    sprite: {fileID: -5127476674542539730, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_SlowSeline
+    id: 3
+    typeOfBody: 2
+    indexSort: 3
+    sprite: {fileID: -3312374262303394279, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_SlowSeline
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Skibidi
+    id: 46
+    typeOfBody: 2
+    indexSort: 4
+    sprite: {fileID: 7733785768280955373, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Skibidi
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_OpilaBird
+    id: 5
+    typeOfBody: 2
+    indexSort: 5
+    sprite: {fileID: 8017761310244350313, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_OpilaBird
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_ChooChoo
+    id: 6
+    typeOfBody: 2
+    indexSort: 6
+    sprite: {fileID: 6467015214167868134, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_ChooChoo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Juan
+    id: 7
+    typeOfBody: 2
+    indexSort: 7
+    sprite: {fileID: 3023502702375288152, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Juan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_RainbowBlue
+    id: 8
+    typeOfBody: 2
+    indexSort: 8
+    sprite: {fileID: 4263421366298968162, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Huggy
+    id: 9
+    typeOfBody: 2
+    indexSort: 9
+    sprite: {fileID: -234350147521987058, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Huggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BunzoBunny
+    id: 10
+    typeOfBody: 2
+    indexSort: 10
+    sprite: {fileID: -2526204932795510186, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Kissy
+    id: 11
+    typeOfBody: 2
+    indexSort: 11
+    sprite: {fileID: -8119994754624701881, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Kissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Mommy
+    id: 12
+    typeOfBody: 2
+    indexSort: 12
+    sprite: {fileID: 8967572411583563106, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BoxyBoo
+    id: 13
+    typeOfBody: 2
+    indexSort: 13
+    sprite: {fileID: 4444995014034504007, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BoxyBoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_BlackHuggy
+    id: 14
+    typeOfBody: 2
+    indexSort: 14
+    sprite: {fileID: 8103551995494249383, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BlackHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_PugPillar
+    id: 15
+    typeOfBody: 2
+    indexSort: 15
+    sprite: {fileID: 4443891719958405254, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_PugPillar
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Jack
+    id: 16
+    typeOfBody: 2
+    indexSort: 16
+    sprite: {fileID: 3444667664591193310, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jack
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Figure
+    id: 17
+    typeOfBody: 2
+    indexSort: 17
+    sprite: {fileID: 710631685730082354, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Figure
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Ambush
+    id: 18
+    typeOfBody: 2
+    indexSort: 18
+    sprite: {fileID: -7001195004085327955, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Ambush
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Rush
+    id: 19
+    typeOfBody: 2
+    indexSort: 19
+    sprite: {fileID: -8634744299604645360, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Rush
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Screech
+    id: 20
+    typeOfBody: 2
+    indexSort: 20
+    sprite: {fileID: 4492347719407052834, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Screech
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_AngryOpila
+    id: 21
+    typeOfBody: 2
+    indexSort: 21
+    sprite: {fileID: 2536393243384754119, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_AngryOpila
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Jeff
+    id: 22
+    typeOfBody: 2
+    indexSort: 22
+    sprite: {fileID: -3910784642181409996, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jeff
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Bomb
+    id: 23
+    typeOfBody: 2
+    indexSort: 23
+    sprite: {fileID: -7261891764678854561, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Bomb
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Banbaleena
+    id: 24
+    typeOfBody: 2
+    indexSort: 24
+    sprite: {fileID: 7698596803198010500, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Saitama
+    id: 25
+    typeOfBody: 2
+    indexSort: 25
+    sprite: {fileID: 1598556514179837668, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Saitama
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Luffy
+    id: 26
+    typeOfBody: 2
+    indexSort: 26
+    sprite: {fileID: 1887145637267750032, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Luffy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Medusa
+    id: 27
+    typeOfBody: 2
+    indexSort: 27
+    sprite: {fileID: 7681692689427090110, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Medusa
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Nezuko
+    id: 28
+    typeOfBody: 2
+    indexSort: 28
+    sprite: {fileID: -3300691829097551295, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Nezuko
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Pumpkin
+    id: 29
+    typeOfBody: 2
+    indexSort: 29
+    sprite: {fileID: 7075948968553353073, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Pumpkin
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Pennywise
+    id: 30
+    typeOfBody: 2
+    indexSort: 30
+    sprite: {fileID: 8675969913438297892, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Pennywise
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Daddy
+    id: 31
+    typeOfBody: 2
+    indexSort: 31
+    sprite: {fileID: 4927337534208161749, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Venom
+    id: 32
+    typeOfBody: 2
+    indexSort: 32
+    sprite: {fileID: -6263289477743750857, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Dracula
+    id: 33
+    typeOfBody: 2
+    indexSort: 33
+    sprite: {fileID: 1358218105025992511, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Dracula
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_RainbowGreen
+    id: 34
+    typeOfBody: 2
+    indexSort: 34
+    sprite: {fileID: 5549662652629101026, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster
+    id: 35
+    typeOfBody: 2
+    indexSort: 35
+    sprite: {fileID: 2032118451312653662, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster
+    stateOfSlot: 0
+    priceGold: 0
+  - name: MOUTH_Kiss
+    id: 36
+    typeOfBody: 2
+    indexSort: 36
+    sprite: {fileID: 8894892070933358038, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Kiss
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster1
+    id: 37
+    typeOfBody: 2
+    indexSort: 37
+    sprite: {fileID: 2312595969083285041, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster1
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Zombie
+    id: 38
+    typeOfBody: 2
+    indexSort: 38
+    sprite: {fileID: -5639982352003629389, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Zombie
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster2
+    id: 39
+    typeOfBody: 2
+    indexSort: 39
+    sprite: {fileID: -94421937565159844, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster2
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Monster3
+    id: 40
+    typeOfBody: 2
+    indexSort: 40
+    sprite: {fileID: -6176814022080388059, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Monster3
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Elephant
+    id: 41
+    typeOfBody: 2
+    indexSort: 41
+    sprite: {fileID: -1092644242299880693, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Elephant
+    stateOfSlot: 1
+    priceGold: 0
+  - name: MOUTH_Smile
+    id: 42
+    typeOfBody: 2
+    indexSort: 42
+    sprite: {fileID: 6657325916188531761, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Smile
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Frog
+    id: 43
+    typeOfBody: 2
+    indexSort: 43
+    sprite: {fileID: 3037371533705961184, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Frog
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_HuggyTree
+    id: 44
+    typeOfBody: 2
+    indexSort: 44
+    sprite: {fileID: 1485021195094403425, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_HuggyTree
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_BoxyClown
+    id: 45
+    typeOfBody: 2
+    indexSort: 45
+    sprite: {fileID: 1149333688766225151, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_BoxyClown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_MsLemon
+    id: 4
+    typeOfBody: 2
+    indexSort: 46
+    sprite: {fileID: -573634632363204526, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_MsLemon
+    stateOfSlot: 2
+    priceGold: 30
+  - name: MOUTH_Jumbo
+    id: 2
+    typeOfBody: 2
+    indexSort: 47
+    sprite: {fileID: 215975967547577707, guid: 1db683aa5a5b3c0478d148e893ff7267, type: 3}
+    skinSkeletonDataAsset: MOUTH_Jumbo
+    stateOfSlot: 2
+    priceGold: 30
+  accSlotsSorted:
+  - name: ACC_Banbaleena
+    id: 1
+    typeOfBody: 3
+    indexSort: 1
+    sprite: {fileID: 4555259180753764237, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_RainbowBlue
+    id: 2
+    typeOfBody: 3
+    indexSort: 2
+    sprite: {fileID: 2147269095680132359, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_RainbowBlue
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_BunzoBunny
+    id: 3
+    typeOfBody: 3
+    indexSort: 3
+    sprite: {fileID: 3487170154754361081, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_OpilaBird
+    id: 4
+    typeOfBody: 3
+    indexSort: 4
+    sprite: {fileID: 849691858833648354, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_OpilaBird
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Wednesday
+    id: 5
+    typeOfBody: 3
+    indexSort: 5
+    sprite: {fileID: -5117911472676533037, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Wednesday
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_BanBan
+    id: 6
+    typeOfBody: 3
+    indexSort: 6
+    sprite: {fileID: -5175653972872349576, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_BoxyClown
+    id: 40
+    typeOfBody: 3
+    indexSort: 7
+    sprite: {fileID: -3154015141017216971, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_BoxyClown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_ScarecrowHuggy
+    id: 41
+    typeOfBody: 3
+    indexSort: 8
+    sprite: {fileID: -6399948369796737576, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_ScarecrowHuggy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_HeadPhone
+    id: 42
+    typeOfBody: 3
+    indexSort: 9
+    sprite: {fileID: 3726527820945429528, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_HeadPhone
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Huggy
+    id: 10
+    typeOfBody: 3
+    indexSort: 10
+    sprite: {fileID: -8876003478590601924, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Huggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Crown
+    id: 11
+    typeOfBody: 3
+    indexSort: 11
+    sprite: {fileID: -696095002893847226, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Crown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Pochita
+    id: 12
+    typeOfBody: 3
+    indexSort: 12
+    sprite: {fileID: -1985324381712023019, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pochita
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Naruto
+    id: 13
+    typeOfBody: 3
+    indexSort: 13
+    sprite: {fileID: -7905193905080974633, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Naruto
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Chopper
+    id: 14
+    typeOfBody: 3
+    indexSort: 14
+    sprite: {fileID: 2431458101205254967, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Chopper
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Maleficent
+    id: 15
+    typeOfBody: 3
+    indexSort: 15
+    sprite: {fileID: -7353636396862192646, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Maleficent
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_MsLemon
+    id: 16
+    typeOfBody: 3
+    indexSort: 16
+    sprite: {fileID: 2010109496963312272, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_MsLemon
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Sheriff
+    id: 17
+    typeOfBody: 3
+    indexSort: 17
+    sprite: {fileID: -3707015782705153985, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Sheriff
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_TrollFace
+    id: 18
+    typeOfBody: 3
+    indexSort: 18
+    sprite: {fileID: 8646953558054122867, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_TrollFace
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Straw
+    id: 19
+    typeOfBody: 3
+    indexSort: 19
+    sprite: {fileID: 1827287366408146533, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Straw
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Banana
+    id: 20
+    typeOfBody: 3
+    indexSort: 20
+    sprite: {fileID: -1366143296382107570, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Banana
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Knife
+    id: 21
+    typeOfBody: 3
+    indexSort: 21
+    sprite: {fileID: 5908768779175150477, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Knife
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Satan
+    id: 22
+    typeOfBody: 3
+    indexSort: 22
+    sprite: {fileID: -4808932048171605863, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Satan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Pijama
+    id: 23
+    typeOfBody: 3
+    indexSort: 23
+    sprite: {fileID: 6402219643616986018, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pijama
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Nose
+    id: 24
+    typeOfBody: 3
+    indexSort: 24
+    sprite: {fileID: 6629855054191324092, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Nose
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Axe
+    id: 25
+    typeOfBody: 3
+    indexSort: 25
+    sprite: {fileID: -8107814107165497542, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Axe
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Rabit
+    id: 26
+    typeOfBody: 3
+    indexSort: 26
+    sprite: {fileID: -147589437233791301, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Rabit
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Carrot
+    id: 27
+    typeOfBody: 3
+    indexSort: 27
+    sprite: {fileID: 272059139634954855, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Carrot
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Cat
+    id: 28
+    typeOfBody: 3
+    indexSort: 28
+    sprite: {fileID: -2709250887620971893, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Cat
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_WC
+    id: 29
+    typeOfBody: 3
+    indexSort: 29
+    sprite: {fileID: 1449350946778428273, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_WC
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Shark
+    id: 30
+    typeOfBody: 3
+    indexSort: 30
+    sprite: {fileID: -3577712135663483822, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Shark
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Tree
+    id: 31
+    typeOfBody: 3
+    indexSort: 31
+    sprite: {fileID: 5630515164630415127, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Tree
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Valak
+    id: 32
+    typeOfBody: 3
+    indexSort: 32
+    sprite: {fileID: -4114419995716697436, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Valak
+    stateOfSlot: 0
+    priceGold: 0
+  - name: ACC_Glass
+    id: 33
+    typeOfBody: 3
+    indexSort: 33
+    sprite: {fileID: 3680907101972952042, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Glass
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Noel
+    id: 34
+    typeOfBody: 3
+    indexSort: 34
+    sprite: {fileID: 8009449001936249847, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Noel
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Witch
+    id: 35
+    typeOfBody: 3
+    indexSort: 35
+    sprite: {fileID: 6545626383104460872, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Witch
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Gangster
+    id: 36
+    typeOfBody: 3
+    indexSort: 36
+    sprite: {fileID: -6046427626171967685, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Gangster
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Anya
+    id: 37
+    typeOfBody: 3
+    indexSort: 37
+    sprite: {fileID: 6292997888545306878, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Anya
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Angel
+    id: 38
+    typeOfBody: 3
+    indexSort: 38
+    sprite: {fileID: -8200033787769366700, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Angel
+    stateOfSlot: 1
+    priceGold: 0
+  - name: ACC_Clown
+    id: 39
+    typeOfBody: 3
+    indexSort: 39
+    sprite: {fileID: -4127606608833328373, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Clown
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Timothy
+    id: 7
+    typeOfBody: 3
+    indexSort: 40
+    sprite: {fileID: -6538395948000915759, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Timothy
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Screech
+    id: 8
+    typeOfBody: 3
+    indexSort: 41
+    sprite: {fileID: 761714325731950932, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Screech
+    stateOfSlot: 2
+    priceGold: 30
+  - name: ACC_Pirate
+    id: 9
+    typeOfBody: 3
+    indexSort: 42
+    sprite: {fileID: -2704904494896387247, guid: 3f516984517aac74db17707ae4db6503, type: 3}
+    skinSkeletonDataAsset: ACC_Pirate
+    stateOfSlot: 2
+    priceGold: 30
+  bodySlotsSorted:
+  - name: BODY_BanBan
+    id: 1
+    typeOfBody: 4
+    indexSort: 1
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BanBan
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Banbaleena
+    id: 2
+    typeOfBody: 4
+    indexSort: 2
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Banbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_GrimaceShake
+    id: 59
+    typeOfBody: 4
+    indexSort: 3
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_GrimaceShake
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Banana
+    id: 55
+    typeOfBody: 4
+    indexSort: 4
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Banana
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Peach
+    id: 56
+    typeOfBody: 4
+    indexSort: 5
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Peach
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Apple
+    id: 57
+    typeOfBody: 4
+    indexSort: 6
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Apple
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_WaterMelon
+    id: 58
+    typeOfBody: 4
+    indexSort: 7
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_WaterMelon
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Toilet
+    id: 46
+    typeOfBody: 4
+    indexSort: 8
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Toilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_SpiderToilet
+    id: 47
+    typeOfBody: 4
+    indexSort: 9
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SpiderToilet
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_ArmyToilet
+    id: 48
+    typeOfBody: 4
+    indexSort: 10
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_ArmyToilet
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Frog
+    id: 49
+    typeOfBody: 4
+    indexSort: 11
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Frog
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Doge
+    id: 50
+    typeOfBody: 4
+    indexSort: 12
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Doge
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyClown
+    id: 51
+    typeOfBody: 4
+    indexSort: 13
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyClown
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_MommyCandy
+    id: 52
+    typeOfBody: 4
+    indexSort: 14
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_MommyCandy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_HuggyTree
+    id: 53
+    typeOfBody: 4
+    indexSort: 15
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_HuggyTree
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_ScarecrowHuggy
+    id: 54
+    typeOfBody: 4
+    indexSort: 16
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_ScarecrowHuggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Mommy
+    id: 13
+    typeOfBody: 4
+    indexSort: 17
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Mommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyBoo
+    id: 14
+    typeOfBody: 4
+    indexSort: 18
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyBoo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Poppy
+    id: 15
+    typeOfBody: 4
+    indexSort: 19
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Poppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_PugPillar
+    id: 16
+    typeOfBody: 4
+    indexSort: 20
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_PugPillar
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BlackHuggy
+    id: 21
+    typeOfBody: 4
+    indexSort: 21
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BlackHuggy
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Doll
+    id: 22
+    typeOfBody: 4
+    indexSort: 22
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Doll
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_IT
+    id: 23
+    typeOfBody: 4
+    indexSort: 23
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_IT
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Hellboy
+    id: 24
+    typeOfBody: 4
+    indexSort: 24
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Hellboy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Daddy
+    id: 25
+    typeOfBody: 4
+    indexSort: 25
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Daddy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Amanda
+    id: 26
+    typeOfBody: 4
+    indexSort: 26
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Amanda
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Wednesday
+    id: 27
+    typeOfBody: 4
+    indexSort: 27
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Wednesday
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Medusa
+    id: 28
+    typeOfBody: 4
+    indexSort: 28
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Medusa
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Skull
+    id: 29
+    typeOfBody: 4
+    indexSort: 29
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Skull
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_RainbowGreen
+    id: 30
+    typeOfBody: 4
+    indexSort: 30
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_RainbowGreen
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BigFoot
+    id: 31
+    typeOfBody: 4
+    indexSort: 31
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BigFoot
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Venom
+    id: 32
+    typeOfBody: 4
+    indexSort: 32
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Venom
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Dracula
+    id: 33
+    typeOfBody: 4
+    indexSort: 33
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Dracula
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Gojo
+    id: 34
+    typeOfBody: 4
+    indexSort: 34
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Gojo
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Mummy
+    id: 35
+    typeOfBody: 4
+    indexSort: 35
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Mummy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_FigurexBunzo
+    id: 36
+    typeOfBody: 4
+    indexSort: 36
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_FigurexBunzo
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DollxHuggy
+    id: 37
+    typeOfBody: 4
+    indexSort: 37
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DollxHuggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BlackHuggyxKissy
+    id: 38
+    typeOfBody: 4
+    indexSort: 38
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BlackHuggyxKissy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DaddyxMommy
+    id: 39
+    typeOfBody: 4
+    indexSort: 39
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DaddyxMommy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_JumboxRainbowBlue
+    id: 40
+    typeOfBody: 4
+    indexSort: 40
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_JumboxRainbowBlue
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_BanBanxJuan
+    id: 41
+    typeOfBody: 4
+    indexSort: 41
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BanBanxJuan
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_HuggyxBanbaleena
+    id: 42
+    typeOfBody: 4
+    indexSort: 42
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_HuggyxBanbaleena
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_DollxWednesday
+    id: 43
+    typeOfBody: 4
+    indexSort: 43
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_DollxWednesday
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_AmandaxPoppy
+    id: 44
+    typeOfBody: 4
+    indexSort: 44
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_AmandaxPoppy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_BoxyxHuggy
+    id: 45
+    typeOfBody: 4
+    indexSort: 45
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BoxyxHuggy
+    stateOfSlot: 0
+    priceGold: 0
+  - name: BODY_Juan
+    id: 8
+    typeOfBody: 4
+    indexSort: 46
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Juan
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_RainbowBlue
+    id: 9
+    typeOfBody: 4
+    indexSort: 47
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_RainbowBlue
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Huggy
+    id: 10
+    typeOfBody: 4
+    indexSort: 48
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Huggy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_BunzoBunny
+    id: 11
+    typeOfBody: 4
+    indexSort: 49
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_BunzoBunny
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Kissy
+    id: 12
+    typeOfBody: 4
+    indexSort: 50
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Kissy
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Seek
+    id: 17
+    typeOfBody: 4
+    indexSort: 51
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Seek
+    stateOfSlot: 1
+    priceGold: 0
+  - name: BODY_Figure
+    id: 18
+    typeOfBody: 4
+    indexSort: 52
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Figure
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_NabNab
+    id: 19
+    typeOfBody: 4
+    indexSort: 53
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_NabNab
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_SlowSeline
+    id: 20
+    typeOfBody: 4
+    indexSort: 54
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SlowSeline
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_StingerFlynn
+    id: 4
+    typeOfBody: 4
+    indexSort: 55
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_StingerFlynn
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Sheriff
+    id: 5
+    typeOfBody: 4
+    indexSort: 56
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Sheriff
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_OpilaBird
+    id: 6
+    typeOfBody: 4
+    indexSort: 57
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_OpilaBird
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_SquidGame
+    id: 7
+    typeOfBody: 4
+    indexSort: 58
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_SquidGame
+    stateOfSlot: 2
+    priceGold: 50
+  - name: BODY_Jumbo
+    id: 3
+    typeOfBody: 4
+    indexSort: 59
+    sprite: {fileID: 0}
+    skinSkeletonDataAsset: BODY_Jumbo
+    stateOfSlot: 2
+    priceGold: 50
+  countScoreToExp: 10

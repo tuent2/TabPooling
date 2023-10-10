@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: b94ef20a7fc7e3042b01595412bfc74c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8366223563323260569
+    second: HEAD_Ambush
+  - first:
+      213: 3843548033814785245
+    second: HEAD_Banbaleena
+  - first:
+      213: 481636944141491138
+    second: HEAD_BanBan
+  - first:
+      213: -6439033254526183783
+    second: HEAD_BoxyBoo
+  - first:
+      213: 8598586057038067369
+    second: HEAD_BunzoBunny
+  - first:
+      213: 4220309599032071925
+    second: HEAD_ChooChoo
+  - first:
+      213: -6789099507272939716
+    second: HEAD_Figure
+  - first:
+      213: 8597275729401239026
+    second: HEAD_Huggy
+  - first:
+      213: 1008183200420314992
+    second: HEAD_Juan
+  - first:
+      213: -7647764163869527902
+    second: HEAD_Jumbo
+  - first:
+      213: 2757312647004418008
+    second: HEAD_Kissy
+  - first:
+      213: 4408497573773100887
+    second: HEAD_Mommy
+  - first:
+      213: -58908910476509494
+    second: HEAD_MsLemon
+  - first:
+      213: 8475022600498079180
+    second: HEAD_OpilaBird
+  - first:
+      213: -3837820351176478623
+    second: HEAD_PugPillar
+  - first:
+      213: -1255102594080735864
+    second: HEAD_RainbowBlue
+  - first:
+      213: 3167539145898858216
+    second: HEAD_Rush
+  - first:
+      213: 4958148162796251907
+    second: HEAD_Seek
+  - first:
+      213: -5306280751927679375
+    second: HEAD_Sheriff
+  - first:
+      213: 6360613414434902619
+    second: HEAD_StingerFlynn
+  - first:
+      213: 2941699020399625118
+    second: HEAD_Bomb
+  - first:
+      213: 8467388191929527434
+    second: HEAD_NabNab
+  - first:
+      213: -832925206987292888
+    second: HEAD_Poppy
+  - first:
+      213: -7742078584332078903
+    second: HEAD_SlowSeline
+  - first:
+      213: 5955700020279912882
+    second: HEAD_Amanda
+  - first:
+      213: 8296160560702705069
+    second: HEAD_BlackHuggy
+  - first:
+      213: 3970646351727315565
+    second: HEAD_Daddy
+  - first:
+      213: -87336491956292157
+    second: HEAD_Dracula
+  - first:
+      213: -8089918720196586619
+    second: HEAD_Frankenstein
+  - first:
+      213: -2235205482863959612
+    second: HEAD_Gojo
+  - first:
+      213: -7609828004107880877
+    second: HEAD_Halt
+  - first:
+      213: -8245053576834847181
+    second: HEAD_Medusa
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HEAD_Amanda
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1491
+        width: 458
+        height: 396
+      alignment: 9
+      pivot: {x: 0.49344978, y: 0.02020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b922912d95e6a250800000000000000
+      internalID: 5955700020279912882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Ambush
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 580
+        width: 208
+        height: 279
+      alignment: 9
+      pivot: {x: 0.480769, y: 0.028674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614d9ccef335eb80800000000000000
+      internalID: -8366223563323260569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Banbaleena
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 351
+        width: 261
+        height: 419
+      alignment: 9
+      pivot: {x: 0.507937, y: 0.014354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc6ea0a296075530800000000000000
+      internalID: 3843548033814785245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_BanBan
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1143
+        width: 263
+        height: 415
+      alignment: 9
+      pivot: {x: 0.504065, y: 0.004717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb1246bf3e1fa600800000000000000
+      internalID: 481636944141491138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_BlackHuggy
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1571
+        width: 464
+        height: 316
+      alignment: 9
+      pivot: {x: 0.51077586, y: 0.01582278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad4a443312e12370800000000000000
+      internalID: 8296160560702705069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Bomb
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 286
+        height: 337
+      alignment: 9
+      pivot: {x: 0.517483, y: 0.002967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c80b5ca303d820800000000000000
+      internalID: 2941699020399625118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_BoxyBoo
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 13
+        width: 278
+        height: 276
+      alignment: 9
+      pivot: {x: 0.489209, y: 0.097826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961a07de55f3a6a0800000000000000
+      internalID: -6439033254526183783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_BunzoBunny
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1287
+        width: 416
+        height: 282
+      alignment: 9
+      pivot: {x: 0.495192, y: 0.016026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6716c2670545770800000000000000
+      internalID: 8598586057038067369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_ChooChoo
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 357
+        width: 289
+        height: 339
+      alignment: 9
+      pivot: {x: 0.491349, y: 0.006061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f65a7c583d819a30800000000000000
+      internalID: 4220309599032071925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Daddy
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1560
+        width: 396
+        height: 327
+      alignment: 9
+      pivot: {x: 0.510101, y: 0.01834862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a486bc1d19a1730800000000000000
+      internalID: 3970646351727315565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Dracula
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 291
+        width: 227
+        height: 405
+      alignment: 9
+      pivot: {x: 0.49779737, y: 0.19012345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5340d5ce7b9cef0800000000000000
+      internalID: -87336491956292157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Figure
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 861
+        width: 287
+        height: 280
+      alignment: 9
+      pivot: {x: 0.487805, y: 0.007143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378734e7f548c1a0800000000000000
+      internalID: -6789099507272939716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Frankenstein
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 40
+        width: 269
+        height: 407
+      alignment: 9
+      pivot: {x: 0.49442378, y: 0.07125307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58356e449c5dabf80800000000000000
+      internalID: -8089918720196586619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Gojo
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1179
+        width: 385
+        height: 379
+      alignment: 9
+      pivot: {x: 0.48831168, y: 0.01583113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c163e9b474faf0e0800000000000000
+      internalID: -2235205482863959612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Halt
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 449
+        width: 230
+        height: 443
+      alignment: 9
+      pivot: {x: 0.47391304, y: 0.2167043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567455bfb5746690800000000000000
+      internalID: -7609828004107880877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Huggy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 426
+        height: 346
+      alignment: 9
+      pivot: {x: 0.498638, y: 0.010753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f55c0fb9b8af4770800000000000000
+      internalID: 8597275729401239026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Juan
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 292
+        width: 270
+        height: 288
+      alignment: 9
+      pivot: {x: 0.494983, y: 0.003559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb1997749cdfd00800000000000000
+      internalID: 1008183200420314992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Jumbo
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1006
+        width: 372
+        height: 279
+      alignment: 9
+      pivot: {x: 0.495495, y: 0.023952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03896330fadd590800000000000000
+      internalID: -7647764163869527902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Kissy
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1178
+        width: 384
+        height: 311
+      alignment: 9
+      pivot: {x: 0.498489, y: 0.02518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfe36b5e31f34620800000000000000
+      internalID: 2757312647004418008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Medusa
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 424
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5235849, y: 0.029069768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee1beb47fa39d80800000000000000
+      internalID: -8245053576834847181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Mommy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1479
+        width: 513
+        height: 408
+      alignment: 9
+      pivot: {x: 0.574514, y: 0.125341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cae5af212e2d30800000000000000
+      internalID: 4408497573773100887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_MsLemon
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 30
+        width: 242
+        height: 325
+      alignment: 9
+      pivot: {x: 0.475207, y: 0.009231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace31f478a6be2ff0800000000000000
+      internalID: -58908910476509494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_OpilaBird
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 290
+        width: 237
+        height: 288
+      alignment: 9
+      pivot: {x: 0.484127, y: 0.020408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5681e07245d9570800000000000000
+      internalID: 8475022600498079180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Poppy
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 772
+        width: 490
+        height: 313
+      alignment: 9
+      pivot: {x: 0.497445, y: 0.005333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fbd01ffead074f0800000000000000
+      internalID: -832925206987292888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_PugPillar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 512
+        height: 390
+      alignment: 9
+      pivot: {x: 0.492188, y: 0.169231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607c5869b25dbac0800000000000000
+      internalID: -3837820351176478623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_RainbowBlue
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 582
+        width: 286
+        height: 277
+      alignment: 9
+      pivot: {x: 0.505415, y: 0.021505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d752b27daf49ee0800000000000000
+      internalID: -1255102594080735864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Rush
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 8
+        width: 251
+        height: 282
+      alignment: 9
+      pivot: {x: 0.501992, y: 0.014184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e61273221c55fb20800000000000000
+      internalID: 3167539145898858216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Seek
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4
+        width: 222
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.010563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be9331c71eec440800000000000000
+      internalID: 4958148162796251907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_Sheriff
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 910
+        width: 309
+        height: 267
+      alignment: 9
+      pivot: {x: 0.501695, y: 0.005848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176abde15cd4c56b0800000000000000
+      internalID: -5306280751927679375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_SlowSeline
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 894
+        width: 381
+        height: 282
+      alignment: 9
+      pivot: {x: 0.493438, y: 0.021277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c03abdfb8c9e8490800000000000000
+      internalID: -7742078584332078903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD_StingerFlynn
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 698
+        width: 348
+        height: 306
+      alignment: 9
+      pivot: {x: 0.502874, y: 0.091503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521af05330754850800000000000000
+      internalID: 6360613414434902619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HEAD_Seek: 4958148162796251907
+      HEAD_PugPillar: -3837820351176478623
+      HEAD_ChooChoo: 4220309599032071925
+      HEAD_Figure: -6789099507272939716
+      HEAD_SlowSeline: -7742078584332078903
+      HEAD_Huggy: 8597275729401239026
+      HEAD_Poppy: -832925206987292888
+      HEAD_BoxyBoo: -6439033254526183783
+      HEAD_Banbaleena: 3843548033814785245
+      HEAD_OpilaBird: 8475022600498079180
+      HEAD_Rush: 3167539145898858216
+      HEAD_Amanda: 5955700020279912882
+      HEAD_Dracula: -87336491956292157
+      HEAD_Gojo: -2235205482863959612
+      HEAD_Jumbo: -7647764163869527902
+      HEAD_Sheriff: -5306280751927679375
+      HEAD_MsLemon: -58908910476509494
+      HEAD_BlackHuggy: 8296160560702705069
+      HEAD_Mommy: 4408497573773100887
+      HEAD_RainbowBlue: -1255102594080735864
+      HEAD_Ambush: -8366223563323260569
+      HEAD_Bomb: 2941699020399625118
+      HEAD_Kissy: 2757312647004418008
+      HEAD_Medusa: -8245053576834847181
+      HEAD_BanBan: 481636944141491138
+      HEAD_Halt: -7609828004107880877
+      HEAD_Juan: 1008183200420314992
+      HEAD_BunzoBunny: 8598586057038067369
+      HEAD_StingerFlynn: 6360613414434902619
+      HEAD_Daddy: 3970646351727315565
+      HEAD_Frankenstein: -8089918720196586619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

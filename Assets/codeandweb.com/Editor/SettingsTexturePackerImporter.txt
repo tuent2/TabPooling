@@ -1,0 +1,29 @@
+version: 2
+tpsheetFileNames:
+- Assets/_Textures/Character/Acc/Acc.tpsheet
+- Assets/_Textures/Character/BodyInMonster/BodyInMonster.tpsheet
+- Assets/_Textures/Character/Eye/Eye.tpsheet
+- Assets/_Textures/Character/Head/Head.tpsheet
+- Assets/_Textures/Character/Head2/Head2.tpsheet
+- Assets/_Textures/Character/Head3/Head3.tpsheet
+- Assets/_Textures/Character/Mouth/Mouth.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/_Textures/Character/Acc/Acc.png
+- Assets/_Textures/Character/BodyInMonster/BodyInMonster.png
+- Assets/_Textures/Character/Eye/Eye.png
+- Assets/_Textures/Character/Head/Head.png
+- Assets/_Textures/Character/Head2/Head2.png
+- Assets/_Textures/Character/Head3/Head3.png
+- Assets/_Textures/Character/Mouth/Mouth.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

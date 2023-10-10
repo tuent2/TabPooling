@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: 3f516984517aac74db17707ae4db6503
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4555259180753764237
+    second: ACC_Banbaleena
+  - first:
+      213: -5175653972872349576
+    second: ACC_Banban
+  - first:
+      213: 3487170154754361081
+    second: ACC_BunzoBunny
+  - first:
+      213: 4575152478567951227
+    second: ACC_Chopper 2
+  - first:
+      213: -34740446420344504
+    second: ACC_Chopper 3
+  - first:
+      213: 2431458101205254967
+    second: ACC_Chopper
+  - first:
+      213: -696095002893847226
+    second: ACC_Crown
+  - first:
+      213: -8876003478590601924
+    second: ACC_Huggy
+  - first:
+      213: -7353636396862192646
+    second: ACC_Maleficent
+  - first:
+      213: 2010109496963312272
+    second: ACC_MsLemon
+  - first:
+      213: -7905193905080974633
+    second: ACC_Naruto
+  - first:
+      213: 849691858833648354
+    second: ACC_OpilaBird
+  - first:
+      213: -2704904494896387247
+    second: ACC_Pirate
+  - first:
+      213: -1985324381712023019
+    second: ACC_Pochita
+  - first:
+      213: 2147269095680132359
+    second: ACC_RainbowBlue
+  - first:
+      213: 761714325731950932
+    second: ACC_Screech
+  - first:
+      213: -1108327895352633873
+    second: ACC_SheriffNappy
+  - first:
+      213: 1977609138645334142
+    second: ACC_Shit
+  - first:
+      213: 1827287366408146533
+    second: ACC_Straw
+  - first:
+      213: -6538395948000915759
+    second: ACC_Timothy
+  - first:
+      213: 8646953558054122867
+    second: ACC_TrollFace
+  - first:
+      213: -5117911472676533037
+    second: ACC_Wednesday
+  - first:
+      213: -3707015782705153985
+    second: ACC_Sheriff
+  - first:
+      213: -1366143296382107570
+    second: ACC_Banana
+  - first:
+      213: -6365173963121194245
+    second: ACC_Fuk
+  - first:
+      213: -8107814107165497542
+    second: ACC_Axe
+  - first:
+      213: 272059139634954855
+    second: ACC_Carrot
+  - first:
+      213: -2709250887620971893
+    second: ACC_Cat
+  - first:
+      213: 3680907101972952042
+    second: ACC_Glass
+  - first:
+      213: 5908768779175150477
+    second: ACC_Knife
+  - first:
+      213: 6629855054191324092
+    second: ACC_Nose
+  - first:
+      213: 6402219643616986018
+    second: ACC_Pijama
+  - first:
+      213: -147589437233791301
+    second: ACC_Rabit
+  - first:
+      213: -4808932048171605863
+    second: ACC_Satan
+  - first:
+      213: -3577712135663483822
+    second: ACC_Shark
+  - first:
+      213: 5630515164630415127
+    second: ACC_Tree
+  - first:
+      213: -4114419995716697436
+    second: ACC_Valak
+  - first:
+      213: 1449350946778428273
+    second: ACC_WC
+  - first:
+      213: -8200033787769366700
+    second: ACC_Angel
+  - first:
+      213: 6292997888545306878
+    second: ACC_Anya
+  - first:
+      213: -4127606608833328373
+    second: ACC_Clown
+  - first:
+      213: -6046427626171967685
+    second: ACC_Gangster
+  - first:
+      213: 8009449001936249847
+    second: ACC_Noel
+  - first:
+      213: 6545626383104460872
+    second: ACC_Witch
+  - first:
+      213: -3154015141017216971
+    second: ACC_BoxyClown
+  - first:
+      213: 3726527820945429528
+    second: ACC_HeadPhone
+  - first:
+      213: -6399948369796737576
+    second: ACC_ScarecrowHuggy
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ACC_Angel
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 246
+        width: 286
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48951, y: -0.34545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4575ec537b0a33e80800000000000000
+      internalID: -8200033787769366700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Anya
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1286
+        width: 303
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8b607ec38355750800000000000000
+      internalID: 6292997888545306878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Axe
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 473
+        width: 216
+        height: 150
+      alignment: 9
+      pivot: {x: -0.0925926, y: 0.166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ef7dc6024b7f80800000000000000
+      internalID: -8107814107165497542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Banana
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 512
+        width: 214
+        height: 242
+      alignment: 9
+      pivot: {x: 0.869159, y: 0.305785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400ddaf8eb7a0de0800000000000000
+      internalID: -1366143296382107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Banbaleena
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 34
+        width: 170
+        height: 160
+      alignment: 9
+      pivot: {x: -0.261905, y: 0.466102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f3aa01718873f30800000000000000
+      internalID: 4555259180753764237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Banban
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 263
+        width: 245
+        height: 203
+      alignment: 9
+      pivot: {x: 0.485714, y: 0.083744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878ba9a22226c28b0800000000000000
+      internalID: -5175653972872349576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_BoxyClown
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 361
+        width: 236
+        height: 110
+      alignment: 9
+      pivot: {x: 0.508475, y: 0.345455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538177f90ffaa34d0800000000000000
+      internalID: -3154015141017216971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_BunzoBunny
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 625
+        width: 141
+        height: 237
+      alignment: 9
+      pivot: {x: 0.510638, y: -0.02954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64a79a7cae46030800000000000000
+      internalID: 3487170154754361081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Carrot
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 756
+        width: 436
+        height: 104
+      alignment: 9
+      pivot: {x: 0.444954, y: 0.509615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76207d7985c86c300800000000000000
+      internalID: 272059139634954855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Cat
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 14
+        width: 213
+        height: 79
+      alignment: 9
+      pivot: {x: 0.502347, y: 0.139241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b0f30caec66ad0800000000000000
+      internalID: -2709250887620971893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Chopper
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1401
+        width: 573
+        height: 242
+      alignment: 9
+      pivot: {x: 0.485, y: 0.043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c598b2464eb120800000000000000
+      internalID: 2431458101205254967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Clown
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 465
+        height: 259
+      alignment: 9
+      pivot: {x: 0.483871, y: 0.019305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4fe388abc7b6c0800000000000000
+      internalID: -4127606608833328373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Crown
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 848
+        width: 308
+        height: 281
+      alignment: 9
+      pivot: {x: 0.495177, y: 0.064057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645769e6849f656f0800000000000000
+      internalID: -696095002893847226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Gangster
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 719
+        width: 283
+        height: 410
+      alignment: 9
+      pivot: {x: 0.498233, y: 0.658537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3759edfb16c61ca0800000000000000
+      internalID: -6046427626171967685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Glass
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 317
+        width: 217
+        height: 42
+      alignment: 9
+      pivot: {x: 0.502304, y: 1.952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37f48c185351330800000000000000
+      internalID: 3680907101972952042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_HeadPhone
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 312
+        height: 231
+      alignment: 9
+      pivot: {x: 0.503563, y: 0.691318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81410152f4947b330800000000000000
+      internalID: 3726527820945429528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Huggy
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1082
+        width: 239
+        height: 202
+      alignment: 9
+      pivot: {x: 0.497908, y: 2.01485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c9710dd912d480800000000000000
+      internalID: -8876003478590601924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Knife
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1317
+        width: 551
+        height: 82
+      alignment: 9
+      pivot: {x: 0.435572, y: 0.512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8347ae06e9200250800000000000000
+      internalID: 5908768779175150477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Maleficent
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1112
+        width: 358
+        height: 531
+      alignment: 9
+      pivot: {x: 0.505587, y: 0.452158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af345a588a2a2f990800000000000000
+      internalID: -7353636396862192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_MsLemon
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 729
+        width: 294
+        height: 117
+      alignment: 9
+      pivot: {x: 0.465986, y: 0.974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a232effe755eb10800000000000000
+      internalID: 2010109496963312272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Naruto
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 406
+        width: 283
+        height: 94
+      alignment: 9
+      pivot: {x: 0.501597, y: 0.343434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c01fd60c1b4290800000000000000
+      internalID: -7905193905080974633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Noel
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 502
+        width: 295
+        height: 252
+      alignment: 9
+      pivot: {x: 0.305085, y: 0.384921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3640f6e67472f60800000000000000
+      internalID: 8009449001936249847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Nose
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 95
+        width: 220
+        height: 172
+      alignment: 9
+      pivot: {x: 0.504545, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe6699b0af10c50800000000000000
+      internalID: 6629855054191324092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_OpilaBird
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1195
+        width: 101
+        height: 119
+      alignment: 9
+      pivot: {x: 0.584158, y: -0.19328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea22566e36bacb00800000000000000
+      internalID: 849691858833648354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Pijama
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1063
+        width: 407
+        height: 252
+      alignment: 9
+      pivot: {x: 0.670762, y: 0.242063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a381df68d049d850800000000000000
+      internalID: 6402219643616986018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Pirate
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1316
+        width: 549
+        height: 327
+      alignment: 9
+      pivot: {x: 0.489982, y: 0.106707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be75e61bf367ad0800000000000000
+      internalID: -2704904494896387247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Pochita
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 110
+        width: 163
+        height: 205
+      alignment: 9
+      pivot: {x: 0.907975, y: 0.26699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51202285ef5b274e0800000000000000
+      internalID: -1985324381712023019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Rabit
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 27
+        width: 239
+        height: 234
+      alignment: 9
+      pivot: {x: 0.468619, y: 0.209402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe74155038a3fdf0800000000000000
+      internalID: -147589437233791301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_RainbowBlue
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 341
+        width: 185
+        height: 169
+      alignment: 9
+      pivot: {x: -0.242647, y: 0.120968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054035add1accd10800000000000000
+      internalID: 2147269095680132359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Satan
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1131
+        width: 502
+        height: 183
+      alignment: 9
+      pivot: {x: 0.505976, y: 0.256831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906dbfe7cd334db0800000000000000
+      internalID: -4808932048171605863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_ScarecrowHuggy
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 269
+        width: 250
+        height: 135
+      alignment: 9
+      pivot: {x: 0.472, y: 2.11852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5dc65bdd0de27a0800000000000000
+      internalID: -6399948369796737576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Screech
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 670
+        width: 418
+        height: 440
+      alignment: 9
+      pivot: {x: 0.291866, y: 0.384091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451449db427229a00800000000000000
+      internalID: 761714325731950932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Shark
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1380
+        width: 284
+        height: 263
+      alignment: 9
+      pivot: {x: 0.489437, y: 0.425856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548c25a4c9695ec0800000000000000
+      internalID: -3577712135663483822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Sheriff
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1040
+        width: 98
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b71749c80e8cc0800000000000000
+      internalID: -3707015782705153985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Straw
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 862
+        width: 410
+        height: 199
+      alignment: 9
+      pivot: {x: 0.523636, y: 0.102273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e0159ad24db5910800000000000000
+      internalID: 1827287366408146533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Timothy
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 196
+        width: 181
+        height: 143
+      alignment: 9
+      pivot: {x: -0.133333, y: 0.238095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4d86f683f245a0800000000000000
+      internalID: -6538395948000915759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Tree
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1109
+        width: 101
+        height: 175
+      alignment: 9
+      pivot: {x: 0.574257, y: -0.15429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717fe32e5bb932e40800000000000000
+      internalID: 5630515164630415127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_TrollFace
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 413
+        width: 254
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375bd119276200870800000000000000
+      internalID: 8646953558054122867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Valak
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 470
+        height: 404
+      alignment: 9
+      pivot: {x: 0.502128, y: 0.792079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ca8220d4a6e6c0800000000000000
+      internalID: -4114419995716697436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_WC
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 107
+        width: 137
+        height: 208
+      alignment: 9
+      pivot: {x: -0.0364963, y: 0.033654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173ba91d1012d1410800000000000000
+      internalID: 1449350946778428273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Wednesday
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 864
+        width: 205
+        height: 216
+      alignment: 9
+      pivot: {x: 0.0529801, y: 0.178344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0837a1a689f8b0800000000000000
+      internalID: -5117911472676533037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_Witch
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 468
+        width: 286
+        height: 259
+      alignment: 9
+      pivot: {x: 0.486014, y: 0.015444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848cd55e38cb6da50800000000000000
+      internalID: 6545626383104460872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ACC_Banana: -1366143296382107570
+      ACC_Pirate: -2704904494896387247
+      ACC_Satan: -4808932048171605863
+      ACC_Noel: 8009449001936249847
+      ACC_Angel: -8200033787769366700
+      ACC_BunzoBunny: 3487170154754361081
+      ACC_Maleficent: -7353636396862192646
+      ACC_Screech: 761714325731950932
+      ACC_Sheriff: -3707015782705153985
+      ACC_Cat: -2709250887620971893
+      ACC_Pijama: 6402219643616986018
+      ACC_Clown: -4127606608833328373
+      ACC_Valak: -4114419995716697436
+      ACC_Chopper: 2431458101205254967
+      ACC_Crown: -696095002893847226
+      ACC_Naruto: -7905193905080974633
+      ACC_Wednesday: -5117911472676533037
+      ACC_HeadPhone: 3726527820945429528
+      ACC_BoxyClown: -3154015141017216971
+      ACC_MsLemon: 2010109496963312272
+      ACC_Knife: 5908768779175150477
+      ACC_OpilaBird: 849691858833648354
+      ACC_Glass: 3680907101972952042
+      ACC_ScarecrowHuggy: -6399948369796737576
+      ACC_Carrot: 272059139634954855
+      ACC_Pochita: -1985324381712023019
+      ACC_Tree: 5630515164630415127
+      ACC_Timothy: -6538395948000915759
+      ACC_WC: 1449350946778428273
+      ACC_Straw: 1827287366408146533
+      ACC_TrollFace: 8646953558054122867
+      ACC_Axe: -8107814107165497542
+      ACC_Witch: 6545626383104460872
+      ACC_Anya: 6292997888545306878
+      ACC_Nose: 6629855054191324092
+      ACC_Banban: -5175653972872349576
+      ACC_Huggy: -8876003478590601924
+      ACC_Banbaleena: 4555259180753764237
+      ACC_RainbowBlue: 2147269095680132359
+      ACC_Rabit: -147589437233791301
+      ACC_Shark: -3577712135663483822
+      ACC_Gangster: -6046427626171967685
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
