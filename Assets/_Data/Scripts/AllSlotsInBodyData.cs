@@ -90,13 +90,13 @@ public class AllSlotsInBodyData : ScriptableObject
     public int countScoreToExp = 10;
    
     private static string path = "Assets/_ConfigAllSlotsData/CSV/AllSlotDatas.csv";
-    private static string pathSpriteHeads = "Assets/_Textures/Character/Head/Heads.png";
+    private static string pathSpriteHeads = "Assets/_Textures/Character/Head/Head.png";
     private static string pathSpriteHeads2 = "Assets/_Textures/Character/Head2/Head2.png";
     private static string pathSpriteHeads3 = "Assets/_Textures/Character/Head3/Head3.png";
     private static string pathSpriteEyes = "Assets/_Textures/Character/Eye/Eye.png";
     private static string pathSpriteMouths = "Assets/_Textures/Character/Mouth/Mouth.png";
     private static string pathSpriteAccs = "Assets/_Textures/Character/Acc/Acc.png";
-    private static string pathSpriteBody = "Assets/_Textures/Character/Body/Body.png";
+    private static string pathSpriteBody = "Assets/_Textures/Character/BodyInMonster/BodyInMonster.png";
 
     //public void WriteCSV()
     //{
@@ -111,6 +111,7 @@ public class AllSlotsInBodyData : ScriptableObject
         mouthSlots.Clear();
         accSlots.Clear();
         bodySlots.Clear();
+
 
         List<Sprite> spritesHeads = AssetDatabase.LoadAllAssetsAtPath(pathSpriteHeads)
             .OfType<Sprite>().ToList();
