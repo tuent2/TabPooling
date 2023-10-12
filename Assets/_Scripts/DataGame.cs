@@ -123,6 +123,12 @@ public class DataGame : MonoBehaviour
     public const string idBodysHide_FBRemote = "idBodysHide_FBRemote";//Chuoi id cần ẩn đi
     public const string isHideBanner_FBRemote = "isHideBanner_FBRemote";//0;1
 
+    public const string newIdDefaultHide_FBRemote = "newIdDefaultHide_FBRemote";//Chuoi id cần ẩn đi
+    public const string newIdHairsHide_FBRemote = "newIdHairsHide_FBRemote";//Chuoi id cần ẩn đi
+    public const string newIdEyesHide_FBRemote = "newIdEyesHide_FBRemote";//Chuoi id cần ẩn đi
+    public const string newIdNewDressHide_FBRemote = "newIdNewDressHide_FBRemote";//Chuoi id cần ẩn đi
+    public const string newIdNewShoeHide_FBRemote = "newIdNewShowHide_FBRemote";//Chuoi id cần ẩn đi
+
     //Test
     //BannerView-Bieu ngu
     public const string bannerViewIdAndroidTest = "ca-app-pub-3940256099942544/6300978111";

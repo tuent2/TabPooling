@@ -7,6 +7,10 @@ tpsheetFileNames:
 - Assets/_Textures/Character/Head2/Head2.tpsheet
 - Assets/_Textures/Character/Head3/Head3.tpsheet
 - Assets/_Textures/Character/Mouth/Mouth.tpsheet
+- Assets/_Textures/Character1/dress/Dress.tpsheet
+- Assets/_Textures/Character1/eyes/Eye.tpsheet
+- Assets/_Textures/Character1/hair/Hair.tpsheet
+- Assets/_Textures/Character1/shoe/Shoe.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
 - Assets/_Textures/Character/Acc/Acc.png
@@ -16,8 +20,16 @@ textureFileNames:
 - Assets/_Textures/Character/Head2/Head2.png
 - Assets/_Textures/Character/Head3/Head3.png
 - Assets/_Textures/Character/Mouth/Mouth.png
+- Assets/_Textures/Character1/dress/Dress.png
+- Assets/_Textures/Character1/eyes/Eye.png
+- Assets/_Textures/Character1/hair/Hair.png
+- Assets/_Textures/Character1/shoe/Shoe.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
+- 
+- 
+- 
+- 
 - 
 - 
 - 

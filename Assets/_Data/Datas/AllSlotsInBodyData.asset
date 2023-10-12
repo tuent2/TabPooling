@@ -2110,7 +2110,7 @@ MonoBehaviour:
     id: 1
     typeOfBody: 0
     indexSort: 1
-    sprite: {fileID: 0}
+    sprite: {fileID: 481636944141491138, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_BanBan
     stateOfSlot: 0
     priceGold: 0
@@ -2118,7 +2118,7 @@ MonoBehaviour:
     id: 2
     typeOfBody: 0
     indexSort: 2
-    sprite: {fileID: 0}
+    sprite: {fileID: 3843548033814785245, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Banbaleena
     stateOfSlot: 0
     priceGold: 0
@@ -2126,7 +2126,7 @@ MonoBehaviour:
     id: 3
     typeOfBody: 0
     indexSort: 3
-    sprite: {fileID: 0}
+    sprite: {fileID: -7647764163869527902, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Jumbo
     stateOfSlot: 1
     priceGold: 0
@@ -2142,7 +2142,7 @@ MonoBehaviour:
     id: 4
     typeOfBody: 0
     indexSort: 5
-    sprite: {fileID: 0}
+    sprite: {fileID: 6360613414434902619, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_StingerFlynn
     stateOfSlot: 1
     priceGold: 0
@@ -2150,7 +2150,7 @@ MonoBehaviour:
     id: 5
     typeOfBody: 0
     indexSort: 6
-    sprite: {fileID: 0}
+    sprite: {fileID: -5306280751927679375, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Sheriff
     stateOfSlot: 0
     priceGold: 0
@@ -2214,7 +2214,7 @@ MonoBehaviour:
     id: 6
     typeOfBody: 0
     indexSort: 14
-    sprite: {fileID: 0}
+    sprite: {fileID: 8475022600498079180, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_OpilaBird
     stateOfSlot: 1
     priceGold: 0
@@ -2222,7 +2222,7 @@ MonoBehaviour:
     id: 7
     typeOfBody: 0
     indexSort: 15
-    sprite: {fileID: 0}
+    sprite: {fileID: 4220309599032071925, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_ChooChoo
     stateOfSlot: 0
     priceGold: 0
@@ -2230,7 +2230,7 @@ MonoBehaviour:
     id: 8
     typeOfBody: 0
     indexSort: 16
-    sprite: {fileID: 0}
+    sprite: {fileID: 1008183200420314992, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Juan
     stateOfSlot: 0
     priceGold: 0
@@ -2238,7 +2238,7 @@ MonoBehaviour:
     id: 9
     typeOfBody: 0
     indexSort: 17
-    sprite: {fileID: 0}
+    sprite: {fileID: -1255102594080735864, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_RainbowBlue
     stateOfSlot: 1
     priceGold: 0
@@ -2246,7 +2246,7 @@ MonoBehaviour:
     id: 10
     typeOfBody: 0
     indexSort: 18
-    sprite: {fileID: 0}
+    sprite: {fileID: 8597275729401239026, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Huggy
     stateOfSlot: 0
     priceGold: 0
@@ -2254,7 +2254,7 @@ MonoBehaviour:
     id: 11
     typeOfBody: 0
     indexSort: 19
-    sprite: {fileID: 0}
+    sprite: {fileID: 8598586057038067369, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_BunzoBunny
     stateOfSlot: 1
     priceGold: 0
@@ -2262,7 +2262,7 @@ MonoBehaviour:
     id: 12
     typeOfBody: 0
     indexSort: 20
-    sprite: {fileID: 0}
+    sprite: {fileID: 2757312647004418008, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Kissy
     stateOfSlot: 0
     priceGold: 0
@@ -2270,7 +2270,7 @@ MonoBehaviour:
     id: 13
     typeOfBody: 0
     indexSort: 21
-    sprite: {fileID: 0}
+    sprite: {fileID: 4408497573773100887, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Mommy
     stateOfSlot: 0
     priceGold: 0
@@ -2278,7 +2278,7 @@ MonoBehaviour:
     id: 14
     typeOfBody: 0
     indexSort: 22
-    sprite: {fileID: 0}
+    sprite: {fileID: -6439033254526183783, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_BoxyBoo
     stateOfSlot: 1
     priceGold: 0
@@ -2286,7 +2286,7 @@ MonoBehaviour:
     id: 15
     typeOfBody: 0
     indexSort: 23
-    sprite: {fileID: 0}
+    sprite: {fileID: -58908910476509494, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_MsLemon
     stateOfSlot: 0
     priceGold: 0
@@ -2294,7 +2294,7 @@ MonoBehaviour:
     id: 16
     typeOfBody: 0
     indexSort: 24
-    sprite: {fileID: 0}
+    sprite: {fileID: -3837820351176478623, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_PugPillar
     stateOfSlot: 1
     priceGold: 0
@@ -2302,7 +2302,7 @@ MonoBehaviour:
     id: 17
     typeOfBody: 0
     indexSort: 25
-    sprite: {fileID: 0}
+    sprite: {fileID: 4958148162796251907, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Seek
     stateOfSlot: 0
     priceGold: 0
@@ -2310,7 +2310,7 @@ MonoBehaviour:
     id: 18
     typeOfBody: 0
     indexSort: 26
-    sprite: {fileID: 0}
+    sprite: {fileID: -6789099507272939716, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Figure
     stateOfSlot: 2
     priceGold: 30
@@ -2318,7 +2318,7 @@ MonoBehaviour:
     id: 19
     typeOfBody: 0
     indexSort: 27
-    sprite: {fileID: 0}
+    sprite: {fileID: -8366223563323260569, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Ambush
     stateOfSlot: 0
     priceGold: 0
@@ -2326,7 +2326,7 @@ MonoBehaviour:
     id: 20
     typeOfBody: 0
     indexSort: 28
-    sprite: {fileID: 0}
+    sprite: {fileID: 3167539145898858216, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Rush
     stateOfSlot: 0
     priceGold: 0
@@ -2334,7 +2334,7 @@ MonoBehaviour:
     id: 21
     typeOfBody: 0
     indexSort: 29
-    sprite: {fileID: 0}
+    sprite: {fileID: -7742078584332078903, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_SlowSeline
     stateOfSlot: 1
     priceGold: 0
@@ -2342,7 +2342,7 @@ MonoBehaviour:
     id: 22
     typeOfBody: 0
     indexSort: 30
-    sprite: {fileID: 0}
+    sprite: {fileID: -832925206987292888, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Poppy
     stateOfSlot: 0
     priceGold: 0
@@ -2358,7 +2358,7 @@ MonoBehaviour:
     id: 24
     typeOfBody: 0
     indexSort: 32
-    sprite: {fileID: 0}
+    sprite: {fileID: 2941699020399625118, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Bomb
     stateOfSlot: 0
     priceGold: 0
@@ -2374,7 +2374,7 @@ MonoBehaviour:
     id: 26
     typeOfBody: 0
     indexSort: 34
-    sprite: {fileID: 0}
+    sprite: {fileID: -7609828004107880877, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Halt
     stateOfSlot: 0
     priceGold: 0
@@ -2382,7 +2382,7 @@ MonoBehaviour:
     id: 27
     typeOfBody: 0
     indexSort: 35
-    sprite: {fileID: 0}
+    sprite: {fileID: 5955700020279912882, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Amanda
     stateOfSlot: 0
     priceGold: 0
@@ -2398,7 +2398,7 @@ MonoBehaviour:
     id: 29
     typeOfBody: 0
     indexSort: 37
-    sprite: {fileID: 0}
+    sprite: {fileID: -8245053576834847181, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Medusa
     stateOfSlot: 2
     priceGold: 30
@@ -2406,7 +2406,7 @@ MonoBehaviour:
     id: 30
     typeOfBody: 0
     indexSort: 38
-    sprite: {fileID: 0}
+    sprite: {fileID: -8089918720196586619, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Frankenstein
     stateOfSlot: 0
     priceGold: 0
@@ -2414,7 +2414,7 @@ MonoBehaviour:
     id: 31
     typeOfBody: 0
     indexSort: 39
-    sprite: {fileID: 0}
+    sprite: {fileID: 3970646351727315565, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Daddy
     stateOfSlot: 0
     priceGold: 0
@@ -2438,7 +2438,7 @@ MonoBehaviour:
     id: 34
     typeOfBody: 0
     indexSort: 42
-    sprite: {fileID: 0}
+    sprite: {fileID: -87336491956292157, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Dracula
     stateOfSlot: 0
     priceGold: 0
@@ -2470,7 +2470,7 @@ MonoBehaviour:
     id: 38
     typeOfBody: 0
     indexSort: 46
-    sprite: {fileID: 0}
+    sprite: {fileID: 8296160560702705069, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_BlackHuggy
     stateOfSlot: 0
     priceGold: 0
@@ -2478,7 +2478,7 @@ MonoBehaviour:
     id: 39
     typeOfBody: 0
     indexSort: 47
-    sprite: {fileID: 0}
+    sprite: {fileID: -2235205482863959612, guid: b94ef20a7fc7e3042b01595412bfc74c, type: 3}
     skinSkeletonDataAsset: HEAD_Gojo
     stateOfSlot: 1
     priceGold: 0
@@ -3730,7 +3730,7 @@ MonoBehaviour:
     id: 1
     typeOfBody: 4
     indexSort: 1
-    sprite: {fileID: 0}
+    sprite: {fileID: -1730083506691835088, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BanBan
     stateOfSlot: 0
     priceGold: 0
@@ -3738,7 +3738,7 @@ MonoBehaviour:
     id: 2
     typeOfBody: 4
     indexSort: 2
-    sprite: {fileID: 0}
+    sprite: {fileID: 8033834924676627777, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Banbaleena
     stateOfSlot: 0
     priceGold: 0
@@ -3746,7 +3746,7 @@ MonoBehaviour:
     id: 59
     typeOfBody: 4
     indexSort: 3
-    sprite: {fileID: 0}
+    sprite: {fileID: 6774355811746104765, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_GrimaceShake
     stateOfSlot: 0
     priceGold: 0
@@ -3754,7 +3754,7 @@ MonoBehaviour:
     id: 55
     typeOfBody: 4
     indexSort: 4
-    sprite: {fileID: 0}
+    sprite: {fileID: 2051302821736864772, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Banana
     stateOfSlot: 1
     priceGold: 0
@@ -3762,7 +3762,7 @@ MonoBehaviour:
     id: 56
     typeOfBody: 4
     indexSort: 5
-    sprite: {fileID: 0}
+    sprite: {fileID: 5312719908461291158, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Peach
     stateOfSlot: 0
     priceGold: 0
@@ -3770,7 +3770,7 @@ MonoBehaviour:
     id: 57
     typeOfBody: 4
     indexSort: 6
-    sprite: {fileID: 0}
+    sprite: {fileID: -139143166016211531, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Apple
     stateOfSlot: 1
     priceGold: 0
@@ -3778,7 +3778,7 @@ MonoBehaviour:
     id: 58
     typeOfBody: 4
     indexSort: 7
-    sprite: {fileID: 0}
+    sprite: {fileID: 7986990823563881443, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_WaterMelon
     stateOfSlot: 1
     priceGold: 0
@@ -3786,7 +3786,7 @@ MonoBehaviour:
     id: 46
     typeOfBody: 4
     indexSort: 8
-    sprite: {fileID: 0}
+    sprite: {fileID: 3820263184372314559, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Toilet
     stateOfSlot: 0
     priceGold: 0
@@ -3794,7 +3794,7 @@ MonoBehaviour:
     id: 47
     typeOfBody: 4
     indexSort: 9
-    sprite: {fileID: 0}
+    sprite: {fileID: 1670552704274289405, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_SpiderToilet
     stateOfSlot: 2
     priceGold: 50
@@ -3802,7 +3802,7 @@ MonoBehaviour:
     id: 48
     typeOfBody: 4
     indexSort: 10
-    sprite: {fileID: 0}
+    sprite: {fileID: -5605279528764162200, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_ArmyToilet
     stateOfSlot: 0
     priceGold: 0
@@ -3810,7 +3810,7 @@ MonoBehaviour:
     id: 49
     typeOfBody: 4
     indexSort: 11
-    sprite: {fileID: 0}
+    sprite: {fileID: 4812229737522033349, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Frog
     stateOfSlot: 2
     priceGold: 50
@@ -3818,7 +3818,7 @@ MonoBehaviour:
     id: 50
     typeOfBody: 4
     indexSort: 12
-    sprite: {fileID: 0}
+    sprite: {fileID: 7084584975686148896, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Doge
     stateOfSlot: 0
     priceGold: 0
@@ -3826,7 +3826,7 @@ MonoBehaviour:
     id: 51
     typeOfBody: 4
     indexSort: 13
-    sprite: {fileID: 0}
+    sprite: {fileID: 1906344802642720503, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BoxyClown
     stateOfSlot: 0
     priceGold: 0
@@ -3834,7 +3834,7 @@ MonoBehaviour:
     id: 52
     typeOfBody: 4
     indexSort: 14
-    sprite: {fileID: 0}
+    sprite: {fileID: -5438948285919085186, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_MommyCandy
     stateOfSlot: 1
     priceGold: 0
@@ -3842,7 +3842,7 @@ MonoBehaviour:
     id: 53
     typeOfBody: 4
     indexSort: 15
-    sprite: {fileID: 0}
+    sprite: {fileID: 1195432921594368460, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_HuggyTree
     stateOfSlot: 0
     priceGold: 0
@@ -3850,7 +3850,7 @@ MonoBehaviour:
     id: 54
     typeOfBody: 4
     indexSort: 16
-    sprite: {fileID: 0}
+    sprite: {fileID: -685594793944149299, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_ScarecrowHuggy
     stateOfSlot: 1
     priceGold: 0
@@ -3858,7 +3858,7 @@ MonoBehaviour:
     id: 13
     typeOfBody: 4
     indexSort: 17
-    sprite: {fileID: 0}
+    sprite: {fileID: -5022446543872384795, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Mommy
     stateOfSlot: 0
     priceGold: 0
@@ -3866,7 +3866,7 @@ MonoBehaviour:
     id: 14
     typeOfBody: 4
     indexSort: 18
-    sprite: {fileID: 0}
+    sprite: {fileID: 5050825232867797021, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BoxyBoo
     stateOfSlot: 0
     priceGold: 0
@@ -3874,7 +3874,7 @@ MonoBehaviour:
     id: 15
     typeOfBody: 4
     indexSort: 19
-    sprite: {fileID: 0}
+    sprite: {fileID: -7521069638912945335, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Poppy
     stateOfSlot: 0
     priceGold: 0
@@ -3882,7 +3882,7 @@ MonoBehaviour:
     id: 16
     typeOfBody: 4
     indexSort: 20
-    sprite: {fileID: 0}
+    sprite: {fileID: -5753344053049164269, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_PugPillar
     stateOfSlot: 0
     priceGold: 0
@@ -3890,7 +3890,7 @@ MonoBehaviour:
     id: 21
     typeOfBody: 4
     indexSort: 21
-    sprite: {fileID: 0}
+    sprite: {fileID: -2311045597347891169, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BlackHuggy
     stateOfSlot: 2
     priceGold: 50
@@ -3898,7 +3898,7 @@ MonoBehaviour:
     id: 22
     typeOfBody: 4
     indexSort: 22
-    sprite: {fileID: 0}
+    sprite: {fileID: -4457551720969229569, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Doll
     stateOfSlot: 0
     priceGold: 0
@@ -3906,7 +3906,7 @@ MonoBehaviour:
     id: 23
     typeOfBody: 4
     indexSort: 23
-    sprite: {fileID: 0}
+    sprite: {fileID: 8228956547152531342, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_IT
     stateOfSlot: 0
     priceGold: 0
@@ -3914,7 +3914,7 @@ MonoBehaviour:
     id: 24
     typeOfBody: 4
     indexSort: 24
-    sprite: {fileID: 0}
+    sprite: {fileID: -8867328593407900425, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Hellboy
     stateOfSlot: 1
     priceGold: 0
@@ -3922,7 +3922,7 @@ MonoBehaviour:
     id: 25
     typeOfBody: 4
     indexSort: 25
-    sprite: {fileID: 0}
+    sprite: {fileID: -6477853982893961415, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Daddy
     stateOfSlot: 1
     priceGold: 0
@@ -3930,7 +3930,7 @@ MonoBehaviour:
     id: 26
     typeOfBody: 4
     indexSort: 26
-    sprite: {fileID: 0}
+    sprite: {fileID: 6759116496066870455, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Amanda
     stateOfSlot: 0
     priceGold: 0
@@ -3938,7 +3938,7 @@ MonoBehaviour:
     id: 27
     typeOfBody: 4
     indexSort: 27
-    sprite: {fileID: 0}
+    sprite: {fileID: 1725926296536038066, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Wednesday
     stateOfSlot: 0
     priceGold: 0
@@ -3946,7 +3946,7 @@ MonoBehaviour:
     id: 28
     typeOfBody: 4
     indexSort: 28
-    sprite: {fileID: 0}
+    sprite: {fileID: -6340514401924882244, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Medusa
     stateOfSlot: 0
     priceGold: 0
@@ -3954,7 +3954,7 @@ MonoBehaviour:
     id: 29
     typeOfBody: 4
     indexSort: 29
-    sprite: {fileID: 0}
+    sprite: {fileID: -1909095285687451011, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Skull
     stateOfSlot: 1
     priceGold: 0
@@ -3962,7 +3962,7 @@ MonoBehaviour:
     id: 30
     typeOfBody: 4
     indexSort: 30
-    sprite: {fileID: 0}
+    sprite: {fileID: 5606214980245413677, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_RainbowGreen
     stateOfSlot: 1
     priceGold: 0
@@ -3970,7 +3970,7 @@ MonoBehaviour:
     id: 31
     typeOfBody: 4
     indexSort: 31
-    sprite: {fileID: 0}
+    sprite: {fileID: -5095177952345933784, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BigFoot
     stateOfSlot: 0
     priceGold: 0
@@ -3978,7 +3978,7 @@ MonoBehaviour:
     id: 32
     typeOfBody: 4
     indexSort: 32
-    sprite: {fileID: 0}
+    sprite: {fileID: 1180067753006577377, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Venom
     stateOfSlot: 0
     priceGold: 0
@@ -3986,7 +3986,7 @@ MonoBehaviour:
     id: 33
     typeOfBody: 4
     indexSort: 33
-    sprite: {fileID: 0}
+    sprite: {fileID: -2945530877732677950, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Dracula
     stateOfSlot: 1
     priceGold: 0
@@ -3994,7 +3994,7 @@ MonoBehaviour:
     id: 34
     typeOfBody: 4
     indexSort: 34
-    sprite: {fileID: 0}
+    sprite: {fileID: -722323040182659941, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Gojo
     stateOfSlot: 1
     priceGold: 0
@@ -4002,7 +4002,7 @@ MonoBehaviour:
     id: 35
     typeOfBody: 4
     indexSort: 35
-    sprite: {fileID: 0}
+    sprite: {fileID: 5023884031949287389, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Mummy
     stateOfSlot: 0
     priceGold: 0
@@ -4010,7 +4010,7 @@ MonoBehaviour:
     id: 36
     typeOfBody: 4
     indexSort: 36
-    sprite: {fileID: 0}
+    sprite: {fileID: 7640286516613524202, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_FigurexBunzo
     stateOfSlot: 0
     priceGold: 0
@@ -4018,7 +4018,7 @@ MonoBehaviour:
     id: 37
     typeOfBody: 4
     indexSort: 37
-    sprite: {fileID: 0}
+    sprite: {fileID: 6915638426052118805, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_DollxHuggy
     stateOfSlot: 1
     priceGold: 0
@@ -4026,7 +4026,7 @@ MonoBehaviour:
     id: 38
     typeOfBody: 4
     indexSort: 38
-    sprite: {fileID: 0}
+    sprite: {fileID: 6603586474216265572, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BlackHuggyxKissy
     stateOfSlot: 0
     priceGold: 0
@@ -4034,7 +4034,7 @@ MonoBehaviour:
     id: 39
     typeOfBody: 4
     indexSort: 39
-    sprite: {fileID: 0}
+    sprite: {fileID: 4657913748127386486, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_DaddyxMommy
     stateOfSlot: 0
     priceGold: 0
@@ -4042,7 +4042,7 @@ MonoBehaviour:
     id: 40
     typeOfBody: 4
     indexSort: 40
-    sprite: {fileID: 0}
+    sprite: {fileID: -351827817379796448, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_JumboxRainbowBlue
     stateOfSlot: 2
     priceGold: 50
@@ -4050,7 +4050,7 @@ MonoBehaviour:
     id: 41
     typeOfBody: 4
     indexSort: 41
-    sprite: {fileID: 0}
+    sprite: {fileID: 7558448394986399584, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BanBanxJuan
     stateOfSlot: 2
     priceGold: 50
@@ -4058,7 +4058,7 @@ MonoBehaviour:
     id: 42
     typeOfBody: 4
     indexSort: 42
-    sprite: {fileID: 0}
+    sprite: {fileID: -6073739244174484161, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_HuggyxBanbaleena
     stateOfSlot: 0
     priceGold: 0
@@ -4066,7 +4066,7 @@ MonoBehaviour:
     id: 43
     typeOfBody: 4
     indexSort: 43
-    sprite: {fileID: 0}
+    sprite: {fileID: 8445629339833829343, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_DollxWednesday
     stateOfSlot: 0
     priceGold: 0
@@ -4074,7 +4074,7 @@ MonoBehaviour:
     id: 44
     typeOfBody: 4
     indexSort: 44
-    sprite: {fileID: 0}
+    sprite: {fileID: -8338365189310423727, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_AmandaxPoppy
     stateOfSlot: 0
     priceGold: 0
@@ -4082,7 +4082,7 @@ MonoBehaviour:
     id: 45
     typeOfBody: 4
     indexSort: 45
-    sprite: {fileID: 0}
+    sprite: {fileID: -7089389186212050017, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BoxyxHuggy
     stateOfSlot: 0
     priceGold: 0
@@ -4090,7 +4090,7 @@ MonoBehaviour:
     id: 8
     typeOfBody: 4
     indexSort: 46
-    sprite: {fileID: 0}
+    sprite: {fileID: -4555389753993699927, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Juan
     stateOfSlot: 1
     priceGold: 0
@@ -4098,7 +4098,7 @@ MonoBehaviour:
     id: 9
     typeOfBody: 4
     indexSort: 47
-    sprite: {fileID: 0}
+    sprite: {fileID: 9173278778993274736, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_RainbowBlue
     stateOfSlot: 1
     priceGold: 0
@@ -4106,7 +4106,7 @@ MonoBehaviour:
     id: 10
     typeOfBody: 4
     indexSort: 48
-    sprite: {fileID: 0}
+    sprite: {fileID: 8382034279492797924, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Huggy
     stateOfSlot: 1
     priceGold: 0
@@ -4114,7 +4114,7 @@ MonoBehaviour:
     id: 11
     typeOfBody: 4
     indexSort: 49
-    sprite: {fileID: 0}
+    sprite: {fileID: -4222630565045811680, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_BunzoBunny
     stateOfSlot: 1
     priceGold: 0
@@ -4122,7 +4122,7 @@ MonoBehaviour:
     id: 12
     typeOfBody: 4
     indexSort: 50
-    sprite: {fileID: 0}
+    sprite: {fileID: 489923787519955114, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Kissy
     stateOfSlot: 1
     priceGold: 0
@@ -4130,7 +4130,7 @@ MonoBehaviour:
     id: 17
     typeOfBody: 4
     indexSort: 51
-    sprite: {fileID: 0}
+    sprite: {fileID: -5076074490791448089, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Seek
     stateOfSlot: 1
     priceGold: 0
@@ -4138,7 +4138,7 @@ MonoBehaviour:
     id: 18
     typeOfBody: 4
     indexSort: 52
-    sprite: {fileID: 0}
+    sprite: {fileID: -31599737480250019, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Figure
     stateOfSlot: 2
     priceGold: 50
@@ -4146,7 +4146,7 @@ MonoBehaviour:
     id: 19
     typeOfBody: 4
     indexSort: 53
-    sprite: {fileID: 0}
+    sprite: {fileID: -9090182314394261549, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_NabNab
     stateOfSlot: 2
     priceGold: 50
@@ -4154,7 +4154,7 @@ MonoBehaviour:
     id: 20
     typeOfBody: 4
     indexSort: 54
-    sprite: {fileID: 0}
+    sprite: {fileID: -63804220680003658, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_SlowSeline
     stateOfSlot: 2
     priceGold: 50
@@ -4162,7 +4162,7 @@ MonoBehaviour:
     id: 4
     typeOfBody: 4
     indexSort: 55
-    sprite: {fileID: 0}
+    sprite: {fileID: -6140594445640234159, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_StingerFlynn
     stateOfSlot: 2
     priceGold: 50
@@ -4170,7 +4170,7 @@ MonoBehaviour:
     id: 5
     typeOfBody: 4
     indexSort: 56
-    sprite: {fileID: 0}
+    sprite: {fileID: -6742078393913639591, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Sheriff
     stateOfSlot: 2
     priceGold: 50
@@ -4178,7 +4178,7 @@ MonoBehaviour:
     id: 6
     typeOfBody: 4
     indexSort: 57
-    sprite: {fileID: 0}
+    sprite: {fileID: 1848922906774910117, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_OpilaBird
     stateOfSlot: 2
     priceGold: 50
@@ -4186,7 +4186,7 @@ MonoBehaviour:
     id: 7
     typeOfBody: 4
     indexSort: 58
-    sprite: {fileID: 0}
+    sprite: {fileID: 5011064898186886066, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_SquidGame
     stateOfSlot: 2
     priceGold: 50
@@ -4194,7 +4194,7 @@ MonoBehaviour:
     id: 3
     typeOfBody: 4
     indexSort: 59
-    sprite: {fileID: 0}
+    sprite: {fileID: 940584654271851540, guid: ee44400c5c0449e4187ba385e56bef7b, type: 3}
     skinSkeletonDataAsset: BODY_Jumbo
     stateOfSlot: 2
     priceGold: 50

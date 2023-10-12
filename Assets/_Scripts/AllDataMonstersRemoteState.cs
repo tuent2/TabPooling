@@ -23,10 +23,12 @@ public class AllDataMonstersRemoteState : MonoBehaviour
         try
         {
             string idPartsHide_FBRemote = PlayerPrefs.GetString(idPartsHide_RemoteConfig, "");
-            //Debug.Log(idPartsHide_FBRemote);
+            //Debug.Log(idPartsHide_FBRemote.ToString()) ;
             string[] idPartsHide = idPartsHide_FBRemote.Split(',');
-            //Debug.Log(idPartsHide);
+            //Debug.Log(idPartsHide.ToString());
             var idPartsHideList = idPartsHide.ToList();
+            //.Log(idPartsHideList.ToString());
+            
             for (int i = 0; i < slotDatasListImport.Count; i++)
             {
                 bool isSlotHided = false;

@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         THIS = this;
-        allDataMonstersRemoteState.HandleDatasAllWithRemoteConfig();
+       allDataMonstersRemoteState.HandleDatasAllWithRemoteConfig();
         GenerateListSlotDataNotOwer();
         GenerateListSlotDataOwer();
     }

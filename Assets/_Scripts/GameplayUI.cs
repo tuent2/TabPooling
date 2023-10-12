@@ -7,7 +7,7 @@ public class GameplayUI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+        UpdateDataItemOfSlot();
     }
 
     // Update is called once per frame

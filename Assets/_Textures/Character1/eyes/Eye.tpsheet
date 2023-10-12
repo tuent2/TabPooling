@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4eec06349f2a67528129ef8aef6693b6:2a9bea72c7686507c24bf86805b34858:c8a5b2a9df3f21cda02e586ac86f4040$
+#
+:format=40300
+:texture=Eye.png
+:size=64x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Eye_1;1;113;52;14; 0.5;0.5; 0;0;0;0; 8;52;0;27;0;27;14;52;14;15;0;0;0;0;14;15;14; 4;1;2;3;0;1;3;5;6;7;4;5;7
+Eye_2;1;51;51;14; 0.5;0.5; 0;0;0;0; 8;51;0;27;0;27;14;51;14;14;0;0;0;0;14;14;14; 4;1;2;3;0;1;3;5;6;7;4;5;7
+Eye_3;1;97;52;14; 0.5;0.5; 0;0;0;0; 8;52;0;25;0;32;14;52;14;15;0;0;0;0;14;15;14; 4;0;2;3;0;1;2;5;6;7;4;5;7
+Eye_4;1;82;52;13; 0.5;0.5; 0;0;0;0; 8;52;0;27;0;27;13;52;13;15;0;0;0;0;13;15;13; 4;1;2;3;0;1;3;5;6;7;4;5;7
+Eye_5;1;67;52;13; 0.5;0.5; 0;0;0;0; 8;52;0;27;0;27;13;52;13;15;0;0;0;0;13;15;13; 4;1;2;3;0;1;3;5;6;7;4;5;7
