@@ -7,7 +7,22 @@ public class NewGameplayUI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        prevButton.onClick.AddListener(() =>
+        {
+            //AudioManager.Instance.PlayOneShot(AudioManager.Instance.audioClipData.tapNextAudioClip);
+            //GameManager.Instance.ShowInterTapEveryWhere();
+           // tapPrevOrCompleteFX.Play();
+           // Vibration.Vibrate(DataGame.numberPowerVibration);
+            PrevSlotOfStep();
+        });
+        nextButton.onClick.AddListener(() =>
+        {
+            //AudioManager.Instance.PlayOneShot(AudioManager.Instance.audioClipData.tapNextAudioClip);
+            //GameManager.Instance.ShowInterTapEveryWhere();
+            //tapNextOrCompleteFX.Play();
+            //Vibration.Vibrate(DataGame.numberPowerVibration);
+            NextSlotOfStep();
+        });
     }
 
     // Update is called once per frame
@@ -202,4 +217,97 @@ public class NewGameplayUI : MonoBehaviour
         newItemOfSlot.gameObject.SetActive(true);
         return newItemOfSlot;
     }
+
+    //public void NextSlotOfStep()
+    //{
+    //    typeOfNewBody++;
+    //    if ((int)typeOfNewBody > (int)TypeOfNewBody.Shoe)
+    //    {
+    //        typeOfNewBody = TypeOfNewBody.Shoe;
+    //    }
+    //    UpdateSlotOfStep();
+    //    GameManager.Instance.characterManager.ResetDirect();
+
+    //    GameManager.Instance.characterManager.ChangeStepEdit(typeOfBody);
+
+    //    completeButton.gameObject.SetActive(typeOfBody == TypeOfBody.Body && GameManager.Instance.characterManager.isSelectedBody);
+    //    nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfBody) && completeButton.gameObject.activeSelf == false);
+    //    if (typeOfBody == TypeOfBody.Head || typeOfBody == TypeOfBody.Body)
+    //    {
+    //        textDragGuideObject.SetActive(false);
+    //    }
+    //    else
+    //    {
+    //        textDragGuideObject.SetActive(true);
+    //    }
+    //    if (typeOfBody == TypeOfBody.Head)
+    //    {
+    //        prevButton.gameObject.SetActive(false);
+    //    }
+    //    else
+    //    {
+    //        prevButton.gameObject.SetActive(true);
+    //    }
+    //}
+    //public void PrevSlotOfStep()
+    //{
+    //    typeOfBody--;
+    //    if ((int)typeOfBody <= (int)TypeOfBody.Head)
+    //    {
+    //        typeOfBody = TypeOfBody.Head;
+    //    }
+    //    UpdateSlotOfStep();
+    //    GameManager.Instance.characterManager.ResetDirect();
+
+    //    GameManager.Instance.characterManager.ChangeStepEdit(typeOfBody);
+
+    //    completeButton.gameObject.SetActive(typeOfBody == TypeOfBody.Body && GameManager.Instance.characterManager.isSelectedBody);
+    //    nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfBody) && completeButton.gameObject.activeSelf == false);
+    //    if (typeOfBody == TypeOfBody.Head || typeOfBody == TypeOfBody.Body)
+    //    {
+    //        textDragGuideObject.SetActive(false);
+    //    }
+    //    else
+    //    {
+    //        textDragGuideObject.SetActive(true);
+    //    }
+    //    if (typeOfBody == TypeOfBody.Head)
+    //    {
+    //        prevButton.gameObject.SetActive(false);
+    //    }
+    //    else
+    //    {
+    //        prevButton.gameObject.SetActive(true);
+    //    }
+
+    //}
+
+    //public void UpdateSlotOfStep()
+    //{
+    //    for (int i = 0; i < slotsOfStep.Count; i++)
+    //    {
+    //        if (i < (int)typeOfBody)
+    //        {
+    //            slotsOfStep[i].SetState(StateSlotOfStep.Done);
+    //        }
+    //        else if (i == (int)typeOfBody)
+    //        {
+    //            slotsOfStep[i].SetState(StateSlotOfStep.Showing);
+    //        }
+    //        else
+    //        {
+    //            slotsOfStep[i].SetState(StateSlotOfStep.Pending);
+    //        }
+    //    }
+    //    UpdateDataItemOfSlot();
+    //}
+
+    //public void UpdateDataItemOfSlot()
+    //{
+    //    if (handleUpdateDataItemOfSlotCoroutine != null)
+    //    {
+    //        StopCoroutine(handleUpdateDataItemOfSlotCoroutine);
+    //    }
+    //    handleUpdateDataItemOfSlotCoroutine = StartCoroutine(IEnumHandleUpdateDataItemOfSlot());
+    //}
 }
