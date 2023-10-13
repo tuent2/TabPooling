@@ -35,10 +35,7 @@ public class NewGameplayUI : MonoBehaviour
     {
         UpdateDataItemOfSlot();
     }
-    public void Test()
-    {
-        UpdateDataItemOfSlot();
-    }
+
 
     [SerializeField] NewItemOfSlot newItemOfSlotPrefab;
     [SerializeField] Sprite noneItemOfSlotSprite;
@@ -50,6 +47,8 @@ public class NewGameplayUI : MonoBehaviour
     List<NewItemOfSlot> newItemOfSlotsCurrent = new List<NewItemOfSlot>();
     Dictionary<TypeOfNewBody, int> stepDictionary = new Dictionary<TypeOfNewBody, int>();
     NewItemOfSlot newItemOfSlotSave;
+
+    //[SerializeField] List<SlotOfStep> slotsOfStep;
     public void UpdateDataItemOfSlot()
     {
         if (handleUpdateDataItemOfSlotCoroutine != null)
@@ -138,7 +137,7 @@ public class NewGameplayUI : MonoBehaviour
             {
                 if (newItemOfSlotSave == null || newSlotDataCallback.id != newItemOfSlotSave.newSlotData.id)
                 {
-                    //GameManager.Instance.characterManager.ResetDirect();
+                   // NewGameManager.THIS.characterManager.ResetDirect();
 
                     if (newItemOfSlotSave)
                         newItemOfSlotSave.UnPickItem();
@@ -218,96 +217,91 @@ public class NewGameplayUI : MonoBehaviour
         return newItemOfSlot;
     }
 
-    //public void NextSlotOfStep()
-    //{
-    //    typeOfNewBody++;
-    //    if ((int)typeOfNewBody > (int)TypeOfNewBody.Shoe)
-    //    {
-    //        typeOfNewBody = TypeOfNewBody.Shoe;
-    //    }
-    //    UpdateSlotOfStep();
-    //    GameManager.Instance.characterManager.ResetDirect();
+    public void NextSlotOfStep()
+    {
+        Debug.Log(typeOfNewBody);
+        typeOfNewBody++;
+        Debug.Log(typeOfNewBody);
+        if ((int)typeOfNewBody > (int)TypeOfNewBody.Shoe)
+        {
+            typeOfNewBody = TypeOfNewBody.Shoe;
+        }
+        UpdateSlotOfStep();
+        //GameManager.Instance.characterManager.ResetDirect();
 
-    //    GameManager.Instance.characterManager.ChangeStepEdit(typeOfBody);
+        NewGameManager.THIS.characterManager.ChangeStepEdit(typeOfNewBody);
 
-    //    completeButton.gameObject.SetActive(typeOfBody == TypeOfBody.Body && GameManager.Instance.characterManager.isSelectedBody);
-    //    nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfBody) && completeButton.gameObject.activeSelf == false);
-    //    if (typeOfBody == TypeOfBody.Head || typeOfBody == TypeOfBody.Body)
-    //    {
-    //        textDragGuideObject.SetActive(false);
-    //    }
-    //    else
-    //    {
-    //        textDragGuideObject.SetActive(true);
-    //    }
-    //    if (typeOfBody == TypeOfBody.Head)
-    //    {
-    //        prevButton.gameObject.SetActive(false);
-    //    }
-    //    else
-    //    {
-    //        prevButton.gameObject.SetActive(true);
-    //    }
-    //}
-    //public void PrevSlotOfStep()
-    //{
-    //    typeOfBody--;
-    //    if ((int)typeOfBody <= (int)TypeOfBody.Head)
-    //    {
-    //        typeOfBody = TypeOfBody.Head;
-    //    }
-    //    UpdateSlotOfStep();
-    //    GameManager.Instance.characterManager.ResetDirect();
+        completeButton.gameObject.SetActive(typeOfNewBody == TypeOfNewBody.Shoe && NewGameManager.THIS.characterManager.isSelectedShoe);
+        nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfNewBody) && completeButton.gameObject.activeSelf == false);
+        if (typeOfNewBody == TypeOfNewBody.Default || typeOfNewBody == TypeOfNewBody.Shoe)
+        {
+           // textDragGuideObject.SetActive(false);
+        }
+        else
+        {
+            //textDragGuideObject.SetActive(true);
+        }
+        if (typeOfNewBody == TypeOfNewBody.Default)
+        {
+            prevButton.gameObject.SetActive(false);
+        }
+        else
+        {
+            prevButton.gameObject.SetActive(true);
+        }
+    }
+    public void PrevSlotOfStep()
+    {
+        typeOfNewBody--;
+        if ((int)typeOfNewBody <= (int)TypeOfNewBody.Default)
+        {
+            typeOfNewBody = TypeOfNewBody.Default;
+        }
+        UpdateSlotOfStep();
+        //GameManager.Instance.characterManager.ResetDirect();
 
-    //    GameManager.Instance.characterManager.ChangeStepEdit(typeOfBody);
+        NewGameManager.THIS.characterManager.ChangeStepEdit(typeOfNewBody);
 
-    //    completeButton.gameObject.SetActive(typeOfBody == TypeOfBody.Body && GameManager.Instance.characterManager.isSelectedBody);
-    //    nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfBody) && completeButton.gameObject.activeSelf == false);
-    //    if (typeOfBody == TypeOfBody.Head || typeOfBody == TypeOfBody.Body)
-    //    {
-    //        textDragGuideObject.SetActive(false);
-    //    }
-    //    else
-    //    {
-    //        textDragGuideObject.SetActive(true);
-    //    }
-    //    if (typeOfBody == TypeOfBody.Head)
-    //    {
-    //        prevButton.gameObject.SetActive(false);
-    //    }
-    //    else
-    //    {
-    //        prevButton.gameObject.SetActive(true);
-    //    }
+        completeButton.gameObject.SetActive(typeOfNewBody == TypeOfNewBody.Shoe && NewGameManager.THIS.characterManager.isSelectedShoe);
+        nextButton.gameObject.SetActive(stepDictionary.ContainsKey(typeOfNewBody) && completeButton.gameObject.activeSelf == false);
+        if (typeOfNewBody == TypeOfNewBody.Default || typeOfNewBody == TypeOfNewBody.Shoe)
+        {
+            //textDragGuideObject.SetActive(false);
+        }
+        else
+        {
+            //textDragGuideObject.SetActive(true);
+        }
+        if (typeOfNewBody == TypeOfNewBody.Default)
+        {
+            prevButton.gameObject.SetActive(false);
+        }
+        else
+        {
+            prevButton.gameObject.SetActive(true);
+        }
 
-    //}
+    }
 
-    //public void UpdateSlotOfStep()
-    //{
-    //    for (int i = 0; i < slotsOfStep.Count; i++)
-    //    {
-    //        if (i < (int)typeOfBody)
-    //        {
-    //            slotsOfStep[i].SetState(StateSlotOfStep.Done);
-    //        }
-    //        else if (i == (int)typeOfBody)
-    //        {
-    //            slotsOfStep[i].SetState(StateSlotOfStep.Showing);
-    //        }
-    //        else
-    //        {
-    //            slotsOfStep[i].SetState(StateSlotOfStep.Pending);
-    //        }
-    //    }
-    //    UpdateDataItemOfSlot();
-    //}
+    public void UpdateSlotOfStep()
+    {
+        //for (int i = 0; i < slotsOfStep.Count; i++)
+        //{
+        //    if (i < (int)typeOfNewBody)
+        //    {
+        //        slotsOfStep[i].SetState(StateSlotOfStep.Done);
+        //    }
+        //    else if (i == (int)typeOfBody)
+        //    {
+        //        slotsOfStep[i].SetState(StateSlotOfStep.Showing);
+        //    }
+        //    else
+        //    {
+        //        slotsOfStep[i].SetState(StateSlotOfStep.Pending);
+        //    }
+        //}
+        UpdateDataItemOfSlot();
+    }
 
-    //public void UpdateDataItemOfSlot()
-    //{
-    //    if (handleUpdateDataItemOfSlotCoroutine != null)
-    //    {
-    //        StopCoroutine(handleUpdateDataItemOfSlotCoroutine);
-    //    }
-    //    handleUpdateDataItemOfSlotCoroutine = StartCoroutine(IEnumHandleUpdateDataItemOfSlot());
-    //}
+   
 }

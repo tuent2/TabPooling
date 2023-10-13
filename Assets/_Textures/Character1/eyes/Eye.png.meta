@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77267714737cff549a5d8d3a3f3d50b9
-      internalID: -162343534
+      spriteID: 338ae6b01811a354588c6962adcfa393
+      internalID: -891571451
       vertices: []
       indices: 
       edges: []
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0bd3abc2e4eb6b46b9428ae001706a3
-      internalID: -1112250550
+      spriteID: 56017cc2f7dabfe41a934c5fb1619f53
+      internalID: -551861216
       vertices: []
       indices: 
       edges: []
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 985cf3d16a6968d42be959dfd036bd31
-      internalID: 608787788
+      spriteID: c233ef1d0340a8b44b1fd9d3d1b9324a
+      internalID: -148416235
       vertices: []
       indices: 
       edges: []
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe2e98536bb1f4445ae014beecf9b72d
-      internalID: -994627990
+      spriteID: 17ff6c97b6f0bc24096bae96914c8e47
+      internalID: -1264708753
       vertices: []
       indices: 
       edges: []
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11e8918e8a905f24ab9c36016c77eb4d
-      internalID: 2123619977
+      spriteID: 2468d934e9de88e489d5a6b18a2faab8
+      internalID: -496562476
       vertices: []
       indices: 
       edges: []
@@ -256,7 +256,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e2d284567728b1b44a093d298bf3ef64
+    spriteID: e290ab9da82885c4e9f4a4a9187a6c50
     internalID: 0
     vertices: []
     indices: 
@@ -264,11 +264,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Eye_1: -162343534
-      Eye_2: -1112250550
-      Eye_3: 608787788
-      Eye_4: -994627990
-      Eye_5: 2123619977
+      Eye_1: -891571451
+      Eye_2: -551861216
+      Eye_3: -148416235
+      Eye_4: -1264708753
+      Eye_5: -496562476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

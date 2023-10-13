@@ -66,7 +66,7 @@ public class NewDataMonstersRemoteState : MonoBehaviour
                 newSlotDatas = defaultSlotsSorted;
                 break;
             case TypeOfNewBody.Hair:
-                newSlotDatas = eyeSlotsSorted;
+                newSlotDatas = hairSlotsSorted;
                 break;
             case TypeOfNewBody.Eye:
                 newSlotDatas = eyeSlotsSorted;

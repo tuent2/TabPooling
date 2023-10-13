@@ -116,13 +116,14 @@ public class NewSlotInBodyData : ScriptableObject
         eyeSlots.Clear();
         dressSlots.Clear();
         shoeSlots.Clear();
-        
 
+        Debug.Log(hairSlots.Count);
         List<Sprite> spritesDefault = AssetDatabase.LoadAllAssetsAtPath(pathSpriteDefault)
             .OfType<Sprite>().ToList();
         List<Sprite> spritesHairs = AssetDatabase.LoadAllAssetsAtPath(pathSpriteHairs)
             .OfType<Sprite>().ToList();
 
+        Debug.Log(spritesHairs.Count);
 
         //List<Sprite> spritesHeads2 = AssetDatabase.LoadAllAssetsAtPath(pathSpriteHeads2)
         //    .OfType<Sprite>().ToList();
@@ -139,7 +140,7 @@ public class NewSlotInBodyData : ScriptableObject
             .OfType<Sprite>().ToList();
 
 
-        
+
 
         string[] allLines = File.ReadAllLines(path);
         bool isTitle = true;
@@ -186,7 +187,7 @@ public class NewSlotInBodyData : ScriptableObject
                     break;
             }
             Sprite spriteFind = null;
-             if (typeOfNewBody == TypeOfNewBody.Default)
+            if (typeOfNewBody == TypeOfNewBody.Default)
             {
                 var nameSlot = splitData[2].ToUpper();
                 spriteFind = spritesDefault.Find(x => x.name.ToUpper() == nameSlot);
@@ -195,7 +196,7 @@ public class NewSlotInBodyData : ScriptableObject
                     Debug.LogError("Miss: " + nameSlot);
                 }
             }
-            else if(typeOfNewBody == TypeOfNewBody.Hair)
+            else if (typeOfNewBody == TypeOfNewBody.Hair)
             {
                 var nameSlot = splitData[2];
                 nameSlot = nameSlot.ToUpper();
@@ -232,7 +233,7 @@ public class NewSlotInBodyData : ScriptableObject
                     Debug.LogError("Miss: " + nameSlot);
                 }
             }
-           
+
 
             newSlotData.sprite = spriteFind;
             switch (typeOfNewBody)

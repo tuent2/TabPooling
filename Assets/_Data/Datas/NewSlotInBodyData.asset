@@ -25,246 +25,78 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 1
     indexSort: 1
-    sprite: {fileID: 1083516763, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -930442434, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_2
     id: 2
     typeOfNewBody: 1
     indexSort: 2
-    sprite: {fileID: 704585636, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -811488305, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_3
     id: 3
     typeOfNewBody: 1
     indexSort: 3
-    sprite: {fileID: -1532846712, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: 1263791064, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: HAIR_4
     id: 4
     typeOfNewBody: 1
     indexSort: 4
-    sprite: {fileID: 1793877411, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -457156353, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: HAIR_5
     id: 5
     typeOfNewBody: 1
     indexSort: 5
-    sprite: {fileID: -1817248251, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: 2055305444, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_6
     id: 6
     typeOfNewBody: 1
     indexSort: 6
-    sprite: {fileID: 1374292500, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -84192989, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_7
-    id: 7
-    typeOfNewBody: 1
-    indexSort: 7
-    sprite: {fileID: 1650401574, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_8
-    id: 8
-    typeOfNewBody: 1
-    indexSort: 8
-    sprite: {fileID: 1986601191, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_9
-    id: 9
-    typeOfNewBody: 1
-    indexSort: 9
-    sprite: {fileID: 2081265301, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_10
-    id: 10
-    typeOfNewBody: 1
-    indexSort: 10
-    sprite: {fileID: -704314722, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_11
-    id: 11
-    typeOfNewBody: 1
-    indexSort: 11
-    sprite: {fileID: -188627480, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_12
-    id: 12
-    typeOfNewBody: 1
-    indexSort: 12
-    sprite: {fileID: -1216024616, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_13
-    id: 13
-    typeOfNewBody: 1
-    indexSort: 13
-    sprite: {fileID: 93760088, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_14
-    id: 14
-    typeOfNewBody: 1
-    indexSort: 14
-    sprite: {fileID: 680894956, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_15
-    id: 15
-    typeOfNewBody: 1
-    indexSort: 15
-    sprite: {fileID: -110141305, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_16
-    id: 16
-    typeOfNewBody: 1
-    indexSort: 16
-    sprite: {fileID: 1948628341, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_17
-    id: 17
-    typeOfNewBody: 1
-    indexSort: 17
-    sprite: {fileID: 2087536529, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_18
-    id: 18
-    typeOfNewBody: 1
-    indexSort: 18
-    sprite: {fileID: -1615296077, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_19
-    id: 19
-    typeOfNewBody: 1
-    indexSort: 19
-    sprite: {fileID: 180746904, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_20
-    id: 20
-    typeOfNewBody: 1
-    indexSort: 20
-    sprite: {fileID: 222769355, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_21
-    id: 21
-    typeOfNewBody: 1
-    indexSort: 21
-    sprite: {fileID: 1871972917, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_22
-    id: 22
-    typeOfNewBody: 1
-    indexSort: 22
-    sprite: {fileID: 354682715, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_23
-    id: 23
-    typeOfNewBody: 1
-    indexSort: 23
-    sprite: {fileID: 338109705, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_24
-    id: 24
-    typeOfNewBody: 1
-    indexSort: 24
-    sprite: {fileID: 1367024547, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_25
-    id: 25
-    typeOfNewBody: 1
-    indexSort: 25
-    sprite: {fileID: -582606598, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_26
-    id: 26
-    typeOfNewBody: 1
-    indexSort: 26
-    sprite: {fileID: -990740325, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_27
-    id: 27
-    typeOfNewBody: 1
-    indexSort: 27
-    sprite: {fileID: 352566518, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_28
-    id: 28
-    typeOfNewBody: 1
-    indexSort: 28
-    sprite: {fileID: -961725536, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_29
-    id: 29
-    typeOfNewBody: 1
-    indexSort: 29
-    sprite: {fileID: 538705498, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_30
-    id: 30
-    typeOfNewBody: 1
-    indexSort: 30
-    sprite: {fileID: -1580616044, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
     priceGold: 0
   eyeSlots:
   - name: EYE_1
     id: 1
     typeOfNewBody: 2
     indexSort: 1
-    sprite: {fileID: -162343534, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -891571451, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_2
     id: 2
     typeOfNewBody: 2
     indexSort: 2
-    sprite: {fileID: -1112250550, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -551861216, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_3
     id: 3
     typeOfNewBody: 2
     indexSort: 3
-    sprite: {fileID: 608787788, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -148416235, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: EYE_4
     id: 4
     typeOfNewBody: 2
     indexSort: 4
-    sprite: {fileID: -994627990, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -1264708753, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_5
     id: 5
     typeOfNewBody: 2
     indexSort: 5
-    sprite: {fileID: 2123619977, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -496562476, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   dressSlots:
@@ -272,42 +104,42 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 3
     indexSort: 1
-    sprite: {fileID: -218602409, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 2104568978, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: DRESS_2
     id: 2
     typeOfNewBody: 3
     indexSort: 2
-    sprite: {fileID: -1028684489, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: -568288155, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 2
     priceGold: 30
   - name: DRESS_3
     id: 3
     typeOfNewBody: 3
     indexSort: 3
-    sprite: {fileID: 707573360, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 442298805, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: DRESS_4
     id: 4
     typeOfNewBody: 3
     indexSort: 4
-    sprite: {fileID: -524236455, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 2047147950, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 2
     priceGold: 30
   - name: DRESS_5
     id: 5
     typeOfNewBody: 3
     indexSort: 5
-    sprite: {fileID: 261050501, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 182223367, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: DRESS_6
     id: 6
     typeOfNewBody: 3
     indexSort: 6
-    sprite: {fileID: 366853681, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 754704614, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   shoeSlots:
@@ -315,42 +147,42 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 4
     indexSort: 1
-    sprite: {fileID: 369732675, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -603649918, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_2
     id: 2
     typeOfNewBody: 4
     indexSort: 2
-    sprite: {fileID: -1228247176, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -1138348696, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_3
     id: 3
     typeOfNewBody: 4
     indexSort: 3
-    sprite: {fileID: 96566843, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 941053885, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: SHOE_4
     id: 4
     typeOfNewBody: 4
     indexSort: 4
-    sprite: {fileID: 100022552, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 1335579321, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_5
     id: 5
     typeOfNewBody: 4
     indexSort: 5
-    sprite: {fileID: -655397664, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 2142100662, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: SHOE_6
     id: 6
     typeOfNewBody: 4
     indexSort: 6
-    sprite: {fileID: -1160884379, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -1918685557, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   defaultSlotsSorted:
@@ -366,246 +198,78 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 1
     indexSort: 1
-    sprite: {fileID: 1083516763, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -930442434, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_2
     id: 2
     typeOfNewBody: 1
     indexSort: 2
-    sprite: {fileID: 704585636, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -811488305, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_3
     id: 3
     typeOfNewBody: 1
     indexSort: 3
-    sprite: {fileID: -1532846712, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: 1263791064, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: HAIR_4
     id: 4
     typeOfNewBody: 1
     indexSort: 4
-    sprite: {fileID: 1793877411, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -457156353, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: HAIR_5
     id: 5
     typeOfNewBody: 1
     indexSort: 5
-    sprite: {fileID: -1817248251, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: 2055305444, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: HAIR_6
     id: 6
     typeOfNewBody: 1
     indexSort: 6
-    sprite: {fileID: 1374292500, guid: bcb283ec857347a449550c866f848438, type: 3}
+    sprite: {fileID: -84192989, guid: bcb283ec857347a449550c866f848438, type: 3}
     stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_7
-    id: 7
-    typeOfNewBody: 1
-    indexSort: 7
-    sprite: {fileID: 1650401574, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_8
-    id: 8
-    typeOfNewBody: 1
-    indexSort: 8
-    sprite: {fileID: 1986601191, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_9
-    id: 9
-    typeOfNewBody: 1
-    indexSort: 9
-    sprite: {fileID: 2081265301, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_10
-    id: 10
-    typeOfNewBody: 1
-    indexSort: 10
-    sprite: {fileID: -704314722, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_11
-    id: 11
-    typeOfNewBody: 1
-    indexSort: 11
-    sprite: {fileID: -188627480, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_12
-    id: 12
-    typeOfNewBody: 1
-    indexSort: 12
-    sprite: {fileID: -1216024616, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_13
-    id: 13
-    typeOfNewBody: 1
-    indexSort: 13
-    sprite: {fileID: 93760088, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_14
-    id: 14
-    typeOfNewBody: 1
-    indexSort: 14
-    sprite: {fileID: 680894956, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_15
-    id: 15
-    typeOfNewBody: 1
-    indexSort: 15
-    sprite: {fileID: -110141305, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_16
-    id: 16
-    typeOfNewBody: 1
-    indexSort: 16
-    sprite: {fileID: 1948628341, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_17
-    id: 17
-    typeOfNewBody: 1
-    indexSort: 17
-    sprite: {fileID: 2087536529, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_18
-    id: 18
-    typeOfNewBody: 1
-    indexSort: 18
-    sprite: {fileID: -1615296077, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_19
-    id: 19
-    typeOfNewBody: 1
-    indexSort: 19
-    sprite: {fileID: 180746904, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_20
-    id: 20
-    typeOfNewBody: 1
-    indexSort: 20
-    sprite: {fileID: 222769355, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_21
-    id: 21
-    typeOfNewBody: 1
-    indexSort: 21
-    sprite: {fileID: 1871972917, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_22
-    id: 22
-    typeOfNewBody: 1
-    indexSort: 22
-    sprite: {fileID: 354682715, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_23
-    id: 23
-    typeOfNewBody: 1
-    indexSort: 23
-    sprite: {fileID: 338109705, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_24
-    id: 24
-    typeOfNewBody: 1
-    indexSort: 24
-    sprite: {fileID: 1367024547, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_25
-    id: 25
-    typeOfNewBody: 1
-    indexSort: 25
-    sprite: {fileID: -582606598, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 1
-    priceGold: 0
-  - name: HAIR_26
-    id: 26
-    typeOfNewBody: 1
-    indexSort: 26
-    sprite: {fileID: -990740325, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_27
-    id: 27
-    typeOfNewBody: 1
-    indexSort: 27
-    sprite: {fileID: 352566518, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
-    priceGold: 0
-  - name: HAIR_28
-    id: 28
-    typeOfNewBody: 1
-    indexSort: 28
-    sprite: {fileID: -961725536, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_29
-    id: 29
-    typeOfNewBody: 1
-    indexSort: 29
-    sprite: {fileID: 538705498, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 2
-    priceGold: 30
-  - name: HAIR_30
-    id: 30
-    typeOfNewBody: 1
-    indexSort: 30
-    sprite: {fileID: -1580616044, guid: bcb283ec857347a449550c866f848438, type: 3}
-    stateOfNewSlot: 0
     priceGold: 0
   eyeSlotsSorted:
   - name: EYE_1
     id: 1
     typeOfNewBody: 2
     indexSort: 1
-    sprite: {fileID: -162343534, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -891571451, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_2
     id: 2
     typeOfNewBody: 2
     indexSort: 2
-    sprite: {fileID: -1112250550, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -551861216, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_3
     id: 3
     typeOfNewBody: 2
     indexSort: 3
-    sprite: {fileID: 608787788, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -148416235, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: EYE_4
     id: 4
     typeOfNewBody: 2
     indexSort: 4
-    sprite: {fileID: -994627990, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -1264708753, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: EYE_5
     id: 5
     typeOfNewBody: 2
     indexSort: 5
-    sprite: {fileID: 2123619977, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
+    sprite: {fileID: -496562476, guid: 37f6c24e84203894db3460e9cd115259, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   dressSlotsSorted:
@@ -613,42 +277,42 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 3
     indexSort: 1
-    sprite: {fileID: -218602409, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 2104568978, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: DRESS_2
     id: 2
     typeOfNewBody: 3
     indexSort: 2
-    sprite: {fileID: -1028684489, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: -568288155, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 2
     priceGold: 30
   - name: DRESS_3
     id: 3
     typeOfNewBody: 3
     indexSort: 3
-    sprite: {fileID: 707573360, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 442298805, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: DRESS_4
     id: 4
     typeOfNewBody: 3
     indexSort: 4
-    sprite: {fileID: -524236455, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 2047147950, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 2
     priceGold: 30
   - name: DRESS_5
     id: 5
     typeOfNewBody: 3
     indexSort: 5
-    sprite: {fileID: 261050501, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 182223367, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: DRESS_6
     id: 6
     typeOfNewBody: 3
     indexSort: 6
-    sprite: {fileID: 366853681, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
+    sprite: {fileID: 754704614, guid: 01c9ac078fdbc02469ed2aa007871cb2, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   shoeSlotsSorted:
@@ -656,42 +320,42 @@ MonoBehaviour:
     id: 1
     typeOfNewBody: 4
     indexSort: 1
-    sprite: {fileID: 369732675, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -603649918, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_2
     id: 2
     typeOfNewBody: 4
     indexSort: 2
-    sprite: {fileID: -1228247176, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -1138348696, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_3
     id: 3
     typeOfNewBody: 4
     indexSort: 3
-    sprite: {fileID: 96566843, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 941053885, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: SHOE_4
     id: 4
     typeOfNewBody: 4
     indexSort: 4
-    sprite: {fileID: 100022552, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 1335579321, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   - name: SHOE_5
     id: 5
     typeOfNewBody: 4
     indexSort: 5
-    sprite: {fileID: -655397664, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: 2142100662, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 1
     priceGold: 0
   - name: SHOE_6
     id: 6
     typeOfNewBody: 4
     indexSort: 6
-    sprite: {fileID: -1160884379, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
+    sprite: {fileID: -1918685557, guid: 490d4effb4384c24c9cbb17ff3acfd8b, type: 3}
     stateOfNewSlot: 0
     priceGold: 0
   countScoreToExp: 10
