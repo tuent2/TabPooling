@@ -10,7 +10,7 @@ public class CharacterManager : MonoBehaviour
     public SpriteRenderer DressSR;
     public SpriteRenderer ShoeSR;
 
-    [ConditionalHide] public Transform objectDrag;
+    [ConditionalHide] public GameObject objectDrag;
     [ConditionalHide] public bool canDragging;
     [ConditionalHide] public bool isSelectedShoe;
     void Start()
@@ -37,7 +37,7 @@ public class CharacterManager : MonoBehaviour
                // DefaultSR.transform.localPosition = Vector2.zero;
                 DefaultSR.transform.parent.localScale = new Vector2(DefaultSR.transform.localScale.x, 0);
                 DefaultSR.transform.parent.DOScaleY(1, .2f);
-                
+                objectDrag = DefaultSR.gameObject;
                 break;
             case TypeOfNewBody.Hair:
                 HairSR.gameObject.SetActive(newSlotData.id != 0);
@@ -47,26 +47,28 @@ public class CharacterManager : MonoBehaviour
                 //HairSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
-                HairSR.transform.parent.localScale = new Vector2(HairSR.transform.parent.localScale.x, 0);
-                HairSR.transform.parent.DOScaleY(1, .2f);
+                HairSR.transform.localScale = new Vector2(HairSR.transform.localScale.x, 0);
+                HairSR.transform.DOScaleY(1, .2f);
+                objectDrag = HairSR.gameObject;
 
                 //objectDrag = eyeSR.transform;
-               // GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
+                // GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
 
                 break;
             case TypeOfNewBody.Eye:
                 EyeSR.gameObject.SetActive(newSlotData.id != 0);
                 EyeSR.sprite = newSlotData.sprite;
+                
                 //EyeSR.transform.localPosition = Vector2.zero;
 
                 //mouthSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
-                EyeSR.transform.parent.localScale = new Vector2(EyeSR.transform.parent.localScale.x, 0);
-                EyeSR.transform.parent.DOScaleY(1, .2f);
-
+                EyeSR.transform.localScale = new Vector2(EyeSR.transform.localScale.x, 0);
+                EyeSR.transform.DOScaleY(1, .2f);
+                objectDrag = EyeSR.gameObject;
                 //objectDrag = mouthSR.transform;
-               // GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
+                // GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
                 break;
             case TypeOfNewBody.Dress:
                 DressSR.gameObject.SetActive(newSlotData.id != 0);
@@ -76,10 +78,10 @@ public class CharacterManager : MonoBehaviour
                 //accSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
-                DressSR.transform.parent.localScale = new Vector2(DressSR.transform.parent.localScale.x, 0);
-                DressSR.transform.parent.DOScaleY(1, .2f);
+                //DressSR.transform.localScale = new Vector2(DressSR.transform.localScale.x, 0);
+                //DressSR.transform.DOScaleY(1, .2f);
 
-                //objectDrag = accSR.transform;
+                objectDrag = DressSR.gameObject;
                 //GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
                 break;
             case TypeOfNewBody.Shoe:
@@ -90,8 +92,8 @@ public class CharacterManager : MonoBehaviour
                 //accSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
-                ShoeSR.transform.parent.localScale = new Vector2(DressSR.transform.parent.localScale.x, 0);
-                ShoeSR.transform.parent.DOScaleY(1, .2f);
+                ShoeSR.transform.localScale = new Vector2(DressSR.transform.localScale.x, 0);
+                ShoeSR.transform.DOScaleY(1, .2f);
                 //bodyMR.enabled = true;
                 //isSelectedBody = true;
                 //if (slotData.skinSkeletonDataAsset == null)
@@ -123,15 +125,15 @@ public class CharacterManager : MonoBehaviour
 
     public void HandleShowSlotOtherEdit()
     {
-        transform.DOScale(new Vector3(1.6f, 1.6f, 1.6f), .2f).SetEase(Ease.Linear);
-        transform.DOMoveY(-8.11f, .2f).SetEase(Ease.Linear);
+        transform.DOScale(new Vector3(3f, 3f, 3f), .2f).SetEase(Ease.Linear);
+        transform.DOMove(new Vector2(3.39f, -17.36f), .2f).SetEase(Ease.Linear);
         //bodyMR.enabled = false;
     }
 
     public void HandleShowBodyEdit()
     {
-        transform.DOScale(new Vector3(.8f, .8f, .8f), .2f).SetEase(Ease.Linear);
-        transform.DOMoveY(-1.48f, .2f).SetEase(Ease.Linear);
+        transform.DOScale(new Vector3(1f, 1f, .1f), .2f).SetEase(Ease.Linear);
+        transform.DOMove(new Vector2(1.132354f, -3.74366f), .2f).SetEase(Ease.Linear);
         //bodyMR.enabled = true;
     }
 
@@ -144,40 +146,40 @@ public class CharacterManager : MonoBehaviour
             case TypeOfNewBody.Default:
                 if (DefaultSR.gameObject.activeSelf && DefaultSR.sprite != null)
                 {
-                    objectDrag = DefaultSR.transform;
+                    objectDrag = DefaultSR.gameObject;
                 }
                 canDragging = false;
-               // HandleShowSlotOtherEdit();
+                HandleShowBodyEdit();
                 break;
             case TypeOfNewBody.Hair:
                 if (HairSR.gameObject.activeSelf && HairSR.sprite != null)
                 {
-                    objectDrag = HairSR.transform;
+                    objectDrag = HairSR.gameObject;
                 }
                 canDragging = true;
-               // HandleShowSlotOtherEdit();
+                HandleShowSlotOtherEdit();
                 break;
-            //case TypeOfNewBody.Mouth:
-            //    if (mouthSR.gameObject.activeSelf && mouthSR.sprite != null)
-            //    {
-            //        objectDrag = mouthSR.transform;
-            //    }
-            //    canDragging = true;
-            //    HandleShowSlotOtherEdit();
-            //    break;
-            //case TypeOfNewBody.Acc:
-            //    if (accSR.gameObject.activeSelf && accSR.sprite != null)
-            //    {
-            //        objectDrag = accSR.transform;
-            //    }
-            //    canDragging = true;
-            //    HandleShowSlotOtherEdit();
-            //    break;
-            //case TypeOfNewBody.Body:
-            //    objectDrag = null;
-            //    canDragging = false;
-            //    HandleShowBodyEdit();
-            //    break;
+            case TypeOfNewBody.Eye:
+                if (EyeSR.gameObject.activeSelf && EyeSR.sprite != null)
+                {
+                    objectDrag = EyeSR.gameObject;
+                }
+                canDragging = true;
+                HandleShowSlotOtherEdit();
+                break;
+            case TypeOfNewBody.Dress:
+                if (DressSR.gameObject.activeSelf && DressSR.sprite != null)
+                {
+                    objectDrag = DressSR.gameObject;
+                }
+                canDragging = true;
+                HandleShowBodyEdit();
+                break;
+            case TypeOfNewBody.Shoe:
+                objectDrag = null;
+                canDragging = false;
+                HandleShowBodyEdit();
+                break;
             default:
                 break;
         }
