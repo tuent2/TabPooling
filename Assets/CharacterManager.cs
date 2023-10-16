@@ -9,10 +9,11 @@ public class CharacterManager : MonoBehaviour
     public SpriteRenderer EyeSR;
     public SpriteRenderer DressSR;
     public SpriteRenderer ShoeSR;
-
+   
     [ConditionalHide] public GameObject objectDrag;
     [ConditionalHide] public bool canDragging;
     [ConditionalHide] public bool isSelectedShoe;
+    
     void Start()
     {
         
@@ -20,7 +21,7 @@ public class CharacterManager : MonoBehaviour
 
     void Update()
     {
-        
+        //Debug.Log(canDragging);
     }
 
     public void StepEdit(NewSlotData newSlotData)
@@ -30,11 +31,12 @@ public class CharacterManager : MonoBehaviour
         {   
             
             case TypeOfNewBody.Default:
-                
+
                 gameObject.SetActive(true);
                 DefaultSR.gameObject.SetActive(newSlotData.id != 0);
                 DefaultSR.sprite = newSlotData.sprite;
-               // DefaultSR.transform.localPosition = Vector2.zero;
+                // DefaultSR.transform.localPosition = Vector2.zero;
+               
                 DefaultSR.transform.parent.localScale = new Vector2(DefaultSR.transform.localScale.x, 0);
                 DefaultSR.transform.parent.DOScaleY(1, .2f);
                 objectDrag = DefaultSR.gameObject;
@@ -50,7 +52,7 @@ public class CharacterManager : MonoBehaviour
                 HairSR.transform.localScale = new Vector2(HairSR.transform.localScale.x, 0);
                 HairSR.transform.DOScaleY(1, .2f);
                 objectDrag = HairSR.gameObject;
-
+                
                 //objectDrag = eyeSR.transform;
                 // GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
 
@@ -58,12 +60,12 @@ public class CharacterManager : MonoBehaviour
             case TypeOfNewBody.Eye:
                 EyeSR.gameObject.SetActive(newSlotData.id != 0);
                 EyeSR.sprite = newSlotData.sprite;
-                
+
                 //EyeSR.transform.localPosition = Vector2.zero;
 
                 //mouthSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
-
+             
                 EyeSR.transform.localScale = new Vector2(EyeSR.transform.localScale.x, 0);
                 EyeSR.transform.DOScaleY(1, .2f);
                 objectDrag = EyeSR.gameObject;
@@ -73,13 +75,13 @@ public class CharacterManager : MonoBehaviour
             case TypeOfNewBody.Dress:
                 DressSR.gameObject.SetActive(newSlotData.id != 0);
                 DressSR.sprite = newSlotData.sprite;
-               // DressSR.transform.localPosition = Vector2.zero;
-
+                // DressSR.transform.localPosition = Vector2.zero;
+               
                 //accSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
-                //DressSR.transform.localScale = new Vector2(DressSR.transform.localScale.x, 0);
-                //DressSR.transform.DOScaleY(1, .2f);
+                DressSR.transform.localScale = new Vector2(DressSR.transform.localScale.x, 0);
+                DressSR.transform.DOScaleY(1, .2f);
 
                 objectDrag = DressSR.gameObject;
                 //GameManager.Instance.gameplayController.UpdatePosObjectFirstSet();
@@ -88,7 +90,7 @@ public class CharacterManager : MonoBehaviour
                 ShoeSR.gameObject.SetActive(newSlotData.id != 0);
                 ShoeSR.sprite = newSlotData.sprite;
                 // DressSR.transform.localPosition = Vector2.zero;
-
+         
                 //accSR.transform.parent.localScale = new Vector3(numberDirection, 1, 1);
                 //numberDirection *= -1;
 
@@ -156,7 +158,7 @@ public class CharacterManager : MonoBehaviour
                 {
                     objectDrag = HairSR.gameObject;
                 }
-                canDragging = true;
+                canDragging = false;
                 HandleShowSlotOtherEdit();
                 break;
             case TypeOfNewBody.Eye:
@@ -164,7 +166,7 @@ public class CharacterManager : MonoBehaviour
                 {
                     objectDrag = EyeSR.gameObject;
                 }
-                canDragging = true;
+                canDragging = false;
                 HandleShowSlotOtherEdit();
                 break;
             case TypeOfNewBody.Dress:
@@ -172,7 +174,7 @@ public class CharacterManager : MonoBehaviour
                 {
                     objectDrag = DressSR.gameObject;
                 }
-                canDragging = true;
+                canDragging = false;
                 HandleShowBodyEdit();
                 break;
             case TypeOfNewBody.Shoe:
@@ -190,4 +192,7 @@ public class CharacterManager : MonoBehaviour
         //}
 
     }
+
+
+   
 }

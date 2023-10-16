@@ -36,12 +36,13 @@ public class NewGameplayUI : MonoBehaviour
         UpdateDataItemOfSlot();
     }
 
-
+    
     [SerializeField] NewItemOfSlot newItemOfSlotPrefab;
     [SerializeField] Sprite noneItemOfSlotSprite;
     [SerializeField] Button nextButton;
     [SerializeField] Button prevButton;
     [SerializeField] Button completeButton;
+    [SerializeField] Button ChangeCollorButton;
     [ConditionalHide] public TypeOfNewBody typeOfNewBody;
     List<NewItemOfSlot> newItemOfSlotsPooling = new List<NewItemOfSlot>();
     List<NewItemOfSlot> newItemOfSlotsCurrent = new List<NewItemOfSlot>();
@@ -95,6 +96,10 @@ public class NewGameplayUI : MonoBehaviour
                     if (nextButton.gameObject.activeSelf == false)
                     {
                         nextButton.gameObject.SetActive(true);
+                    }
+                    if (ChangeCollorButton.gameObject.activeSelf == false)
+                    {
+                        ChangeCollorButton.gameObject.SetActive(true);
                     }
                 }
                 else
@@ -151,6 +156,10 @@ public class NewGameplayUI : MonoBehaviour
                     if (nextButton.gameObject.activeSelf == false)
                     {
                         nextButton.gameObject.SetActive(true);
+                    }
+                    if (ChangeCollorButton.gameObject.activeSelf == false)
+                    {
+                        ChangeCollorButton.gameObject.SetActive(true);
                     }
                 }
                 else
@@ -219,9 +228,9 @@ public class NewGameplayUI : MonoBehaviour
 
     public void NextSlotOfStep()
     {
-        Debug.Log(typeOfNewBody);
+        //Debug.Log(typeOfNewBody);
         typeOfNewBody++;
-        Debug.Log(typeOfNewBody);
+        //Debug.Log(typeOfNewBody);
         if ((int)typeOfNewBody > (int)TypeOfNewBody.Shoe)
         {
             typeOfNewBody = TypeOfNewBody.Shoe;
@@ -249,6 +258,7 @@ public class NewGameplayUI : MonoBehaviour
         {
             prevButton.gameObject.SetActive(true);
         }
+        ChangeCollorButton.gameObject.SetActive(false);
     }
     public void PrevSlotOfStep()
     {
@@ -280,7 +290,7 @@ public class NewGameplayUI : MonoBehaviour
         {
             prevButton.gameObject.SetActive(true);
         }
-
+        //ChangeCollorButton.gameObject.SetActive(false);
     }
 
     public void UpdateSlotOfStep()

@@ -6,6 +6,8 @@ public class NewGameManager : MonoBehaviour
 {
     public static NewGameManager THIS;
 
+    public ChangeColorPanelController changeColorPanelController;
+
     public int coinTotal;
     public CharacterManager characterManager;
 
@@ -59,6 +61,21 @@ public class NewGameManager : MonoBehaviour
             {
                 //SetValueCoin((int)coinTotal);
             });
+    }
+
+
+    public void ClickOpenColorPanel()
+    {
+        if (changeColorPanelController.gameObject.activeSelf == false )
+        {
+            changeColorPanelController.gameObject.SetActive(true);
+            changeColorPanelController.setOpenPanelDefaults(characterManager.objectDrag);
+        }
+        else
+        {
+            changeColorPanelController.gameObject.SetActive(false);
+
+        }
     }
 
     #region NewSlotData

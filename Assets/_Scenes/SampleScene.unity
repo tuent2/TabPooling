@@ -733,6 +733,7 @@ MonoBehaviour:
   EyeSR: {fileID: 264164898}
   DressSR: {fileID: 1866599967}
   ShoeSR: {fileID: 53619359}
+  ChangeColorPanel: {fileID: 0}
   objectDrag: {fileID: 0}
   canDragging: 0
   isSelectedShoe: 0
@@ -2855,6 +2856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a1b2bbb0aec8a64d99b66effdde7c90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  changeColorPanelController: {fileID: 1460805620}
   coinTotal: 100
   characterManager: {fileID: 85518025}
   slotDatasAllItemNotOwer: []
@@ -2891,7 +2893,7 @@ GameObject:
   - component: {fileID: 618271144}
   - component: {fileID: 618271145}
   m_Layer: 5
-  m_Name: Slider (1)
+  m_Name: G
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3199,6 +3201,7 @@ MonoBehaviour:
   nextButton: {fileID: 886790438}
   prevButton: {fileID: 974979000}
   completeButton: {fileID: 1911659206}
+  ChangeCollorButton: {fileID: 1076132010}
   typeOfNewBody: 0
 --- !u!114 &756162531
 MonoBehaviour:
@@ -4651,7 +4654,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1076132009
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4717,10 +4720,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1460805617}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 600675487}
+        m_TargetAssemblyTypeName: NewGameManager, Assembly-CSharp
+        m_MethodName: ClickOpenColorPanel
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -4803,7 +4806,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -34.31, y: -34.11998}
+  m_AnchoredPosition: {x: -34.309998, y: -34.11998}
   m_SizeDelta: {x: 68.62, y: 68.24}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1142679039
@@ -5950,6 +5953,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1460805618}
   - component: {fileID: 1460805619}
+  - component: {fileID: 1460805620}
   m_Layer: 5
   m_Name: ColorDragPanel
   m_TagString: Untagged
@@ -5995,6 +5999,21 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!114 &1460805620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460805617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e6aa25db8ca8347a253923bf6e0c55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rSlider: {fileID: 1559224838}
+  gSlider: {fileID: 618271145}
+  bSlider: {fileID: 1525430615}
 --- !u!1 &1474469242
 GameObject:
   m_ObjectHideFlags: 0
@@ -6082,7 +6101,7 @@ GameObject:
   - component: {fileID: 1525430614}
   - component: {fileID: 1525430615}
   m_Layer: 5
-  m_Name: Slider (2)
+  m_Name: B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6300,7 +6319,7 @@ GameObject:
   - component: {fileID: 1559224837}
   - component: {fileID: 1559224838}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
