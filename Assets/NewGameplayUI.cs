@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 public class NewGameplayUI : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -22,6 +23,42 @@ public class NewGameplayUI : MonoBehaviour
             //tapNextOrCompleteFX.Play();
             //Vibration.Vibrate(DataGame.numberPowerVibration);
             NextSlotOfStep();
+        });
+        completeButton.onClick.AddListener(() =>
+        {
+            // AudioManager.Instance.PlayOneShot(AudioManager.Instance.audioClipData.tapDoneAudioClip);
+            //tapNextOrCompleteFX.Play();
+            //Vibration.Vibrate(DataGame.numberPowerVibration);
+
+
+            TypeOfNewBody typeOfBodyNew = TypeOfNewBody.Default;
+            for (int i = 0; i < stepDictionary.Count; i++)
+            {
+                stepDictionary.TryGetValue(typeOfBodyNew, out int idSlot);
+                if (idSlot == 0)
+                {
+                    //FirebasePushEvent.intance.LogEvent(string.Format(DataGame.fbUSE_NO_USE_Position, typeOfBodyNew.ToString()));
+                }
+                else
+                {
+                    List<NewSlotData> slotDataGettedList = NewGameManager.THIS.newDataMonstersRemoteState.GetSlotDatas(typeOfBodyNew);
+                    var slotData = slotDataGettedList.Find(x => x.id == idSlot);
+
+                    //FirebasePushEvent.intance.LogEvent(string.Format(DataGame.fbUSE_NAMEITEM, slotData.name.ToString()));
+                }
+                NewGameManager.THIS.characterManager.SetDataToSlotPart(typeOfBodyNew, idSlot);
+
+                typeOfBodyNew++;
+            }
+
+
+
+            NewGameManager.THIS.ChangePhaseAlbum();
+
+            //ads
+            //AdsIronSourceMediation.Instance.ShowInterstitial();
+
+            // FirebasePushEvent.intance.LogEvent(string.Format(DataGame.fbDONE_TURN_XXX, GameManager.Instance.turnPlay.ToString("000")));
         });
     }
 
@@ -86,7 +123,7 @@ public class NewGameplayUI : MonoBehaviour
                     //GameManager.Instance.characterManager.ResetDirect();
 
                     if (newItemOfSlotSave)
-                        newItemOfSlotSave.UnPickItem();
+                        newItemOfSlotSave.UnPickItem(); 
                     newItemOfSlotSave = newItemOfSlotNone;
                 }
                 newItemOfSlotNone.PickItem();

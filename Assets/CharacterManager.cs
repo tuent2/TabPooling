@@ -4,6 +4,7 @@ using UnityEngine;
 using DG.Tweening;
 public class CharacterManager : MonoBehaviour
 {
+    public MonsterData monsterData;
     public SpriteRenderer DefaultSR;
     public SpriteRenderer HairSR;
     public SpriteRenderer EyeSR;
@@ -13,6 +14,7 @@ public class CharacterManager : MonoBehaviour
     [ConditionalHide] public GameObject objectDrag;
     [ConditionalHide] public bool canDragging;
     [ConditionalHide] public bool isSelectedShoe;
+
     
     void Start()
     {
@@ -194,5 +196,56 @@ public class CharacterManager : MonoBehaviour
     }
 
 
-   
+    public void SetDataToSlotPart(TypeOfNewBody typeOfNewBody, int id)
+    {
+        BodyPart bodyPart = null;
+        switch (typeOfNewBody)
+        {
+            case TypeOfNewBody.Default:
+                bodyPart = monsterData.defaultBP;
+                break;
+            case TypeOfNewBody.Hair:
+                bodyPart = monsterData.hairBP;
+                break;
+            case TypeOfNewBody.Eye:
+                bodyPart = monsterData.eyeBP;
+                break;
+            case TypeOfNewBody.Dress:
+                bodyPart = monsterData.dressBP;
+                break;
+            case TypeOfNewBody.Shoe:
+                bodyPart = monsterData.shoeBP;
+                break;
+            default:
+                break;
+        }
+        Transform slotPart = GetSlotInBodyByTypeOfBody(typeOfNewBody);
+        bodyPart.SetData(typeOfNewBody, id, slotPart.localPosition, slotPart.localScale.x, slotPart.parent.localScale.x > 0 ? true : false);
+    }
+
+    public Transform GetSlotInBodyByTypeOfBody(TypeOfNewBody typeOfNewBody)
+    {
+        Transform slotInBody = null;
+        switch (typeOfNewBody)
+        {
+            case TypeOfNewBody.Default:
+                slotInBody = DefaultSR.transform;
+                break;
+            case TypeOfNewBody.Hair:
+                slotInBody = HairSR.transform;
+                break;
+            case TypeOfNewBody.Eye:
+                slotInBody = EyeSR.transform;
+                break;
+            case TypeOfNewBody.Dress:
+                slotInBody = DressSR.transform;
+                break;
+            case TypeOfNewBody.Shoe:
+                slotInBody = ShoeSR.transform;
+                break;
+            default:
+                break;
+        }
+        return slotInBody;
+    }
 }

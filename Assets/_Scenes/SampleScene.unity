@@ -728,12 +728,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 721ac4e3e8347d6439e1e591677b0ed3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  monsterData:
+    id: 
+    defaultBP:
+      typeOfNewBody: 0
+      idTypeOfBody: 0
+      posSet: {x: 0, y: 0}
+      scale: 1
+      isDirectRight: 1
+    hairBP:
+      typeOfNewBody: 0
+      idTypeOfBody: 0
+      posSet: {x: 0, y: 0}
+      scale: 1
+      isDirectRight: 1
+    eyeBP:
+      typeOfNewBody: 0
+      idTypeOfBody: 0
+      posSet: {x: 0, y: 0}
+      scale: 1
+      isDirectRight: 1
+    dressBP:
+      typeOfNewBody: 0
+      idTypeOfBody: 0
+      posSet: {x: 0, y: 0}
+      scale: 1
+      isDirectRight: 1
+    shoeBP:
+      typeOfNewBody: 0
+      idTypeOfBody: 0
+      posSet: {x: 0, y: 0}
+      scale: 1
+      isDirectRight: 1
+    scoreMonster: 0
+    isDropedInAlbum: 0
+    posDropedInAlbum: {x: 0, y: 0}
   DefaultSR: {fileID: 970185302}
   HairSR: {fileID: 1971164475}
   EyeSR: {fileID: 264164898}
   DressSR: {fileID: 1866599967}
   ShoeSR: {fileID: 53619359}
-  ChangeColorPanel: {fileID: 0}
   objectDrag: {fileID: 0}
   canDragging: 0
   isSelectedShoe: 0
@@ -2821,7 +2855,7 @@ GameObject:
   - component: {fileID: 600675487}
   - component: {fileID: 600675486}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: NewGameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2857,8 +2891,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   changeColorPanelController: {fileID: 1460805620}
+  newGameplayUI: {fileID: 756162529}
   coinTotal: 100
   characterManager: {fileID: 85518025}
+  albumManager: {fileID: 1735405608}
   slotDatasAllItemNotOwer: []
   newSlotsInBodyData: {fileID: 11400000, guid: f13c17225ac50174c96ccf9e21bf718a, type: 2}
   newDataMonstersRemoteState: {fileID: 600675486}
@@ -2867,6 +2903,7 @@ MonoBehaviour:
   slotDatasEyeItemOwer: []
   slotDatasDressItemOwer: []
   slotDatasShoeItemOwer: []
+  phaseGame: 0
 --- !u!4 &600675488
 Transform:
   m_ObjectHideFlags: 0
@@ -7107,6 +7144,50 @@ MonoBehaviour:
   prevButton: {fileID: 305535330}
   completeButton: {fileID: 1838970476}
   typeOfBody: 0
+--- !u!1 &1735405607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1735405609}
+  - component: {fileID: 1735405608}
+  m_Layer: 0
+  m_Name: AlbumManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1735405608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735405607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a34ccaad7f419143a43dd3bf125c5b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1735405609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735405607}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.63094294, y: -1.5011922, z: 1767.6727}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1757215986
 GameObject:
   m_ObjectHideFlags: 0

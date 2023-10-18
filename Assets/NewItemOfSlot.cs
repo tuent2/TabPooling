@@ -96,7 +96,7 @@ public class NewItemOfSlot : MonoBehaviour
                 if (GameManager.THIS.coinTotal >= newSlotData.priceGold)
                 {
                     //FirebasePushEvent.intance.LogEvent(string.Format(DataGame.fbBUY_NAMEITEM, slotData.name.ToString()));
-                    GameManager.THIS.AddValueCoin(-newSlotData.priceGold);
+                    //NewGameManager.THIS.AddValueCoin(-newSlotData.priceGold);
                     PlayerPrefs.SetInt(nameSave, (int)StateOfSlot.Unlock);
                     PlayerPrefs.Save();
 

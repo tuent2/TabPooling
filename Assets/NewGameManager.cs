@@ -2,15 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
+public enum PhaseGame
+{
+    Home,
+    Edit,
+    Show,
+    Album
+}
 public class NewGameManager : MonoBehaviour
 {
     public static NewGameManager THIS;
 
     public ChangeColorPanelController changeColorPanelController;
-
+    public NewGameplayUI newGameplayUI;
     public int coinTotal;
     public CharacterManager characterManager;
-
+    [ConditionalHide] public AlbumManager albumManager;
     public List<NewSlotData> slotDatasAllItemNotOwer = new List<NewSlotData>();
 
     public NewSlotInBodyData newSlotsInBodyData;
@@ -20,7 +27,9 @@ public class NewGameManager : MonoBehaviour
     public List<NewSlotData> slotDatasEyeItemOwer = new List<NewSlotData>();
     public List<NewSlotData> slotDatasDressItemOwer = new List<NewSlotData>();
     public List<NewSlotData> slotDatasShoeItemOwer = new List<NewSlotData>();
-    // Start is called before the first frame update
+
+    [ConditionalHide] public PhaseGame phaseGame;
+
     private void Awake()
     {
         THIS = this;
@@ -75,6 +84,42 @@ public class NewGameManager : MonoBehaviour
         {
             changeColorPanelController.gameObject.SetActive(false);
 
+        }
+    }
+
+    public void ChangePhaseComplete()
+    {
+        phaseGame = PhaseGame.Show;
+        HandlerPhaseChange();
+    }
+
+    public void ChangePhaseAlbum()
+    {
+        phaseGame = PhaseGame.Album;
+        HandlerPhaseChange();
+    }
+
+    public void HandlerPhaseChange()
+    {
+        switch (phaseGame)
+        {
+            case PhaseGame.Home:
+                break;
+            case PhaseGame.Edit:
+                break;
+            case PhaseGame.Show:
+                break;
+            case PhaseGame.Album:
+                //AudioManager.Instance.PlayMusicFade(completeUI.GetCompleteMusic());
+                //completeUI.Hide();
+                newGameplayUI.gameObject.SetActive(false);
+                //homeUI.Hide();
+                if (albumManager)
+                    albumManager.Show();
+                characterManager.gameObject.SetActive(false);
+                break;
+            default:
+                break;
         }
     }
 
