@@ -4,27 +4,76 @@ using UnityEngine;
 using System;
 using System.IO;
 using System.Text;
+using DG.Tweening;
+using Lean.Common;
+using Lean.Touch;
 public class AlbumManager : MonoBehaviour
 {
+    public GameObject containerObject;
+    public Transform bgAlbumObject;
+
+    List<MonsterData> monsterDataListInAblum = new List<MonsterData>();
+    List<MonsterData> monsterDataListDontInAlbum = new List<MonsterData>();
+    [ConditionalHide] public List<CharacterManager> characterManagerInAlbum = new List<CharacterManager>();
+    Camera cameraMain;
+    private void Start()
+    {
+        for (int i = 0; i < monsterDataListInAblum.Count; i++)
+        {
+            //var character = AddMonster(monsterDataListInAblum[i]);
+            //character.transform.localPosition = monsterDataListInAblum[i].posDropedInAlbum;
+        }
+
+        int countMonsterOnAlbum = characterManagerInAlbum.Count;
+        //GameManager.Instance.albumUI.ShowValueMonsterInAlbum(countMonsterOnAlbum.ToString("00") + "/" + countMonsterOnAlbumMax.ToString("00"));
+
+        UpdateStateAlbum();
+
+
+        if (cameraMain == null)
+        {
+            cameraMain = Camera.main;
+        }
+    }
+
+    public void UpdateStateAlbum()
+    {
+        //HandleMonsterDontInAlbum();
+        //UpdateScoresAlbum();
+        //UpdateCrownCharactersAlbum();
+    }
     
+
+
+
     public void Show()
     {
-        //containerObject.SetActive(true);
-        //if (PlayerPrefs.GetInt(DataGame.isReviewedAlbum, 0) == 0)
-        //{
-        //    ReviewAlbum();
-        //}
-        //else
-        //{
-        //    GameManager.Instance.albumUI.Show();
-        //    SetStateControllInAlbum(true);
-        //}
+        containerObject.SetActive(true);
+        
+        if (PlayerPrefs.GetInt(DataGame.isReviewedAlbum, 0) == 0)
+        {
+            ReviewAlbum();
+        }
+        else
+        {
+            NewGameManager.THIS.albumUI.Show();
+            SetStateControllInAlbum(true);
+        }
+    }
+
+    public void SetStateControllInAlbum(bool isState)
+    {
+        //isStateControllAlbum = isState;
+        //leanTouchObject.SetActive(isState);
+        //pressToSelectObject.SetActive(isState);
+        //leanDragTranslateBG.enabled = isState;
+        //leanPinchScaleBG.enabled = isState;
     }
 
     void ReviewAlbum()
     {
         //GameManager.Instance.ignoreRaycastUI.SetActive(true);
-        //GameManager.Instance.albumManager.SetStateControllInAlbum(false);
+        NewGameManager.THIS.albumManager.SetStateControllInAlbum(false);
 
         //var leanConstrainScale = bgAlbumObject.GetComponent<LeanConstrainScale>();
         //leanConstrainScale.enabled = false;
@@ -36,17 +85,35 @@ public class AlbumManager : MonoBehaviour
         //    .Join(bgAlbumObject.DOLocalMove(new Vector2(0.072f, -5.1f), 1).SetEase(Ease.Linear))
         //    .AppendCallback(() =>
         //    {
-        //        GameManager.Instance.ignoreRaycastUI.SetActive(false);
-        //        GameManager.Instance.albumManager.SetStateControllInAlbum(true);
+        //        //GameManager.Instance.ignoreRaycastUI.SetActive(false);
+        //       // GameManager.Instance.albumManager.SetStateControllInAlbum(true);
 
-        //        leanConstrainScale.enabled = true;
+        //       // leanConstrainScale.enabled = true;
 
         //        PlayerPrefs.SetInt(DataGame.isReviewedAlbum, 1);
         //        PlayerPrefs.Save();
 
-        //        GameManager.Instance.albumUI.Show();
+        //        NewGameManager.THIS.albumUI.Show();
         //    });
+
+
+        PlayerPrefs.SetInt(DataGame.isReviewedAlbum, 1);
+        PlayerPrefs.Save();
+
+        NewGameManager.THIS.albumUI.Show();
     }
+
+    //CharacterManager AddMonster(MonsterData monsterData)
+    //{
+    //    var characterManager = characterManagerPooling.GetObjectInPooling();
+    //    characterManager.HandleShowAlbum(monsterData);
+    //    var textScore = characterManager.GetComponent<TextScoreMonster>();
+    //    textScore.SetData(characterManager.monsterData.scoreMonster);
+    //    textScoreMonsters.Add(textScore);
+    //    textScore.SetState(AlbumUI.isStateScores);
+    //    characterManagerInAlbum.Add(characterManager);
+    //    return characterManager;
+    //}
 }
 
 [Serializable]

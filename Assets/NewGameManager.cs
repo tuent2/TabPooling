@@ -15,6 +15,7 @@ public class NewGameManager : MonoBehaviour
 
     public ChangeColorPanelController changeColorPanelController;
     public NewGameplayUI newGameplayUI;
+    public AlbumUI albumUI;
     public int coinTotal;
     public CharacterManager characterManager;
     [ConditionalHide] public AlbumManager albumManager;
