@@ -15,13 +15,14 @@ public class AlbumManager : MonoBehaviour
     List<MonsterData> monsterDataListInAblum = new List<MonsterData>();
     List<MonsterData> monsterDataListDontInAlbum = new List<MonsterData>();
     [ConditionalHide] public List<CharacterManager> characterManagerInAlbum = new List<CharacterManager>();
+    [SerializeField] CharactersAlbumPooling characterManagerPooling;
     Camera cameraMain;
     private void Start()
     {
         for (int i = 0; i < monsterDataListInAblum.Count; i++)
         {
-            //var character = AddMonster(monsterDataListInAblum[i]);
-            //character.transform.localPosition = monsterDataListInAblum[i].posDropedInAlbum;
+            var character = AddMonster(monsterDataListInAblum[i]);
+            character.transform.localPosition = monsterDataListInAblum[i].posDropedInAlbum;
         }
 
         int countMonsterOnAlbum = characterManagerInAlbum.Count;
@@ -103,17 +104,19 @@ public class AlbumManager : MonoBehaviour
         NewGameManager.THIS.albumUI.Show();
     }
 
-    //CharacterManager AddMonster(MonsterData monsterData)
-    //{
-    //    var characterManager = characterManagerPooling.GetObjectInPooling();
-    //    characterManager.HandleShowAlbum(monsterData);
-    //    var textScore = characterManager.GetComponent<TextScoreMonster>();
-    //    textScore.SetData(characterManager.monsterData.scoreMonster);
-    //    textScoreMonsters.Add(textScore);
-    //    textScore.SetState(AlbumUI.isStateScores);
-    //    characterManagerInAlbum.Add(characterManager);
-    //    return characterManager;
-    //}
+    CharacterManager AddMonster(MonsterData monsterData)
+    {
+        var characterManager = characterManagerPooling.GetObjectInPooling();
+        characterManager.HandleShowAlbum(monsterData);
+        //var textScore = characterManager.GetComponent<TextScoreMonster>();
+        //textScore.SetData(characterManager.monsterData.scoreMonster);
+        //textScoreMonsters.Add(textScore);
+        //textScore.SetState(AlbumUI.isStateScores);
+        characterManagerInAlbum.Add(characterManager);
+        return characterManager;
+    }
+
+
 }
 
 [Serializable]

@@ -248,4 +248,110 @@ public class CharacterManager : MonoBehaviour
         }
         return slotInBody;
     }
+
+
+    public void HandleShowAlbum(MonsterData monsterData)
+    {
+        this.monsterData = monsterData;
+
+        isSelectedShoe = false;
+        //bodyMR.enabled = true;
+        DefaultSR.gameObject.SetActive(true);
+        HairSR.gameObject.SetActive(true);
+        EyeSR.gameObject.SetActive(true);
+        DressSR.gameObject.SetActive(true);
+
+        //numberDirection = 1;
+        //bodySA.Awake();
+        //bodySA.state.SetAnimation(0, "Dance2", true);
+
+        SetDataPartSR(DefaultSR, monsterData.defaultBP);
+        SetDataPartSR(HairSR, monsterData.hairBP);
+        SetDataPartSR(EyeSR, monsterData.eyeBP);
+        SetDataPartSR(DressSR, monsterData.dressBP);
+        SetDataPartSR(ShoeSR, monsterData.shoeBP);
+
+        //SlotData bodySD = NewGameManager.THIS.newDataMonstersRemoteState.GetSlotDataById(monsterData.bodyBP.idTypeOfBody, monsterData.bodyBP.typeOfBody);
+        //if (bodySD.id == 0)//null
+        //{
+        //    bodySD = GameManager.Instance.allDataMonstersRemoteState.bodySlotsSorted.GetRandom();
+        //}
+        //bodySA.skeleton.SetSkin(bodySD.skinSkeletonDataAsset);
+        //bodySA.Skeleton.SetSlotsToSetupPose();
+
+        canDragging = false;
+        objectDrag = null;
+    }
+    #region Album
+    void SetDataPartSR(SpriteRenderer partSR, BodyPart bodyPart)
+    {
+        NewSlotData partSD = NewGameManager.THIS.newDataMonstersRemoteState.GetSlotDataById(bodyPart.idTypeOfBody, bodyPart.typeOfNewBody);
+        //if (partSD.id == 0)//null
+        //{
+        //    switch (bodyPart.typeOfBody)
+        //    {
+        //        case TypeOfBody.Head:
+        //            partSD = GameManager.Instance.allDataMonstersRemoteState.headSlotsSorted.GetRandom();
+        //            break;
+        //        case TypeOfBody.Eye:
+        //            partSD = GameManager.Instance.allDataMonstersRemoteState.eyeSlotsSorted.GetRandom();
+        //            break;
+        //        case TypeOfBody.Mouth:
+        //            partSD = GameManager.Instance.allDataMonstersRemoteState.mouthSlotsSorted.GetRandom();
+        //            break;
+        //        case TypeOfBody.Acc:
+        //            partSD = GameManager.Instance.allDataMonstersRemoteState.accSlotsSorted.GetRandom();
+        //            break;
+        //        case TypeOfBody.Body:
+        //            partSD = GameManager.Instance.allDataMonstersRemoteState.bodySlotsSorted.GetRandom();
+        //            break;
+        //        default:
+        //            break;
+        //    }
+        //}
+        partSR.sprite = partSD.sprite;
+        partSR.transform.localPosition = bodyPart.posSet;
+        partSR.transform.localScale = bodyPart.scale * Vector3.one;
+        partSR.transform.parent.localScale = new Vector3(bodyPart.isDirectRight ? 1 : -1, 1, 1);
+    }
+
+    public void SetStateDraggingInAlbum()
+    {
+        //var trackEntry = bodySA.state.SetAnimation(0, "Dance3", true);
+        //var trackEntry = bodySA.state.SetAnimation(0, "Struggle", true);
+        //trackEntry.TimeScale = 2;
+    }
+    public void SetStateIdleInAlbum()
+    {
+        ////if (GameManager.Instance.albumManager.characterManagerInAblum.Count > 2)
+        ////{
+        ////    GameManager.Instance.albumManager.characterManagerDragging.SetStateIdleInAlbum(GameManager.Instance.albumManager.);
+        ////}
+
+
+        //var trackEntry = bodySA.state.SetAnimation(0, "Dance2", true);
+        //List<CharacterManager> characterManagers = GameManager.Instance.albumManager.characterManagerInAlbum;
+        //float trackTime = 0;
+        //for (int i = 0; i < characterManagers.Count; i++)
+        //{
+        //    if (gameObject.GetInstanceID() != characterManagers[i].gameObject.GetInstanceID())
+        //    {
+        //        trackTime = characterManagers[i].GetTrackTimeAnim();
+        //        break;
+        //    }
+        //}
+        //trackEntry.TrackTime = trackTime;
+    }
+    //public float GetTrackTimeAnim()
+    //{
+    //    var trackEntry = bodySA.state.GetCurrent(0);
+    //    var trackTime = trackEntry.TrackTime;
+    //    return trackTime;
+    //}
+    //public void SetStateIdleInAlbum(float trackTime)
+    //{
+    //    var trackEntry = bodySA.state.SetAnimation(0, "Dance2", true);
+    //    trackEntry.TrackTime = trackTime;
+    //}
+    #endregion
 }
